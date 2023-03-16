@@ -10,5 +10,10 @@
   "obsidian-git",
   "obsidian-style-settings",
   "obsidian-minimal-settings",
-  "calendar"
+  "calendar",
+  "editing-toolbar",
+  "obsidian-outliner",
+  "obsidian-admonition",
+  "obsidian-contextual-typography",
+  "obsidian-excalidraw-plugin"
 ]

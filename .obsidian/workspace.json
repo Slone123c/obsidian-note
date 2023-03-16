@@ -168,10 +168,11 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "14f008fae16cfbe5",
+  "active": "6995b7454402e54f",
   "lastOpenFiles": [
     "操作系统与云原生主题/Cgroup.md",
     "Reading_Annotation/Designing Data-Intensive Applications(Annotation).md",
