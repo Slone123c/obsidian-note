@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "2fc79b7e624436cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1d4758f6d66d696",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ab1d50a3ba7d463",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "操作系统与云原生主题/Namespace.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "27d383992037463f",
+    "type": "split",
+    "children": [
+      {
+        "id": "117fc043cfa2f251",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a73ef327d89c9de8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "5a3d067ddf366994",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "866df682bb8e111e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "c178e7aed82b004f",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "866d5bc450ccd2ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "252bf2d9ee149e9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a8967a84b66fd79",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "操作系统与云原生主题/Namespace.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "1895eb3002b2288f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "操作系统与云原生主题/Namespace.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b92ea795dfbb0dfc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1e572995b5deaa31",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "操作系统与云原生主题/Namespace.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "7ab1d50a3ba7d463",
+  "lastOpenFiles": [
+    "操作系统与云原生主题/Cgroup.md",
+    "未命名.canvas",
+    "未命名 1.canvas",
+    "未命名 2.canvas",
+    "annotation.md",
+    "操作系统与云原生主题/Namespace.md",
+    "操作系统与云原生主题",
+    "templates/题目.md",
+    "Algorithm/leetcode 七周算法特训/W1.数据结构的使用/强化练习/239. 滑动窗口最大值.md",
+    "Reading_Annotation/未命名.md",
+    "Reading_Annotation/Designing Data-Intensive Applications(Annotation).md",
+    "Reading_Annotation/数据密集型应用系统设计Annotation.md",
+    "templates/pdf-name.md",
+    "Reading_Source/代码整洁之道 (Robert C. Martin) (z-lib.org).pdf",
+    "Algorithm/leetcode 七周算法特训/W1.数据结构的使用/强化练习/380. O(1) 时间插入、删除和获取随机元素.md",
+    "Algorithm/leetcode 七周算法特训/W1.数据结构的使用/强化练习/283.移动零.md"
+  ]
+}

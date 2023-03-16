@@ -1,0 +1,107 @@
+{
+  "recentFiles": [
+    {
+      "basename": "Namespace",
+      "path": "操作系统与云原生主题/Namespace.md"
+    },
+    {
+      "basename": "Cgroup",
+      "path": "操作系统与云原生主题/Cgroup.md"
+    },
+    {
+      "basename": "annotation",
+      "path": "annotation.md"
+    },
+    {
+      "basename": "题目",
+      "path": "templates/题目.md"
+    },
+    {
+      "basename": "239. 滑动窗口最大值",
+      "path": "Algorithm/leetcode 七周算法特训/W1.数据结构的使用/强化练习/239. 滑动窗口最大值.md"
+    },
+    {
+      "basename": "Designing Data-Intensive Applications(Annotation)",
+      "path": "Reading_Annotation/Designing Data-Intensive Applications(Annotation).md"
+    },
+    {
+      "basename": "数据密集型应用系统设计Annotation",
+      "path": "Reading_Annotation/数据密集型应用系统设计Annotation.md"
+    },
+    {
+      "basename": "pdf-name",
+      "path": "templates/pdf-name.md"
+    },
+    {
+      "basename": "380. O(1) 时间插入、删除和获取随机元素",
+      "path": "Algorithm/leetcode 七周算法特训/W1.数据结构的使用/强化练习/380. O(1) 时间插入、删除和获取随机元素.md"
+    },
+    {
+      "basename": "283.移动零",
+      "path": "Algorithm/leetcode 七周算法特训/W1.数据结构的使用/强化练习/283.移动零.md"
+    },
+    {
+      "basename": "414.第三大的数",
+      "path": "Algorithm/leetcode 七周算法特训/W1.数据结构的使用/强化练习/414.第三大的数.md"
+    },
+    {
+      "basename": "914.卡牌分组",
+      "path": "Algorithm/leetcode 七周算法特训/W1.数据结构的使用/强化练习/914.卡牌分组.md"
+    },
+    {
+      "basename": "232.用栈实现队列",
+      "path": "Algorithm/leetcode 七周算法特训/W1.数据结构的使用/强化练习/232.用栈实现队列.md"
+    },
+    {
+      "basename": "15.三数之和",
+      "path": "Algorithm/leetcode 七周算法特训/W1.数据结构的使用/强化练习/15.三数之和.md"
+    },
+    {
+      "basename": "1. 实现动态数组",
+      "path": "Algorithm/leetcode 七周算法特训/W1.数据结构的使用/1. 实现动态数组.md"
+    },
+    {
+      "basename": "26.删除有序数组中的重复项",
+      "path": "Algorithm/leetcode 七周算法特训/W1.数据结构的使用/强化练习/26.删除有序数组中的重复项.md"
+    },
+    {
+      "basename": "48.旋转图像",
+      "path": "Algorithm/leetcode 七周算法特训/W1.数据结构的使用/强化练习/48.旋转图像.md"
+    },
+    {
+      "basename": "4. 两数之和",
+      "path": "Algorithm/leetcode 七周算法特训/W1.数据结构的使用/4. 两数之和.md"
+    },
+    {
+      "basename": "3. 设计循环队列",
+      "path": "Algorithm/leetcode 七周算法特训/W1.数据结构的使用/3. 设计循环队列.md"
+    },
+    {
+      "basename": "5. 求数组中每个数第一次出现的位置",
+      "path": "Algorithm/leetcode 七周算法特训/W1.数据结构的使用/5. 求数组中每个数第一次出现的位置.md"
+    },
+    {
+      "basename": "2. 用队列实现栈",
+      "path": "Algorithm/leetcode 七周算法特训/W1.数据结构的使用/2. 用队列实现栈.md"
+    },
+    {
+      "basename": "简介 数据结构的使用",
+      "path": "Algorithm/leetcode 七周算法特训/W1.数据结构的使用/简介 数据结构的使用.md"
+    },
+    {
+      "basename": "rccp-平台手工部署 (5)",
+      "path": "Reading_Source/rccp-平台手工部署 (5).md"
+    },
+    {
+      "basename": "Designing Data-Intensive Applications",
+      "path": "Reading_Source/Designing Data-Intensive Applications.pdf"
+    },
+    {
+      "basename": "数据密集型应用系统设计_Martin Kleppmann_zhelper-search",
+      "path": "Reading_Source/数据密集型应用系统设计_Martin Kleppmann_zhelper-search.pdf"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null,
+  "openType": "tab"
+}
