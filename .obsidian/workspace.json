@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "102ae845074a2f82",
+        "id": "13a479946aea573b",
         "type": "tabs",
         "children": [
           {
-            "id": "feef9498d991d1ee",
+            "id": "8e88db382c52e790",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "操作系统与云原生主题/Cgroup.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统与云原生主题/Cgroup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统与云原生主题/Cgroup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "操作系统与云原生主题/Cgroup.md"
-              }
+              "state": {}
             }
           },
           {
@@ -163,24 +155,45 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "feef9498d991d1ee",
+  "active": "8e88db382c52e790",
   "lastOpenFiles": [
-    "2023-03-16.md",
+    "Reading_Source/rccp-平台手工部署 (5).md",
+    "Reading_Source/Designing Data-Intensive Applications.pdf",
+    "Reading_Source/数据密集型应用系统设计_Martin Kleppmann_zhelper-search.pdf",
     "操作系统与云原生主题/Namespace.md",
     "操作系统与云原生主题/Cgroup.md",
-    "未命名.canvas",
-    "annotation.md",
-    "未命名 1.canvas",
-    "未命名 2.canvas",
     "操作系统与云原生主题",
     "templates/题目.md",
-    "Algorithm/leetcode 七周算法特训/W1.数据结构的使用/强化练习/239. 滑动窗口最大值.md",
-    "Reading_Annotation/未命名.md",
-    "Reading_Annotation/Designing Data-Intensive Applications(Annotation).md",
-    "Reading_Annotation/数据密集型应用系统设计Annotation.md",
     "templates/pdf-name.md",
-    "Reading_Source/代码整洁之道 (Robert C. Martin) (z-lib.org).pdf",
+    "templates",
+    "annotation.md",
+    "Reading_Annotation/数据密集型应用系统设计Annotation.md",
+    "Reading_Annotation/Designing Data-Intensive Applications(Annotation).md",
+    "Reading_Annotation",
+    "Algorithm/leetcode 七周算法特训/W1.数据结构的使用/强化练习/914.卡牌分组.md",
+    "Algorithm/leetcode 七周算法特训/W1.数据结构的使用/强化练习/414.第三大的数.md",
+    "Algorithm/leetcode 七周算法特训/W1.数据结构的使用/强化练习/48.旋转图像.md",
     "Algorithm/leetcode 七周算法特训/W1.数据结构的使用/强化练习/380. O(1) 时间插入、删除和获取随机元素.md",
-    "Algorithm/leetcode 七周算法特训/W1.数据结构的使用/强化练习/283.移动零.md"
+    "Algorithm/leetcode 七周算法特训/W1.数据结构的使用/强化练习/232.用栈实现队列.md",
+    "Algorithm/leetcode 七周算法特训/W1.数据结构的使用/强化练习/283.移动零.md",
+    "Algorithm/leetcode 七周算法特训/W1.数据结构的使用/强化练习/26.删除有序数组中的重复项.md",
+    "Algorithm/leetcode 七周算法特训/W1.数据结构的使用/强化练习/239. 滑动窗口最大值.md",
+    "Algorithm/leetcode 七周算法特训/W1.数据结构的使用/强化练习/15.三数之和.md",
+    "Algorithm/leetcode 七周算法特训/W1.数据结构的使用/简介 数据结构的使用.md",
+    "Algorithm/leetcode 七周算法特训/W1.数据结构的使用/强化练习",
+    "Algorithm/leetcode 七周算法特训/W1.数据结构的使用/5. 求数组中每个数第一次出现的位置.md",
+    "Algorithm/leetcode 七周算法特训/W1.数据结构的使用/4. 两数之和.md",
+    "Algorithm/leetcode 七周算法特训/W1.数据结构的使用/3. 设计循环队列.md",
+    "Algorithm/leetcode 七周算法特训/W1.数据结构的使用/2. 用队列实现栈.md",
+    "Algorithm/leetcode 七周算法特训/W1.数据结构的使用/1. 实现动态数组.md",
+    "Algorithm/leetcode 七周算法特训/W1.数据结构的使用",
+    "Algorithm/leetcode 七周算法特训",
+    "Algorithm",
+    "README.md",
+    "2023-03-16.md",
+    "未命名.canvas",
+    "未命名 1.canvas",
+    "未命名 2.canvas",
+    "Reading_Source/代码整洁之道 (Robert C. Martin) (z-lib.org).pdf"
   ]
 }
