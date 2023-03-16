@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 257.5
   },
   "right": {
     "id": "866d5bc450ccd2ae",
@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.5
+    "width": 238.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
