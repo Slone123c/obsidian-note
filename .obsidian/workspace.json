@@ -73,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 351.5
   },
   "right": {
     "id": "866d5bc450ccd2ae",
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 238.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,13 +146,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a73ef327d89c9de8",
+  "active": "8a8967a84b66fd79",
   "lastOpenFiles": [
     "2023-03-16.md",
-    "操作系统与云原生主题/Namespace.md",
     "未命名.canvas",
-    "annotation.md",
     "操作系统与云原生主题/Cgroup.md",
+    "操作系统与云原生主题/Namespace.md",
+    "annotation.md",
     "未命名 1.canvas",
     "未命名 2.canvas",
     "操作系统与云原生主题",
