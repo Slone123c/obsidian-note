@@ -11,8 +11,12 @@
             "id": "6995b7454402e54f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "操作系统与云原生主题/Cgroup.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "操作系统与云原生主题/Cgroup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "操作系统与云原生主题/Cgroup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "操作系统与云原生主题/Cgroup.md"
+              }
             }
           },
           {
@@ -155,7 +163,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "14f008fae16cfbe5",
+  "active": "6995b7454402e54f",
   "lastOpenFiles": [
     "Reading_Source/数据密集型应用系统设计_Martin Kleppmann_zhelper-search.pdf",
     "Reading_Source/rccp-平台手工部署 (5).md",

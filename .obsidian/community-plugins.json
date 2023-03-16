@@ -5,8 +5,9 @@
   "code-block-copy",
   "dataview",
   "obsidian-mind-map",
-  "obsidian-minimal-settings",
   "recent-files-obsidian",
   "quickadd",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-style-settings",
+  "obsidian-minimal-settings"
 ]
