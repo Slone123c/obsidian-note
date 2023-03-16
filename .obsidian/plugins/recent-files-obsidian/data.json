@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Namespace",
+      "path": "操作系统与云原生主题/Namespace.md"
+    },
+    {
       "basename": "Cgroup",
       "path": "操作系统与云原生主题/Cgroup.md"
+    },
+    {
+      "basename": "Designing Data-Intensive Applications(Annotation)",
+      "path": "Reading_Annotation/Designing Data-Intensive Applications(Annotation).md"
     },
     {
       "basename": "数据密集型应用系统设计_Martin Kleppmann_zhelper-search",
