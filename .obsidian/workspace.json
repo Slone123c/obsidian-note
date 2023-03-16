@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d1d4758f6d66d696",
+        "id": "102ae845074a2f82",
         "type": "tabs",
         "children": [
           {
-            "id": "7ab1d50a3ba7d463",
+            "id": "feef9498d991d1ee",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "操作系统与云原生主题/Cgroup.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "操作系统与云原生主题/Cgroup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "操作系统与云原生主题/Cgroup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,10 +132,21 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "操作系统与云原生主题/Cgroup.md"
+              }
+            }
+          },
+          {
+            "id": "14f008fae16cfbe5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -146,12 +163,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8a8967a84b66fd79",
+  "active": "feef9498d991d1ee",
   "lastOpenFiles": [
     "2023-03-16.md",
-    "未命名.canvas",
-    "操作系统与云原生主题/Cgroup.md",
     "操作系统与云原生主题/Namespace.md",
+    "操作系统与云原生主题/Cgroup.md",
+    "未命名.canvas",
     "annotation.md",
     "未命名 1.canvas",
     "未命名 2.canvas",
