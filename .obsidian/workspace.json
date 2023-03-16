@@ -11,7 +11,7 @@
             "id": "7ab1d50a3ba7d463",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -133,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,14 +147,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7ab1d50a3ba7d463",
+  "active": "a73ef327d89c9de8",
   "lastOpenFiles": [
-    "操作系统与云原生主题/Cgroup.md",
+    "2023-03-16.md",
     "操作系统与云原生主题/Namespace.md",
     "未命名.canvas",
+    "annotation.md",
+    "操作系统与云原生主题/Cgroup.md",
     "未命名 1.canvas",
     "未命名 2.canvas",
-    "annotation.md",
     "操作系统与云原生主题",
     "templates/题目.md",
     "Algorithm/leetcode 七周算法特训/W1.数据结构的使用/强化练习/239. 滑动窗口最大值.md",
