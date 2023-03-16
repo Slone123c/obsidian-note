@@ -144,14 +144,21 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "bb5dfc6b3b99b30c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 238.5,
-    "collapsed": true
+    "width": 314.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,7 +171,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6995b7454402e54f",
+  "active": "14f008fae16cfbe5",
   "lastOpenFiles": [
     "操作系统与云原生主题/Cgroup.md",
     "Reading_Annotation/Designing Data-Intensive Applications(Annotation).md",
