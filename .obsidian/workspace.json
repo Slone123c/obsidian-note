@@ -11,8 +11,12 @@
             "id": "a803267c2cd47328",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Algorithm Practice/leetcode 七周算法特训/动态规划（一）/强化练习/选修题/剑指 Offer 60. n个骰子的点数.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Algorithm Practice/leetcode 七周算法特训/动态规划（一）/强化练习/选修题/剑指 Offer 60. n个骰子的点数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Algorithm Practice/leetcode 七周算法特训/动态规划（一）/强化练习/选修题/剑指 Offer 60. n个骰子的点数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Algorithm Practice/leetcode 七周算法特训/动态规划（一）/强化练习/选修题/剑指 Offer 60. n个骰子的点数.md"
+              }
             }
           },
           {
@@ -145,12 +153,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 314.5,
-    "collapsed": true
+    "width": 314.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,8 +172,17 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "a73ef327d89c9de8",
+  "active": "14f008fae16cfbe5",
   "lastOpenFiles": [
+    "Algorithm Practice/leetcode 七周算法特训/W1.数据结构的使用/3. 设计循环队列.md",
+    "Algorithm Practice/leetcode 七周算法特训/动态规划（一）/强化练习/选修题/剑指 Offer 60. n个骰子的点数.md",
+    "Algorithm Practice/leetcode 七周算法特训/W1.数据结构的使用/1. 实现动态数组.md",
+    "Algorithm Practice/leetcode 七周算法特训/W1.数据结构的使用/2. 用队列实现栈.md",
+    "Algorithm Practice/leetcode 七周算法特训/W1.数据结构的使用/4. 两数之和.md",
+    "Algorithm Practice/leetcode 七周算法特训/动态规划（一）/未命名.md",
+    "Algorithm Practice/leetcode 七周算法特训/动态规划（一）/强化练习/选修题",
+    "Algorithm Practice/leetcode 七周算法特训/动态规划（一）/强化练习",
+    "Algorithm Practice/leetcode 七周算法特训/动态规划（一）",
     "table.md",
     "操作系统与云原生主题/Namespace.md",
     "操作系统与云原生主题/Cgroup.md",
@@ -192,18 +209,9 @@
     "Algorithm Practice/leetcode 七周算法特训/W1.数据结构的使用/简介 数据结构的使用.md",
     "Algorithm Practice/leetcode 七周算法特训/W1.数据结构的使用/强化练习",
     "Algorithm Practice/leetcode 七周算法特训/W1.数据结构的使用/5. 求数组中每个数第一次出现的位置.md",
-    "Algorithm Practice/leetcode 七周算法特训/W1.数据结构的使用/4. 两数之和.md",
-    "Algorithm Practice/leetcode 七周算法特训/W1.数据结构的使用/3. 设计循环队列.md",
-    "Algorithm Practice/leetcode 七周算法特训/W1.数据结构的使用/2. 用队列实现栈.md",
-    "Algorithm Practice/leetcode 七周算法特训/W1.数据结构的使用/1. 实现动态数组.md",
     "Algorithm Practice/leetcode 七周算法特训/W1.数据结构的使用",
-    "Algorithm Practice/leetcode 七周算法特训",
-    "Algorithm Practice",
-    "README.md",
-    "2023-03-16.md",
     "未命名.canvas",
     "未命名 1.canvas",
-    "未命名 2.canvas",
-    "Reading_Source/代码整洁之道 (Robert C. Martin) (z-lib.org).pdf"
+    "未命名 2.canvas"
   ]
 }
