@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e95124a058735618",
+        "id": "8233b7a643be2bde",
         "type": "tabs",
         "children": [
           {
-            "id": "b6b9fe52587da362",
+            "id": "f7281e2160a621c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统与云原生主题/进程.md",
+                "file": "外汇/4.11.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5,
-    "collapsed": true
+    "width": 257.5
   },
   "right": {
     "id": "866d5bc450ccd2ae",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统与云原生主题/进程.md",
+                "file": "外汇/4.11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统与云原生主题/进程.md",
+                "file": "外汇/4.11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统与云原生主题/进程.md"
+                "file": "外汇/4.11.md"
               }
             }
           },
@@ -173,11 +172,14 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "b6b9fe52587da362",
+  "active": "f7281e2160a621c1",
   "lastOpenFiles": [
+    "Reading_Annotation/Designing Data-Intensive Applications(Annotation).md",
+    "外汇/4.11.md",
+    "外汇",
+    "操作系统与云原生主题/进程.md",
     "Pasted image 20230411174302.png",
     "Algorithm Practice/leetcode 七周算法特训/动态规划（一）/强化练习/选修题/剑指 Offer 60. n个骰子的点数.md",
-    "操作系统与云原生主题/进程.md",
     "Algorithm Practice/leetcode 七周算法特训/W1.数据结构的使用/3. 设计循环队列.md",
     "Algorithm Practice/leetcode 七周算法特训/W1.数据结构的使用/1. 实现动态数组.md",
     "Algorithm Practice/leetcode 七周算法特训/W1.数据结构的使用/2. 用队列实现栈.md",
@@ -191,7 +193,6 @@
     "操作系统与云原生主题/Cgroup.md",
     "Algorithm Practice/leetcode 七周算法特训/W1.数据结构的使用/强化练习/239. 滑动窗口最大值.md",
     "Algorithm Practice/leetcode 七周算法特训/W1.数据结构的使用/强化练习/15.三数之和.md",
-    "Reading_Annotation/Designing Data-Intensive Applications(Annotation).md",
     "Reading_Source/数据密集型应用系统设计_Martin Kleppmann_zhelper-search.pdf",
     "Reading_Source/rccp-平台手工部署 (5).md",
     "Reading_Source/Designing Data-Intensive Applications.pdf",
@@ -210,7 +211,6 @@
     "Algorithm Practice/leetcode 七周算法特训/W1.数据结构的使用/强化练习/283.移动零.md",
     "Algorithm Practice/leetcode 七周算法特训/W1.数据结构的使用/强化练习/26.删除有序数组中的重复项.md",
     "Algorithm Practice/leetcode 七周算法特训/W1.数据结构的使用/强化练习",
-    "Algorithm Practice/leetcode 七周算法特训/W1.数据结构的使用",
     "未命名.canvas",
     "未命名 1.canvas",
     "未命名 2.canvas"
