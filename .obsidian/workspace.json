@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "44a9ec02924b4dc2",
+        "id": "452ec85d67640632",
         "type": "tabs",
         "children": [
           {
-            "id": "0a503da598c5d6a0",
+            "id": "0e61ce08c1d220df",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "实习经历描述.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "实习经历描述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "实习经历描述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "实习经历描述.md"
+              }
             }
           },
           {
@@ -164,8 +172,9 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "0a503da598c5d6a0",
+  "active": "0e61ce08c1d220df",
   "lastOpenFiles": [
+    "实习经历描述.md",
     "Pasted image 20230411174302.png",
     "外汇/4.11.md",
     "Reading_Annotation/Designing Data-Intensive Applications(Annotation).md",
