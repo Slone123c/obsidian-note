@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8233b7a643be2bde",
+        "id": "44a9ec02924b4dc2",
         "type": "tabs",
         "children": [
           {
-            "id": "f7281e2160a621c1",
+            "id": "0a503da598c5d6a0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "外汇/4.11.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "外汇/4.11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "外汇/4.11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "外汇/4.11.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,13 +164,13 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "f7281e2160a621c1",
+  "active": "0a503da598c5d6a0",
   "lastOpenFiles": [
-    "Reading_Annotation/Designing Data-Intensive Applications(Annotation).md",
+    "Pasted image 20230411174302.png",
     "外汇/4.11.md",
+    "Reading_Annotation/Designing Data-Intensive Applications(Annotation).md",
     "外汇",
     "操作系统与云原生主题/进程.md",
-    "Pasted image 20230411174302.png",
     "Algorithm Practice/leetcode 七周算法特训/动态规划（一）/强化练习/选修题/剑指 Offer 60. n个骰子的点数.md",
     "Algorithm Practice/leetcode 七周算法特训/W1.数据结构的使用/3. 设计循环队列.md",
     "Algorithm Practice/leetcode 七周算法特训/W1.数据结构的使用/1. 实现动态数组.md",
@@ -209,7 +201,6 @@
     "Algorithm Practice/leetcode 七周算法特训/W1.数据结构的使用/强化练习/380. O(1) 时间插入、删除和获取随机元素.md",
     "Algorithm Practice/leetcode 七周算法特训/W1.数据结构的使用/强化练习/232.用栈实现队列.md",
     "Algorithm Practice/leetcode 七周算法特训/W1.数据结构的使用/强化练习/283.移动零.md",
-    "Algorithm Practice/leetcode 七周算法特训/W1.数据结构的使用/强化练习/26.删除有序数组中的重复项.md",
     "Algorithm Practice/leetcode 七周算法特训/W1.数据结构的使用/强化练习",
     "未命名.canvas",
     "未命名 1.canvas",
