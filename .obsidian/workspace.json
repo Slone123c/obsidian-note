@@ -18,17 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5bc30bb57d8fcb55",
-            "type": "leaf",
-            "state": {
-              "type": "memos_view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,7 +174,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "5bc30bb57d8fcb55",
+  "active": "9ca1a497a4a2bc1d",
   "lastOpenFiles": [
     "操作系统与云原生主题/OSTEP/Limited Direct Execution 限制直接执行.md",
     "操作系统与云原生主题/OSTEP/进程.md",
