@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "实习经历描述",
+      "path": "实习经历描述.md"
+    },
+    {
       "basename": "进程API程序调用",
       "path": "操作系统与云原生主题/OSTEP/进程API程序调用.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "Drawing 2023-04-20 15.19.47.excalidraw",
       "path": "Excalidraw/Drawing 2023-04-20 15.19.47.excalidraw.md"
-    },
-    {
-      "basename": "实习经历描述",
-      "path": "实习经历描述.md"
     },
     {
       "basename": "Cgroup",
