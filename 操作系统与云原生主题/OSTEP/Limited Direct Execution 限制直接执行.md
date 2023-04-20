@@ -16,4 +16,5 @@ However, running a program in kernel mode also introduces potential security ris
 ### trap instruction
 Using trap instrction to jump to the kernel mode to execute program.
 ### trap table
+The trap table is a data structure used by the operating system to store information about exception and interrupt handlers.
 
