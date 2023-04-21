@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "外汇/4.21.md",
+                "file": "Forex/4.21.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "外汇/4.21.md",
+                "file": "Forex/4.21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "外汇/4.21.md",
+                "file": "Forex/4.21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "外汇/4.21.md"
+                "file": "Forex/4.21.md"
               }
             }
           },
@@ -187,10 +187,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "1b234039dd1d05a6",
+  "active": "a73ef327d89c9de8",
   "lastOpenFiles": [
     "实习经历描述.md",
-    "外汇/4.21.md",
+    "Forex/4.21.md",
     "操作系统与云原生主题/OSTEP/进程API程序调用.md",
     "操作系统与云原生主题/OSTEP/Limited Direct Execution 限制直接执行.md",
     "操作系统与云原生主题/OSTEP/进程.md",
@@ -206,9 +206,9 @@
     "Memos",
     "2023-04-20.md",
     "操作系统与云原生主题/Cgroup.md",
-    "外汇/4.11.md",
+    "Forex/4.11.md",
     "Reading_Annotation/Designing Data-Intensive Applications(Annotation).md",
-    "外汇",
+    "Forex",
     "Algorithm Practice/leetcode 七周算法特训/动态规划（一）/强化练习/选修题/剑指 Offer 60. n个骰子的点数.md",
     "Algorithm Practice/leetcode 七周算法特训/W1.数据结构的使用/3. 设计循环队列.md",
     "Algorithm Practice/leetcode 七周算法特训/W1.数据结构的使用/1. 实现动态数组.md",
