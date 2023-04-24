@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统与云原生主题/OSTEP/Ch6.Limited Direct Execution 限制直接执行.md",
+                "file": "Forex/4.21.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统与云原生主题/OSTEP/Ch6.Limited Direct Execution 限制直接执行.md",
+                "file": "Forex/4.21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统与云原生主题/OSTEP/Ch6.Limited Direct Execution 限制直接执行.md",
+                "file": "Forex/4.21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统与云原生主题/OSTEP/Ch6.Limited Direct Execution 限制直接执行.md"
+                "file": "Forex/4.21.md"
               }
             }
           },
@@ -189,11 +189,11 @@
   },
   "active": "1b234039dd1d05a6",
   "lastOpenFiles": [
+    "操作系统与云原生主题/OSTEP/Ch6.Limited Direct Execution 限制直接执行.md",
     "操作系统与云原生主题/OSTEP/进程API程序调用.md",
     "Forex/4.21.md",
     "演讲稿.md",
     "实习经历描述.md",
-    "操作系统与云原生主题/OSTEP/Ch6.Limited Direct Execution 限制直接执行.md",
     "操作系统与云原生主题/OSTEP/进程.md",
     "操作系统与云原生主题/OSTEP",
     "annotation.md",
