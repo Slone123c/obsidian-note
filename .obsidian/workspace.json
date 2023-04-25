@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "d1f2810260d6ab4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System Design Interview/未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "794d7bd60bf9d8e0",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Forex/4.25.md",
+                "file": "System Design Interview/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Forex/4.25.md",
+                "file": "System Design Interview/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Forex/4.25.md"
+                "file": "System Design Interview/未命名.md"
               }
             }
           },
@@ -211,10 +223,12 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "a7b89ff95c31cba1",
+  "active": "d1f2810260d6ab4b",
   "lastOpenFiles": [
-    "操作系统与云原生主题/OSTEP/ch8. MLFQ 多级反馈调度队列.md",
     "Forex/4.25.md",
+    "System Design Interview/未命名.md",
+    "System Design Interview",
+    "操作系统与云原生主题/OSTEP/ch8. MLFQ 多级反馈调度队列.md",
     "未命名.md",
     "操作系统与云原生主题/OSTEP/Ch6.Limited Direct Execution 限制直接执行.md",
     "Forex/4.21.md",
@@ -244,12 +258,10 @@
     "Algorithm Practice/leetcode 七周算法特训/W1.数据结构的使用/3. 设计循环队列.md",
     "Algorithm Practice/leetcode 七周算法特训/W1.数据结构的使用/1. 实现动态数组.md",
     "Algorithm Practice/leetcode 七周算法特训/W1.数据结构的使用/2. 用队列实现栈.md",
-    "Algorithm Practice/leetcode 七周算法特训/W1.数据结构的使用/4. 两数之和.md",
     "Algorithm Practice/leetcode 七周算法特训/动态规划（一）/强化练习/选修题",
     "Algorithm Practice/leetcode 七周算法特训/动态规划（一）/强化练习",
     "Algorithm Practice/leetcode 七周算法特训/动态规划（一）",
     "Reading_Source/数据密集型应用系统设计_Martin Kleppmann_zhelper-search.pdf",
-    "Reading_Source/Designing Data-Intensive Applications.pdf",
     "未命名.canvas",
     "未命名 1.canvas",
     "未命名 2.canvas"
