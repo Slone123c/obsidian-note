@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "794d7bd60bf9d8e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithm Practice/leetcode 七周算法特训/W3. 树/二叉树的遍历.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 257.5,
+    "collapsed": true
   },
   "right": {
     "id": "866d5bc450ccd2ae",
@@ -106,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Forex/4.21.md",
+                "file": "Algorithm Practice/leetcode 七周算法特训/W3. 树/二叉树的遍历.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Forex/4.21.md",
+                "file": "Algorithm Practice/leetcode 七周算法特训/W3. 树/二叉树的遍历.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Forex/4.21.md"
+                "file": "Algorithm Practice/leetcode 七周算法特训/W3. 树/二叉树的遍历.md"
               }
             }
           },
@@ -187,11 +200,15 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "1b234039dd1d05a6",
+  "active": "794d7bd60bf9d8e0",
   "lastOpenFiles": [
+    "Algorithm Practice/leetcode 七周算法特训/树.md",
+    "Algorithm Practice/leetcode 七周算法特训/W3. 树/二叉树的遍历.md",
+    "Algorithm Practice/leetcode 七周算法特训/W3. 树",
+    "未命名.md",
+    "Forex/4.21.md",
     "操作系统与云原生主题/OSTEP/Ch6.Limited Direct Execution 限制直接执行.md",
     "操作系统与云原生主题/OSTEP/进程API程序调用.md",
-    "Forex/4.21.md",
     "演讲稿.md",
     "实习经历描述.md",
     "操作系统与云原生主题/OSTEP/进程.md",
@@ -220,12 +237,8 @@
     "Algorithm Practice/leetcode 七周算法特训/动态规划（一）/强化练习",
     "Algorithm Practice/leetcode 七周算法特训/动态规划（一）",
     "table.md",
-    "操作系统与云原生主题/Namespace.md",
-    "Algorithm Practice/leetcode 七周算法特训/W1.数据结构的使用/强化练习/239. 滑动窗口最大值.md",
-    "Algorithm Practice/leetcode 七周算法特训/W1.数据结构的使用/强化练习/15.三数之和.md",
     "Reading_Source/数据密集型应用系统设计_Martin Kleppmann_zhelper-search.pdf",
     "Reading_Source/Designing Data-Intensive Applications.pdf",
-    "操作系统与云原生主题",
     "未命名.canvas",
     "未命名 1.canvas",
     "未命名 2.canvas"
