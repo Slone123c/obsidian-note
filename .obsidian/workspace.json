@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统与云原生主题/OSTEP/ch8. MLFQ 多级反馈调度队列.md",
+                "file": "操作系统与云原生主题/OSTEP/Ch8. MLFQ 多级反馈调度队列.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "5ffe08aec3cc7821",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "操作系统与云原生主题/OSTEP/Ch9. Proportional share 比例份额.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "794d7bd60bf9d8e0",
             "type": "leaf",
             "state": {
@@ -80,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -154,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm Practice/leetcode 七周算法特训/W3. 树/Offer II 43.往完全二叉树添加节点.md",
+                "file": "操作系统与云原生主题/OSTEP/Ch9. Proportional share 比例份额.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm Practice/leetcode 七周算法特训/W3. 树/Offer II 43.往完全二叉树添加节点.md",
+                "file": "操作系统与云原生主题/OSTEP/Ch9. Proportional share 比例份额.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm Practice/leetcode 七周算法特训/W3. 树/Offer II 43.往完全二叉树添加节点.md"
+                "file": "操作系统与云原生主题/OSTEP/Ch9. Proportional share 比例份额.md"
               }
             }
           },
@@ -235,16 +247,17 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "edeec0771701c7d9",
+  "active": "5ffe08aec3cc7821",
   "lastOpenFiles": [
-    "Algorithm Practice/leetcode 七周算法特训/W3. 树/二叉树的遍历.md",
+    "操作系统与云原生主题/OSTEP/Ch8. MLFQ 多级反馈调度队列.md",
+    "操作系统与云原生主题/OSTEP/Ch6.Limited Direct Execution 限制直接执行.md",
+    "操作系统与云原生主题/OSTEP/Ch9. Proportional share 比例份额.md",
     "Algorithm Practice/leetcode 七周算法特训/W3. 树/Offer II 43.往完全二叉树添加节点.md",
+    "Algorithm Practice/leetcode 七周算法特训/W3. 树/二叉树的遍历.md",
     "System Design Interview/未命名.md",
     "Forex/4.25.md",
     "System Design Interview",
-    "操作系统与云原生主题/OSTEP/ch8. MLFQ 多级反馈调度队列.md",
     "未命名.md",
-    "操作系统与云原生主题/OSTEP/Ch6.Limited Direct Execution 限制直接执行.md",
     "Forex/4.21.md",
     "实习经历描述.md",
     "Algorithm Practice/leetcode 七周算法特训/树.md",
@@ -269,7 +282,6 @@
     "Forex",
     "Algorithm Practice/leetcode 七周算法特训/动态规划（一）/强化练习/选修题/剑指 Offer 60. n个骰子的点数.md",
     "Algorithm Practice/leetcode 七周算法特训/W1.数据结构的使用/3. 设计循环队列.md",
-    "Algorithm Practice/leetcode 七周算法特训/W1.数据结构的使用/1. 实现动态数组.md",
     "Algorithm Practice/leetcode 七周算法特训/动态规划（一）/强化练习/选修题",
     "Algorithm Practice/leetcode 七周算法特训/动态规划（一）/强化练习",
     "Algorithm Practice/leetcode 七周算法特训/动态规划（一）",
