@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/FOREX.md",
+                "file": "System Design Interview/Ch6 Design A Key-Value Store.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/FOREX.md",
+                "file": "System Design Interview/Ch6 Design A Key-Value Store.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/FOREX.md",
+                "file": "System Design Interview/Ch6 Design A Key-Value Store.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/FOREX.md"
+                "file": "System Design Interview/Ch6 Design A Key-Value Store.md"
               }
             }
           },
@@ -176,8 +176,8 @@
   },
   "active": "c000c75fde42e887",
   "lastOpenFiles": [
-    "Forex/5.2.md",
     "templates/FOREX.md",
+    "Forex/5.2.md",
     "Forex/4.21.md",
     "Forex/4.25.md",
     "Forex/4.11.md",
@@ -188,7 +188,7 @@
     "操作系统与云原生主题/OSTEP/Ch9. Proportional share 比例份额.md",
     "操作系统与云原生主题/OSTEP/Ch8. MLFQ 多级反馈调度队列.md",
     "Algorithm Practice/leetcode 七周算法特训/W3. 树/Offer II 43.往完全二叉树添加节点.md",
-    "System Design Interview/未命名.md",
+    "System Design Interview/Ch6 Design A Key-Value Store.md",
     "System Design Interview",
     "未命名.md",
     "实习经历描述.md",
