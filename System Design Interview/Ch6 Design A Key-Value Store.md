@@ -23,6 +23,15 @@ In each design, we need to achieve a balance among **read, write and memory** us
 	- Any conflicts must be resolved to ensure that the data remains consistent across all nodes.
 - Availability
 	- The system remains operational and responsive at all times, even in the face of failures or network issue.
-	- Users should be able to access the syste
+	- Users should be able to access the system even if some nodes are down.
 - Partition Tolerance
+	- A partition means a communication break between two nodes.
+	- Partition Tolerance means the system continues to work despite the network partitions.
+***
 ![[Pasted image 20230502194623.png]]
+
+- Key-value stores are classified based on the two CAP characteristics they have.
+	- CP(Consistency and Partition Tolerance)
+	- AP(Availability and Partition Tolerance)
+	- CA(Consistency and Availability)
+		- In the event of a network partition or other types of failures that causes the system to separate, the CA system will no

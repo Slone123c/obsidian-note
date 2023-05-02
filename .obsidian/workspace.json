@@ -158,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5
+    "width": 223.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,7 +175,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "c000c75fde42e887",
+  "active": "14f008fae16cfbe5",
   "lastOpenFiles": [
     "Pasted image 20230502194623.png",
     "Pasted image 20230502194611.png",
