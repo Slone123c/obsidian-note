@@ -18,6 +18,11 @@ In each design, we need to achieve a balance among **read, write and memory** us
 - Low latency.
 ### CAP theorem
 - Consistency
+	- In a distributed system, all nodes have the same view of data at the same time.
+	- Any changes made to data must be propagated to all nodes in a timely manner.
+	- Any conflicts must be resolved to ensure that the data remains consistent across all nodes.
 - Availability
+	- The system remains operational and responsive at all times, even in the face of failures or network issue.
+	- Users should be able to access the syste
 - Partition Tolerance
 ![[Pasted image 20230502194623.png]]
