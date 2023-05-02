@@ -1,0 +1,16 @@
+
+DXY 
+
+EURUSD  
+
+GBPUSD  
+
+AUDUSD  
+
+NZDUSD 
+
+USDCHF
+
+USDCAD
+
+USDJPY

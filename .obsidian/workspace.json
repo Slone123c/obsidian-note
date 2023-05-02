@@ -78,9 +78,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "82cce94849465953",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forex/5.2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c000c75fde42e887",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/FOREX.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -154,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统与云原生主题/OSTEP/Ch.14 插叙：内存操作API.md",
+                "file": "templates/FOREX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统与云原生主题/OSTEP/Ch.14 插叙：内存操作API.md",
+                "file": "templates/FOREX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统与云原生主题/OSTEP/Ch.14 插叙：内存操作API.md"
+                "file": "templates/FOREX.md"
               }
             }
           },
@@ -235,20 +259,23 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "ec2905547456310a",
+  "active": "c000c75fde42e887",
   "lastOpenFiles": [
-    "操作系统与云原生主题/OSTEP/CH13. 抽象：地址空间.md",
+    "Forex/5.2.md",
+    "templates/FOREX.md",
+    "Forex/4.21.md",
+    "Forex/4.25.md",
+    "Forex/4.11.md",
     "操作系统与云原生主题/OSTEP/Ch.14 插叙：内存操作API.md",
+    "操作系统与云原生主题/OSTEP/CH13. 抽象：地址空间.md",
     "操作系统与云原生主题/OSTEP/Ch6.Limited Direct Execution 限制直接执行.md",
     "Algorithm Practice/leetcode 七周算法特训/W3. 树/二叉树的遍历.md",
     "操作系统与云原生主题/OSTEP/Ch9. Proportional share 比例份额.md",
     "操作系统与云原生主题/OSTEP/Ch8. MLFQ 多级反馈调度队列.md",
-    "Forex/4.25.md",
     "Algorithm Practice/leetcode 七周算法特训/W3. 树/Offer II 43.往完全二叉树添加节点.md",
     "System Design Interview/未命名.md",
     "System Design Interview",
     "未命名.md",
-    "Forex/4.21.md",
     "实习经历描述.md",
     "Algorithm Practice/leetcode 七周算法特训/树.md",
     "Algorithm Practice/leetcode 七周算法特训/W3. 树",
@@ -266,9 +293,6 @@
     "Pasted image 20230411174302.png",
     "Memos",
     "2023-04-20.md",
-    "操作系统与云原生主题/Cgroup.md",
-    "Forex/4.11.md",
-    "Reading_Annotation/Designing Data-Intensive Applications(Annotation).md",
     "Forex",
     "Algorithm Practice/leetcode 七周算法特训/动态规划（一）/强化练习/选修题",
     "Algorithm Practice/leetcode 七周算法特训/动态规划（一）/强化练习",
