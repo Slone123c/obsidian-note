@@ -5,3 +5,19 @@ It should be able to support these operations:
 1. put(key,value)
 2. get(key,value)
 
+### Tradeoffs in Design
+In each design, we need to achieve a balance among **read, write and memory** usage. Also, there is a choice between **consistency** and **availability**
+
+### Design Following Characteristics
+- The size of a key-value pair is small: less than 10 KB.
+- Ability to store big data.
+- High availability: The system responds quickly, even during failures.
+- High scalability: The system can be scaled to support large data set.
+- Automatic scaling: The addition/deletion of servers should be automatic based on traffic.
+- Tunable consistency.
+- Low latency.
+### CAP theorem
+- Consistency
+- Availability
+- Partition Tolerance
+![[Pasted image 20230502194623.png]]
