@@ -34,4 +34,5 @@ In each design, we need to achieve a balance among **read, write and memory** us
 	- CP(Consistency and Partition Tolerance)
 	- AP(Availability and Partition Tolerance)
 	- CA(Consistency and Availability)
-		- In the event of a network partition or other types of failures that causes the system to separate, the CA system will no
+		- In the event of a network partition or other types of failures that causes the system to separate, the CA system would not be able to maintain Consistency or Availability.
+

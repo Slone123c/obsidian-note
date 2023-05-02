@@ -5,12 +5,16 @@
       "path": "System Design Interview/Ch6 Design A Key-Value Store.md"
     },
     {
+      "basename": "5.2",
+      "path": "Forex/5.2.md"
+    },
+    {
       "basename": "FOREX",
       "path": "templates/FOREX.md"
     },
     {
-      "basename": "5.2",
-      "path": "Forex/5.2.md"
+      "basename": "4.11",
+      "path": "Forex/4.11.md"
     },
     {
       "basename": "4.21",
@@ -19,10 +23,6 @@
     {
       "basename": "4.25",
       "path": "Forex/4.25.md"
-    },
-    {
-      "basename": "4.11",
-      "path": "Forex/4.11.md"
     },
     {
       "basename": "Ch.14 插叙：内存操作API",
