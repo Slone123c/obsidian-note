@@ -8,90 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1b234039dd1d05a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "操作系统与云原生主题/OSTEP/Ch6.Limited Direct Execution 限制直接执行.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ecd73250afeae66c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "操作系统与云原生主题/OSTEP/Ch8. MLFQ 多级反馈调度队列.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ffe08aec3cc7821",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "操作系统与云原生主题/OSTEP/Ch9. Proportional share 比例份额.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "794d7bd60bf9d8e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "操作系统与云原生主题/OSTEP/Ch6.Limited Direct Execution 限制直接执行.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e73ceb03541d3114",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "操作系统与云原生主题/OSTEP/CH13. 抽象：地址空间.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec2905547456310a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "操作系统与云原生主题/OSTEP/Ch.14 插叙：内存操作API.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82cce94849465953",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Forex/5.2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c000c75fde42e887",
             "type": "leaf",
             "state": {
@@ -103,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
