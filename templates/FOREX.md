@@ -1,4 +1,6 @@
 
+双顶部？
+
 DXY 
 
 EURUSD  
