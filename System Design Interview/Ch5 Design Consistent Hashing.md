@@ -14,5 +14,9 @@ For a read operation to be considered as successful, it must wait for responses 
 
 The configuration of W, R and N is a typical tradeoff between **latency** and **consistency**.
 
-
+#### Some possible setup
+- R = 1, W = N, fast read
+- W = 1, R = N, fast write
+- W + R > N, strong consistency is guaranteed(N = 3, W = R = 2)
+- W + R <= N, strong consistency is not guaranteed
 
