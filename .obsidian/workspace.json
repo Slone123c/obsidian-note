@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "e522c678c63c8ec6",
+            "id": "e9995243879f68e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design Interview/Ch5 Design Consistent Hashing.md",
+                "file": "交易指标/EMA 指数移动平均线(Exponential Moving Average).md",
                 "mode": "source",
                 "source": false
               }
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5,
-    "collapsed": true
+    "width": 257.5
   },
   "right": {
     "id": "866d5bc450ccd2ae",
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Design Interview/Ch5 Design Consistent Hashing.md",
+                "file": "交易指标/EMA 指数移动平均线(Exponential Moving Average).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Design Interview/Ch5 Design Consistent Hashing.md",
+                "file": "交易指标/EMA 指数移动平均线(Exponential Moving Average).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Design Interview/Ch5 Design Consistent Hashing.md"
+                "file": "交易指标/EMA 指数移动平均线(Exponential Moving Average).md"
               }
             }
           },
@@ -189,9 +188,12 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "e522c678c63c8ec6",
+  "active": "e9995243879f68e9",
   "lastOpenFiles": [
     "System Design Interview/Ch6 Design A Key-Value Store.md",
+    "交易指标/EMA 指数移动平均线(Exponential Moving Average).md",
+    "交易指标",
+    "未命名.canvas",
     "System Design Interview/Ch5 Design Consistent Hashing.md",
     "Forex/5.2.md",
     "templates/FOREX.md",
@@ -221,7 +223,6 @@
     "delete.md",
     "Memos/2023-04-20.md",
     "Memos/delete.md",
-    "Excalidraw/Drawing 2023-04-20 15.19.47.excalidraw.md",
     "Excalidraw",
     "Pasted image 20230411174302.png",
     "Memos",
@@ -229,8 +230,6 @@
     "Algorithm Practice/leetcode 七周算法特训/动态规划（一）/强化练习/选修题",
     "Algorithm Practice/leetcode 七周算法特训/动态规划（一）/强化练习",
     "Algorithm Practice/leetcode 七周算法特训/动态规划（一）",
-    "Reading_Source/数据密集型应用系统设计_Martin Kleppmann_zhelper-search.pdf",
-    "未命名.canvas",
     "未命名 1.canvas",
     "未命名 2.canvas"
   ]
