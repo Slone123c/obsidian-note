@@ -33,4 +33,13 @@ To use a centralized auto_increment feature in a single datavase server(Ticket S
 	- Numeric IDs
 	- Easy to implement, and it works for small to medium-scale applications.
 - **Cons**
-	- 
+	- If the ticket server goes down, all systems that depend on it will face issues. Multiple ticket servers will introduce new challenges such as synchronization.
+
+#### Twitter snowflake approach
+To divide an ID into different sections.
+![[Pasted image 20230507183347.png]]
+- Sign bit: 1 bit. It will always be 0. This is reserved for future uses. It can potentially be used to distinguish between signed and unsigned numbers.
+- Timestamp: 41 bits. Milliseconds since the epoch or custom epoch. We use Twitter snowflake default epoch 1288834974657, equivalent to Nov 04, 2010, 01:42:54 UTC.
+- Datacenter ID: 5 bits, which gives us 2 ^ 5 = 32 datacenters.
+- Machine ID: 5 bits, which gives us 2 ^ 5 = 32 machines per datacenter.
+- Sequence number: 12 bits. For every ID generated on that machine/process, the sequence number is incremented by 1. The number is reset to 0 every millisecond.
