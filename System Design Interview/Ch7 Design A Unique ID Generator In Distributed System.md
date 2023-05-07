@@ -16,3 +16,21 @@ Instead of increasing the next ID by 1, we increase it by k, where k is the numb
 	- Hard to scale with multiple data centers
 	- IDs do not go up with time accross multiple servers
 	- It does not scale well when a server is added or removed
+
+#### UUID
+UUID is a 128-bit number used to identify information in computer systems.
+- **Pros**
+	- No coordination between servers is needed. No synchronization issues.
+	- Easy to scale. ID generator can easily scale with web servers.
+- **Cons**
+	- 128 bits long
+	- IDs do not go up with time
+	- IDs could be non-numeric
+
+#### Ticket Server
+To use a centralized auto_increment feature in a single datavase server(Ticket Server).
+- **Pros**
+	- Numeric IDs
+	- Easy to implement, and it works for small to medium-scale applications.
+- **Cons**
+	- 
