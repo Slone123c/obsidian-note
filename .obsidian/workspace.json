@@ -11,8 +11,12 @@
             "id": "cd3384c78e79b654",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "操作系统与云原生主题/OSTEP/Ch6.Limited Direct Execution 限制直接执行.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "操作系统与云原生主题/OSTEP/Ch6.Limited Direct Execution 限制直接执行.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "操作系统与云原生主题/OSTEP/Ch6.Limited Direct Execution 限制直接执行.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "操作系统与云原生主题/OSTEP/Ch6.Limited Direct Execution 限制直接执行.md"
+              }
             }
           },
           {
