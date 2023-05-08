@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统与云原生主题/OSTEP/Ch6.Limited Direct Execution 限制直接执行.md",
+                "file": "System Design Interview/Ch6 Design A Key-Value Store.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a0bc1eeb8668554",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System Design Interview/Ch8 Design A URL Shortener.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统与云原生主题/OSTEP/Ch6.Limited Direct Execution 限制直接执行.md",
+                "file": "System Design Interview/Ch8 Design A URL Shortener.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统与云原生主题/OSTEP/Ch6.Limited Direct Execution 限制直接执行.md",
+                "file": "System Design Interview/Ch8 Design A URL Shortener.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统与云原生主题/OSTEP/Ch6.Limited Direct Execution 限制直接执行.md"
+                "file": "System Design Interview/Ch8 Design A URL Shortener.md"
               }
             }
           },
@@ -175,15 +188,18 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "cd3384c78e79b654",
+  "active": "8a0bc1eeb8668554",
   "lastOpenFiles": [
+    "System Design Interview/Ch6 Design A Key-Value Store.md",
+    "System Design Interview/Ch8 Design A URL Shortener.md",
+    "操作系统与云原生主题/OSTEP/进程API程序调用.md",
+    "操作系统与云原生主题/OSTEP/Ch15. 地址转换.md",
+    "操作系统与云原生主题/OSTEP/Ch6.Limited Direct Execution 限制直接执行.md",
     "操作系统与云原生主题/OSTEP/Ch14. 插叙：内存操作API.md",
     "交易指标/EMA 指数移动平均线(Exponential Moving Average).md",
-    "操作系统与云原生主题/OSTEP/Ch15. 地址转换.md",
     "操作系统与云原生主题/OSTEP/Ch13. 抽象：地址空间.md",
     "System Design Interview/Ch7 Design A Unique ID Generator In Distributed System.md",
     "Pasted image 20230507183347.png",
-    "System Design Interview/Ch6 Design A Key-Value Store.md",
     "交易指标",
     "未命名.canvas",
     "System Design Interview/Ch5 Design Consistent Hashing.md",
@@ -194,7 +210,6 @@
     "Pasted image 20230502194611.png",
     "Forex/4.21.md",
     "Forex/4.25.md",
-    "操作系统与云原生主题/OSTEP/Ch6.Limited Direct Execution 限制直接执行.md",
     "Algorithm Practice/leetcode 七周算法特训/W3. 树/二叉树的遍历.md",
     "操作系统与云原生主题/OSTEP/Ch9. Proportional share 比例份额.md",
     "操作系统与云原生主题/OSTEP/Ch8. MLFQ 多级反馈调度队列.md",
@@ -204,13 +219,11 @@
     "实习经历描述.md",
     "Algorithm Practice/leetcode 七周算法特训/树.md",
     "Algorithm Practice/leetcode 七周算法特训/W3. 树",
-    "操作系统与云原生主题/OSTEP/进程API程序调用.md",
     "演讲稿.md",
     "操作系统与云原生主题/OSTEP/进程.md",
     "操作系统与云原生主题/OSTEP",
     "annotation.md",
     "Excalidraw/Drawing 2023-04-20 15.20.24.excalidraw.md",
-    "delete.md",
     "Excalidraw",
     "Pasted image 20230411174302.png",
     "Memos",
