@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7f38e7c8f9fb1469",
+        "id": "d6052ab8f61e8cca",
         "type": "tabs",
         "children": [
           {
-            "id": "c000c75fde42e887",
+            "id": "cd3384c78e79b654",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "System Design Interview/Ch6 Design A Key-Value Store.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e9995243879f68e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "交易指标/EMA 指数移动平均线(Exponential Moving Average).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5698dd08d89ace59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "操作系统与云原生主题/OSTEP/Ch14. 插叙：内存操作API.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8eebde6b69b227a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "操作系统与云原生主题/OSTEP/Ch15. 地址转换.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统与云原生主题/OSTEP/Ch15. 地址转换.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统与云原生主题/OSTEP/Ch15. 地址转换.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "操作系统与云原生主题/OSTEP/Ch15. 地址转换.md"
-              }
+              "state": {}
             }
           },
           {
@@ -212,14 +167,14 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "8eebde6b69b227a4",
+  "active": "cd3384c78e79b654",
   "lastOpenFiles": [
     "操作系统与云原生主题/OSTEP/Ch14. 插叙：内存操作API.md",
-    "操作系统与云原生主题/OSTEP/Ch13. 抽象：地址空间.md",
+    "交易指标/EMA 指数移动平均线(Exponential Moving Average).md",
     "操作系统与云原生主题/OSTEP/Ch15. 地址转换.md",
+    "操作系统与云原生主题/OSTEP/Ch13. 抽象：地址空间.md",
     "System Design Interview/Ch7 Design A Unique ID Generator In Distributed System.md",
     "Pasted image 20230507183347.png",
-    "交易指标/EMA 指数移动平均线(Exponential Moving Average).md",
     "System Design Interview/Ch6 Design A Key-Value Store.md",
     "交易指标",
     "未命名.canvas",
