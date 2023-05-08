@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7f6e8ddae2718e93",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -83,6 +93,14 @@
             "type": "leaf",
             "state": {
               "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "dc6f2e74d096737f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -188,7 +206,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "8a0bc1eeb8668554",
+  "active": "7f6e8ddae2718e93",
   "lastOpenFiles": [
     "System Design Interview/Ch6 Design A Key-Value Store.md",
     "System Design Interview/Ch8 Design A URL Shortener.md",
