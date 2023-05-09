@@ -120,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 260.5,
+    "collapsed": true
   },
   "right": {
     "id": "866d5bc450ccd2ae",
@@ -218,7 +219,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "a73ef327d89c9de8",
+  "active": "558260b051fcd394",
   "lastOpenFiles": [
     "Vocabulary",
     "Vocabulary/未命名.md",
