@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
+      "basename": "5.9",
+      "path": "Vocabulary/5.9.md"
+    },
+    {
       "basename": "未命名",
-      "path": "Vocabulary/未命名.md"
+      "path": "未命名.canvas"
     },
     {
       "basename": "Ch8 Design A URL Shortener",
@@ -39,10 +43,6 @@
     {
       "basename": "Ch7 Design A Unique ID Generator In Distributed System",
       "path": "System Design Interview/Ch7 Design A Unique ID Generator In Distributed System.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "未命名.canvas"
     },
     {
       "basename": "Ch5 Design Consistent Hashing",
