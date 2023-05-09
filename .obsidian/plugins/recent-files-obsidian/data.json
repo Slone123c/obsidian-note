@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "4.21",
+      "path": "Forex/4.21.md"
+    },
+    {
+      "basename": "4.25",
+      "path": "Forex/4.25.md"
+    },
+    {
+      "basename": "5.2",
+      "path": "Forex/5.2.md"
+    },
+    {
       "basename": "5.9",
       "path": "Vocabulary/5.9.md"
     },
@@ -49,24 +61,12 @@
       "path": "System Design Interview/Ch5 Design Consistent Hashing.md"
     },
     {
-      "basename": "5.2",
-      "path": "Forex/5.2.md"
-    },
-    {
       "basename": "FOREX",
       "path": "templates/FOREX.md"
     },
     {
       "basename": "4.11",
       "path": "Forex/4.11.md"
-    },
-    {
-      "basename": "4.21",
-      "path": "Forex/4.21.md"
-    },
-    {
-      "basename": "4.25",
-      "path": "Forex/4.25.md"
     },
     {
       "basename": "二叉树的遍历",
