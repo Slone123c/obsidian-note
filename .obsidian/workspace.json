@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d6052ab8f61e8cca",
+        "id": "ebf569d0cea926c7",
         "type": "tabs",
         "children": [
           {
-            "id": "cd3384c78e79b654",
+            "id": "67bf78591eeacbd0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/5.9.md",
+                "file": "System Design Interview/设计系统的步骤.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5,
-    "collapsed": true
+    "width": 260.5
   },
   "right": {
     "id": "866d5bc450ccd2ae",
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/5.9.md",
+                "file": "System Design Interview/设计系统的步骤.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/5.9.md",
+                "file": "System Design Interview/设计系统的步骤.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/5.9.md"
+                "file": "System Design Interview/设计系统的步骤.md"
               }
             }
           },
@@ -184,18 +183,23 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "cd3384c78e79b654",
+  "active": "67bf78591eeacbd0",
   "lastOpenFiles": [
-    "System Design Interview/Ch6 Design A Key-Value Store.md",
-    "Pasted image 20230502194611.png",
-    "Pasted image 20230502194623.png",
+    "Vocabulary/5.9.md",
+    "System Design Interview/设计系统的步骤.md",
+    "annotation.md",
+    "实习经历描述.md",
     "Pasted image 20230507183347.png",
+    "Pasted image 20230502194611.png",
+    "未命名.canvas",
+    "未命名 2.canvas",
+    "未命名 1.canvas",
+    "System Design Interview/Ch6 Design A Key-Value Store.md",
+    "Pasted image 20230502194623.png",
     "Forex/4.21.md",
     "Algorithm Practice/拣zhi",
     "Forex/4.25.md",
     "Forex/5.2.md",
-    "Vocabulary/5.9.md",
-    "未命名.canvas",
     "Vocabulary",
     "System Design Interview/Ch8 Design A URL Shortener.md",
     "操作系统与云原生主题/OSTEP/进程API程序调用.md",
@@ -214,19 +218,15 @@
     "操作系统与云原生主题/OSTEP/Ch8. MLFQ 多级反馈调度队列.md",
     "Algorithm Practice/leetcode 七周算法特训/W3. 树/Offer II 43.往完全二叉树添加节点.md",
     "System Design Interview",
-    "实习经历描述.md",
     "Algorithm Practice/leetcode 七周算法特训/树.md",
     "Algorithm Practice/leetcode 七周算法特训/W3. 树",
     "演讲稿.md",
     "操作系统与云原生主题/OSTEP/进程.md",
     "操作系统与云原生主题/OSTEP",
-    "annotation.md",
     "Excalidraw",
     "Pasted image 20230411174302.png",
     "Memos",
     "Forex",
-    "Algorithm Practice/leetcode 七周算法特训/动态规划（一）/强化练习/选修题",
-    "未命名 1.canvas",
-    "未命名 2.canvas"
+    "Algorithm Practice/leetcode 七周算法特训/动态规划（一）/强化练习/选修题"
   ]
 }
