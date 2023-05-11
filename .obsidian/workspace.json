@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design Interview/Ch8 Design A URL Shortener.md",
+                "file": "System Design Interview/Ch14 Design Youtube.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Design Interview/Ch8 Design A URL Shortener.md",
+                "file": "System Design Interview/Ch14 Design Youtube.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Design Interview/Ch8 Design A URL Shortener.md",
+                "file": "System Design Interview/Ch14 Design Youtube.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Design Interview/Ch8 Design A URL Shortener.md"
+                "file": "System Design Interview/Ch14 Design Youtube.md"
               }
             }
           },
@@ -198,8 +198,10 @@
   },
   "active": "6059902b32f3ac3a",
   "lastOpenFiles": [
-    "Vocabulary/5.9.md",
     "System Design Interview/设计系统的步骤.md",
+    "System Design Interview/Ch14 Design Youtube.md",
+    "System Design Interview/Ch8 Design A URL Shortener.md",
+    "Vocabulary/5.9.md",
     "annotation.md",
     "实习经历描述.md",
     "Pasted image 20230507183347.png",
@@ -214,7 +216,6 @@
     "Forex/4.25.md",
     "Forex/5.2.md",
     "Vocabulary",
-    "System Design Interview/Ch8 Design A URL Shortener.md",
     "操作系统与云原生主题/OSTEP/进程API程序调用.md",
     "操作系统与云原生主题/OSTEP/Ch15. 地址转换.md",
     "操作系统与云原生主题/OSTEP/Ch6.Limited Direct Execution 限制直接执行.md",
@@ -234,7 +235,6 @@
     "Algorithm Practice/leetcode 七周算法特训/树.md",
     "Algorithm Practice/leetcode 七周算法特训/W3. 树",
     "演讲稿.md",
-    "操作系统与云原生主题/OSTEP/进程.md",
     "操作系统与云原生主题/OSTEP",
     "Excalidraw",
     "Pasted image 20230411174302.png",
