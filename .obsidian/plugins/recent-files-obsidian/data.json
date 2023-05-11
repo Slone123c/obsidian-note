@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Ch8 Design A URL Shortener",
+      "path": "System Design Interview/Ch8 Design A URL Shortener.md"
+    },
+    {
       "basename": "设计系统的步骤",
       "path": "System Design Interview/设计系统的步骤.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "5.2",
       "path": "Forex/5.2.md"
-    },
-    {
-      "basename": "Ch8 Design A URL Shortener",
-      "path": "System Design Interview/Ch8 Design A URL Shortener.md"
     },
     {
       "basename": "进程API程序调用",

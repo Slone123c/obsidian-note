@@ -23,9 +23,11 @@
             "id": "6059902b32f3ac3a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.2.8"
+                "file": "System Design Interview/Ch8 Design A URL Shortener.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -112,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Design Interview/设计系统的步骤.md",
+                "file": "System Design Interview/Ch8 Design A URL Shortener.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Design Interview/设计系统的步骤.md",
+                "file": "System Design Interview/Ch8 Design A URL Shortener.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Design Interview/设计系统的步骤.md"
+                "file": "System Design Interview/Ch8 Design A URL Shortener.md"
               }
             }
           },
