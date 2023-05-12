@@ -98,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5,
-    "collapsed": true
+    "width": 260.5
   },
   "right": {
     "id": "866d5bc450ccd2ae",
@@ -199,8 +198,11 @@
   },
   "active": "6059902b32f3ac3a",
   "lastOpenFiles": [
-    "System Design Interview/Ch14 Design Youtube.md",
     "Forex/技术指标讲解.md",
+    "Forex/4.21.md",
+    "templates/FOREX.md",
+    "Forex/4.11.md",
+    "System Design Interview/Ch14 Design Youtube.md",
     "System Design Interview/设计系统的步骤.md",
     "System Design Interview/Ch8 Design A URL Shortener.md",
     "Vocabulary/5.9.md",
@@ -213,7 +215,6 @@
     "未命名 1.canvas",
     "System Design Interview/Ch6 Design A Key-Value Store.md",
     "Pasted image 20230502194623.png",
-    "Forex/4.21.md",
     "Algorithm Practice/剑指Offer II",
     "Forex/4.25.md",
     "Forex/5.2.md",
@@ -227,8 +228,6 @@
     "System Design Interview/Ch7 Design A Unique ID Generator In Distributed System.md",
     "交易指标",
     "System Design Interview/Ch5 Design Consistent Hashing.md",
-    "templates/FOREX.md",
-    "Forex/4.11.md",
     "Algorithm Practice/leetcode 七周算法特训/W3. 树/二叉树的遍历.md",
     "操作系统与云原生主题/OSTEP/Ch9. Proportional share 比例份额.md",
     "操作系统与云原生主题/OSTEP/Ch8. MLFQ 多级反馈调度队列.md",
