@@ -5,6 +5,10 @@
       "path": "配置单.md"
     },
     {
+      "basename": "设计系统的步骤",
+      "path": "System Design Interview/设计系统的步骤.md"
+    },
+    {
       "basename": "技术指标讲解",
       "path": "Forex/技术指标讲解.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "Ch14 Design Youtube",
       "path": "System Design Interview/Ch14 Design Youtube.md"
-    },
-    {
-      "basename": "设计系统的步骤",
-      "path": "System Design Interview/设计系统的步骤.md"
     },
     {
       "basename": "Ch8 Design A URL Shortener",
