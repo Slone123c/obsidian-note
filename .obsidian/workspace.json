@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/2.2 监督学习 supervised learning.md",
+                "file": "Machine Learning Draft/2.3 无监督学习.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/2.2 监督学习 supervised learning.md",
+                "file": "Machine Learning Draft/2.3 无监督学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/2.2 监督学习 supervised learning.md",
+                "file": "Machine Learning Draft/2.3 无监督学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/2.2 监督学习 supervised learning.md"
+                "file": "Machine Learning Draft/2.3 无监督学习.md"
               }
             }
           },
@@ -196,14 +196,15 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "6059902b32f3ac3a",
+  "active": "a73ef327d89c9de8",
   "lastOpenFiles": [
+    "Machine Learning Draft/2.2 监督学习 supervised learning.md",
+    "Machine Learning Draft/2.3 无监督学习.md",
     "Excalidraw/Drawing 2023-05-13 16.04.24.excalidraw.md",
-    "Machine Learning/2.2 监督学习 supervised learning.md",
-    "Machine Learning/2.1 机器学习定义.md",
-    "Machine Learning/机器学习.md",
+    "Machine Learning Draft/2.1 机器学习定义.md",
+    "Machine Learning Draft/机器学习.md",
     "Forex/技术指标讲解.md",
-    "Machine Learning",
+    "Machine Learning Draft",
     "配置单.md",
     "System Design Interview/设计系统的步骤.md",
     "Forex/4.21.md",
@@ -233,7 +234,6 @@
     "操作系统与云原生主题/OSTEP/Ch13. 抽象：地址空间.md",
     "System Design Interview/Ch7 Design A Unique ID Generator In Distributed System.md",
     "交易指标",
-    "System Design Interview/Ch5 Design Consistent Hashing.md",
     "System Design Interview",
     "Algorithm Practice/leetcode 七周算法特训/W3. 树",
     "操作系统与云原生主题/OSTEP",
