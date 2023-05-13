@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "3 线性回归模型",
+      "path": "Machine Learning Draft/3 线性回归模型.md"
+    },
+    {
+      "basename": "机器学习",
+      "path": "Machine Learning Draft/机器学习.md"
+    },
+    {
       "basename": "2.3 无监督学习",
       "path": "Machine Learning Draft/2.3 无监督学习.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "2.1 机器学习定义",
       "path": "Machine Learning Draft/2.1 机器学习定义.md"
-    },
-    {
-      "basename": "机器学习",
-      "path": "Machine Learning Draft/机器学习.md"
     },
     {
       "basename": "技术指标讲解",
@@ -195,10 +199,6 @@
     {
       "basename": "239. 滑动窗口最大值",
       "path": "Algorithm Practice/leetcode 七周算法特训/W1.数据结构的使用/强化练习/239. 滑动窗口最大值.md"
-    },
-    {
-      "basename": "15.三数之和",
-      "path": "Algorithm Practice/leetcode 七周算法特训/W1.数据结构的使用/强化练习/15.三数之和.md"
     }
   ],
   "omittedPaths": [],
