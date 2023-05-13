@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forex/技术指标讲解.md",
+                "file": "Machine Learning/机器学习.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5,
-    "collapsed": true
+    "width": 260.5
   },
   "right": {
     "id": "866d5bc450ccd2ae",
@@ -115,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Forex/技术指标讲解.md",
+                "file": "Machine Learning/机器学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Forex/技术指标讲解.md",
+                "file": "Machine Learning/机器学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Forex/技术指标讲解.md"
+                "file": "Machine Learning/机器学习.md"
               }
             }
           },
@@ -199,9 +198,11 @@
   },
   "active": "6059902b32f3ac3a",
   "lastOpenFiles": [
+    "Forex/技术指标讲解.md",
+    "Machine Learning/机器学习.md",
+    "Machine Learning",
     "配置单.md",
     "System Design Interview/设计系统的步骤.md",
-    "Forex/技术指标讲解.md",
     "Forex/4.21.md",
     "templates/FOREX.md",
     "Forex/4.11.md",
@@ -233,14 +234,12 @@
     "Algorithm Practice/leetcode 七周算法特训/W3. 树/二叉树的遍历.md",
     "操作系统与云原生主题/OSTEP/Ch9. Proportional share 比例份额.md",
     "操作系统与云原生主题/OSTEP/Ch8. MLFQ 多级反馈调度队列.md",
-    "Algorithm Practice/leetcode 七周算法特训/W3. 树/Offer II 43.往完全二叉树添加节点.md",
     "System Design Interview",
     "Algorithm Practice/leetcode 七周算法特训/W3. 树",
     "操作系统与云原生主题/OSTEP",
     "Excalidraw",
     "Pasted image 20230411174302.png",
     "Memos",
-    "Forex",
-    "Algorithm Practice/leetcode 七周算法特训/动态规划（一）/强化练习/选修题"
+    "Forex"
   ]
 }
