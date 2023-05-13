@@ -30,29 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e55a59cdc7c7d379",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "bd96a7b6db0cce90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "配置单.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "配置单.md",
+                "file": "Forex/技术指标讲解.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "配置单.md",
+                "file": "Forex/技术指标讲解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "配置单.md"
+                "file": "Forex/技术指标讲解.md"
               }
             }
           },
@@ -217,10 +197,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "bd96a7b6db0cce90",
+  "active": "6059902b32f3ac3a",
   "lastOpenFiles": [
-    "System Design Interview/设计系统的步骤.md",
     "配置单.md",
+    "System Design Interview/设计系统的步骤.md",
     "Forex/技术指标讲解.md",
     "Forex/4.21.md",
     "templates/FOREX.md",
