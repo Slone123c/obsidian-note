@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "配置单",
+      "path": "配置单.md"
+    },
+    {
       "basename": "3 线性回归模型",
       "path": "Machine Learning Draft/3 线性回归模型.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "技术指标讲解",
       "path": "Forex/技术指标讲解.md"
-    },
-    {
-      "basename": "配置单",
-      "path": "配置单.md"
     },
     {
       "basename": "设计系统的步骤",

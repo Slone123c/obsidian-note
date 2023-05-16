@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning Draft/3 线性回归模型.md",
+                "file": "配置单.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning Draft/3 线性回归模型.md",
+                "file": "配置单.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning Draft/3 线性回归模型.md",
+                "file": "配置单.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning Draft/3 线性回归模型.md"
+                "file": "配置单.md"
               }
             }
           },
@@ -210,8 +210,8 @@
   },
   "active": "fb16282bc3a7f1f2",
   "lastOpenFiles": [
-    "Machine Learning Draft/机器学习.md",
     "Machine Learning Draft/3 线性回归模型.md",
+    "Machine Learning Draft/机器学习.md",
     "Machine Learning Draft/2.3 无监督学习.md",
     "Machine Learning Draft/2.2 监督学习 supervised learning.md",
     "Excalidraw/Drawing 2023-05-13 16.04.24.excalidraw.md",
