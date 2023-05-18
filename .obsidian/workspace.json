@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL Review/Ch3 Inner Join 内连接.md",
+                "file": "SQL Review/Ch3 Inner Join 内连接 Outer Join 外连接.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL Review/Ch3 Inner Join 内连接.md",
+                "file": "SQL Review/Ch3 Inner Join 内连接 Outer Join 外连接.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL Review/Ch3 Inner Join 内连接.md",
+                "file": "SQL Review/Ch3 Inner Join 内连接 Outer Join 外连接.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL Review/Ch3 Inner Join 内连接.md"
+                "file": "SQL Review/Ch3 Inner Join 内连接 Outer Join 外连接.md"
               }
             }
           },
@@ -186,7 +186,7 @@
   "active": "67bf78591eeacbd0",
   "lastOpenFiles": [
     "README.md",
-    "SQL Review/Ch3 Inner Join 内连接.md",
+    "SQL Review/Ch3 Inner Join 内连接 Outer Join 外连接.md",
     "SQL Review",
     "annotation.md",
     "Excalidraw/Drawing 2023-04-20 15.19.47.excalidraw.md",
