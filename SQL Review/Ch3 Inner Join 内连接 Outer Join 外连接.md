@@ -24,7 +24,7 @@ WHERE o.customer_id = c.customer_id
 ```
 
 
-外连接
+7. 外连接
 ``` SQL
 SELECT 
 		c.customer_id,
@@ -34,7 +34,7 @@ FROM customers c
 LEFT JOIN orders o
 	ON c.customer_id = o.customer_id
 ORDER BY c.customer_id
--- 使用LEFT JOIN 时，不论ON的条件是否成立，都会显示 customers c 的数据
+-- 使用LEFT JOIN 时，在 `customers` 表中有对应 `customer_id` 的行而在 `orders` 表中没有对应的行时，仍然会返回该行
 
 SELECT 
 		c.customer_id,
@@ -44,6 +44,8 @@ FROM customers c
 RIGHT JOIN orders o
 	ON c.customer_id = o.customer_id
 ORDER BY c.customer_id
--- RIGHT JOIN 时，不论ON的条件是否成立，都会显示 orders o 的数据
+-- RIGHT JOIN 时，右连接保证了即使在 `orders` 表中有对应 `customer_id` 的行而在 `customers` 表中没有对应的行时，仍然会返回该行
 
 ```
+
+8. 多表外连接
