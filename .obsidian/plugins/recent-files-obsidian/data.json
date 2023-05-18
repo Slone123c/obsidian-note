@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Ch19. 分页：快速地址转换（TLB）",
+      "path": "操作系统与云原生主题/OSTEP/Ch19. 分页：快速地址转换（TLB）.md"
+    },
+    {
+      "basename": "Ch15. 地址转换",
+      "path": "操作系统与云原生主题/OSTEP/Ch15. 地址转换.md"
+    },
+    {
       "basename": "3 线性回归模型",
       "path": "Machine Learning Draft/3 线性回归模型.md"
     },
@@ -97,10 +105,6 @@
       "path": "操作系统与云原生主题/OSTEP/进程API程序调用.md"
     },
     {
-      "basename": "Ch15. 地址转换",
-      "path": "操作系统与云原生主题/OSTEP/Ch15. 地址转换.md"
-    },
-    {
       "basename": "Ch6.Limited Direct Execution 限制直接执行",
       "path": "操作系统与云原生主题/OSTEP/Ch6.Limited Direct Execution 限制直接执行.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Namespace",
       "path": "操作系统与云原生主题/Namespace.md"
-    },
-    {
-      "basename": "239. 滑动窗口最大值",
-      "path": "Algorithm Practice/leetcode 七周算法特训/W1.数据结构的使用/强化练习/239. 滑动窗口最大值.md"
     }
   ],
   "omittedPaths": [],

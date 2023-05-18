@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning Draft/3 线性回归模型.md",
+                "file": "操作系统与云原生主题/OSTEP/Ch19. 分页：快速地址转换（TLB）.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning Draft/3 线性回归模型.md",
+                "file": "操作系统与云原生主题/OSTEP/Ch19. 分页：快速地址转换（TLB）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning Draft/3 线性回归模型.md",
+                "file": "操作系统与云原生主题/OSTEP/Ch19. 分页：快速地址转换（TLB）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning Draft/3 线性回归模型.md"
+                "file": "操作系统与云原生主题/OSTEP/Ch19. 分页：快速地址转换（TLB）.md"
               }
             }
           },
@@ -210,9 +210,11 @@
   },
   "active": "fb16282bc3a7f1f2",
   "lastOpenFiles": [
+    "操作系统与云原生主题/OSTEP/Ch15. 地址转换.md",
+    "操作系统与云原生主题/OSTEP/Ch19. 分页：快速地址转换（TLB）.md",
+    "Machine Learning Draft/3 线性回归模型.md",
     "Machine Learning Draft/2.3 无监督学习.md",
     "配置单.md",
-    "Machine Learning Draft/3 线性回归模型.md",
     "Machine Learning Draft/机器学习.md",
     "Machine Learning Draft/2.2 监督学习 supervised learning.md",
     "Excalidraw/Drawing 2023-05-13 16.04.24.excalidraw.md",
@@ -240,11 +242,9 @@
     "Forex/5.2.md",
     "Vocabulary",
     "操作系统与云原生主题/OSTEP/进程API程序调用.md",
-    "操作系统与云原生主题/OSTEP/Ch15. 地址转换.md",
     "操作系统与云原生主题/OSTEP/Ch6.Limited Direct Execution 限制直接执行.md",
     "操作系统与云原生主题/OSTEP/Ch14. 插叙：内存操作API.md",
     "交易指标/EMA 指数移动平均线(Exponential Moving Average).md",
-    "操作系统与云原生主题/OSTEP/Ch13. 抽象：地址空间.md",
     "交易指标",
     "System Design Interview",
     "Algorithm Practice/leetcode 七周算法特训/W3. 树",
