@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "annotation",
+      "path": "annotation.md"
+    },
+    {
+      "basename": "双指针专题 014 - 017",
+      "path": "Algorithm Practice/剑指Offer II/双指针专题 014 - 017.md"
+    },
+    {
+      "basename": "Pasted image 20230502194611",
+      "path": "Images/Pasted image 20230502194611.png"
+    },
+    {
+      "basename": "Pasted image 20230502194623",
+      "path": "Images/Pasted image 20230502194623.png"
+    },
+    {
+      "basename": "Pasted image 20230507183347",
+      "path": "Images/Pasted image 20230507183347.png"
+    },
+    {
       "basename": "Ch19. 分页：快速地址转换（TLB）",
       "path": "操作系统与云原生主题/OSTEP/Ch19. 分页：快速地址转换（TLB）.md"
     },
@@ -27,10 +51,6 @@
     {
       "basename": "2.2 监督学习 supervised learning",
       "path": "Machine Learning Draft/2.2 监督学习 supervised learning.md"
-    },
-    {
-      "basename": "Drawing 2023-05-13 16.04.24.excalidraw",
-      "path": "Excalidraw/Drawing 2023-05-13 16.04.24.excalidraw.md"
     },
     {
       "basename": "2.1 机器学习定义",
@@ -69,28 +89,12 @@
       "path": "Vocabulary/5.9.md"
     },
     {
-      "basename": "annotation",
-      "path": "annotation.md"
-    },
-    {
       "basename": "实习经历描述",
       "path": "实习经历描述.md"
     },
     {
-      "basename": "Pasted image 20230507183347",
-      "path": "Pasted image 20230507183347.png"
-    },
-    {
-      "basename": "Pasted image 20230502194611",
-      "path": "Pasted image 20230502194611.png"
-    },
-    {
       "basename": "Ch6 Design A Key-Value Store",
       "path": "System Design Interview/Ch6 Design A Key-Value Store.md"
-    },
-    {
-      "basename": "Pasted image 20230502194623",
-      "path": "Pasted image 20230502194623.png"
     },
     {
       "basename": "4.25",
@@ -153,20 +157,12 @@
       "path": "操作系统与云原生主题/OSTEP/进程.md"
     },
     {
-      "basename": "Drawing 2023-04-20 15.20.24.excalidraw",
-      "path": "Excalidraw/Drawing 2023-04-20 15.20.24.excalidraw.md"
-    },
-    {
       "basename": "2023-04-20",
       "path": "Memos/2023-04-20.md"
     },
     {
       "basename": "delete",
       "path": "Memos/delete.md"
-    },
-    {
-      "basename": "Drawing 2023-04-20 15.19.47.excalidraw",
-      "path": "Excalidraw/Drawing 2023-04-20 15.19.47.excalidraw.md"
     },
     {
       "basename": "Cgroup",
@@ -195,10 +191,6 @@
     {
       "basename": "4. 两数之和",
       "path": "Algorithm Practice/leetcode 七周算法特训/W1.数据结构的使用/4. 两数之和.md"
-    },
-    {
-      "basename": "Namespace",
-      "path": "操作系统与云原生主题/Namespace.md"
     }
   ],
   "omittedPaths": [],

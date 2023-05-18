@@ -13,38 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design Interview/设计系统的步骤.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6059902b32f3ac3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning Draft/机器学习.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb16282bc3a7f1f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "操作系统与云原生主题/OSTEP/Ch19. 分页：快速地址转换（TLB）.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统与云原生主题/OSTEP/Ch19. 分页：快速地址转换（TLB）.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统与云原生主题/OSTEP/Ch19. 分页：快速地址转换（TLB）.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统与云原生主题/OSTEP/Ch19. 分页：快速地址转换（TLB）.md"
+                "file": "README.md"
               }
             }
           },
@@ -208,16 +183,25 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "fb16282bc3a7f1f2",
+  "active": "67bf78591eeacbd0",
   "lastOpenFiles": [
-    "操作系统与云原生主题/OSTEP/Ch15. 地址转换.md",
+    "annotation.md",
+    "README.md",
+    "Excalidraw/Drawing 2023-04-20 15.19.47.excalidraw.md",
+    "Excalidraw/Drawing 2023-05-13 16.04.24.excalidraw.md",
+    "Algorithm Practice/剑指Offer II/双指针专题 014 - 017.md",
+    "Images/Pasted image 20230502194611.png",
+    "Images",
+    "Images/Pasted image 20230502194623.png",
+    "Images/Pasted image 20230507183347.png",
+    "Images/Pasted image 20230518210014.png",
     "操作系统与云原生主题/OSTEP/Ch19. 分页：快速地址转换（TLB）.md",
+    "操作系统与云原生主题/OSTEP/Ch15. 地址转换.md",
     "Machine Learning Draft/3 线性回归模型.md",
     "Machine Learning Draft/2.3 无监督学习.md",
     "配置单.md",
     "Machine Learning Draft/机器学习.md",
     "Machine Learning Draft/2.2 监督学习 supervised learning.md",
-    "Excalidraw/Drawing 2023-05-13 16.04.24.excalidraw.md",
     "Machine Learning Draft/2.1 机器学习定义.md",
     "Forex/技术指标讲解.md",
     "Machine Learning Draft",
@@ -228,30 +212,22 @@
     "System Design Interview/Ch14 Design Youtube.md",
     "System Design Interview/Ch8 Design A URL Shortener.md",
     "Vocabulary/5.9.md",
-    "annotation.md",
     "实习经历描述.md",
-    "Pasted image 20230507183347.png",
-    "Pasted image 20230502194611.png",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas",
     "System Design Interview/Ch6 Design A Key-Value Store.md",
-    "Pasted image 20230502194623.png",
     "Algorithm Practice/剑指Offer II",
     "Forex/4.25.md",
     "Forex/5.2.md",
     "Vocabulary",
     "操作系统与云原生主题/OSTEP/进程API程序调用.md",
-    "操作系统与云原生主题/OSTEP/Ch6.Limited Direct Execution 限制直接执行.md",
-    "操作系统与云原生主题/OSTEP/Ch14. 插叙：内存操作API.md",
-    "交易指标/EMA 指数移动平均线(Exponential Moving Average).md",
     "交易指标",
     "System Design Interview",
     "Algorithm Practice/leetcode 七周算法特训/W3. 树",
     "操作系统与云原生主题/OSTEP",
     "Excalidraw",
     "Pasted image 20230411174302.png",
-    "Memos",
-    "Forex"
+    "Memos"
   ]
 }
