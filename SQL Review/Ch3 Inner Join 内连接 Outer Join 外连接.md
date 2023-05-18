@@ -48,4 +48,5 @@ ORDER BY c.customer_id
 
 ```
 
-8. 多表外连接
+1. 多表外连接
+	1. 与多个外连接同理，使用多个LEFT JOIN
