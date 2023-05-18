@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "3 线性回归模型",
+      "path": "Machine Learning Draft/3 线性回归模型.md"
+    },
+    {
+      "basename": "2.3 无监督学习",
+      "path": "Machine Learning Draft/2.3 无监督学习.md"
+    },
+    {
+      "basename": "2.2 监督学习 supervised learning",
+      "path": "Machine Learning Draft/2.2 监督学习 supervised learning.md"
+    },
+    {
+      "basename": "2.1 机器学习定义",
+      "path": "Machine Learning Draft/2.1 机器学习定义.md"
+    },
+    {
       "basename": "Ch3 Inner Join 内连接 Outer Join 外连接",
       "path": "SQL Review/Ch3 Inner Join 内连接 Outer Join 外连接.md"
     },
@@ -37,28 +53,12 @@
       "path": "操作系统与云原生主题/OSTEP/Ch15. 地址转换.md"
     },
     {
-      "basename": "3 线性回归模型",
-      "path": "Machine Learning Draft/3 线性回归模型.md"
-    },
-    {
-      "basename": "2.3 无监督学习",
-      "path": "Machine Learning Draft/2.3 无监督学习.md"
-    },
-    {
       "basename": "配置单",
       "path": "配置单.md"
     },
     {
       "basename": "机器学习",
       "path": "Machine Learning Draft/机器学习.md"
-    },
-    {
-      "basename": "2.2 监督学习 supervised learning",
-      "path": "Machine Learning Draft/2.2 监督学习 supervised learning.md"
-    },
-    {
-      "basename": "2.1 机器学习定义",
-      "path": "Machine Learning Draft/2.1 机器学习定义.md"
     },
     {
       "basename": "技术指标讲解",

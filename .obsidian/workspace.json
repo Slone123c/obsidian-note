@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL Review/Ch3 Inner Join 内连接 Outer Join 外连接.md",
+                "file": "Machine Learning Draft/3 线性回归模型.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL Review/Ch3 Inner Join 内连接 Outer Join 外连接.md",
+                "file": "Machine Learning Draft/3 线性回归模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL Review/Ch3 Inner Join 内连接 Outer Join 外连接.md",
+                "file": "Machine Learning Draft/3 线性回归模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL Review/Ch3 Inner Join 内连接 Outer Join 外连接.md"
+                "file": "Machine Learning Draft/3 线性回归模型.md"
               }
             }
           },
@@ -185,8 +185,11 @@
   },
   "active": "67bf78591eeacbd0",
   "lastOpenFiles": [
-    "README.md",
+    "Machine Learning Draft/2.3 无监督学习.md",
+    "Machine Learning Draft/2.2 监督学习 supervised learning.md",
+    "Machine Learning Draft/2.1 机器学习定义.md",
     "SQL Review/Ch3 Inner Join 内连接 Outer Join 外连接.md",
+    "README.md",
     "SQL Review",
     "annotation.md",
     "Excalidraw/Drawing 2023-04-20 15.19.47.excalidraw.md",
@@ -200,11 +203,8 @@
     "操作系统与云原生主题/OSTEP/Ch19. 分页：快速地址转换（TLB）.md",
     "操作系统与云原生主题/OSTEP/Ch15. 地址转换.md",
     "Machine Learning Draft/3 线性回归模型.md",
-    "Machine Learning Draft/2.3 无监督学习.md",
     "配置单.md",
     "Machine Learning Draft/机器学习.md",
-    "Machine Learning Draft/2.2 监督学习 supervised learning.md",
-    "Machine Learning Draft/2.1 机器学习定义.md",
     "Forex/技术指标讲解.md",
     "Machine Learning Draft",
     "System Design Interview/设计系统的步骤.md",
