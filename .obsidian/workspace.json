@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning Draft/3 线性回归模型.md",
+                "file": "Algorithm Practice/剑指Offer II/双指针专题 014 - 017.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning Draft/3 线性回归模型.md",
+                "file": "Algorithm Practice/剑指Offer II/双指针专题 014 - 017.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning Draft/3 线性回归模型.md",
+                "file": "Algorithm Practice/剑指Offer II/双指针专题 014 - 017.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning Draft/3 线性回归模型.md"
+                "file": "Algorithm Practice/剑指Offer II/双指针专题 014 - 017.md"
               }
             }
           },
@@ -185,6 +185,7 @@
   },
   "active": "67bf78591eeacbd0",
   "lastOpenFiles": [
+    "Machine Learning Draft/3 线性回归模型.md",
     "Machine Learning Draft/2.3 无监督学习.md",
     "Machine Learning Draft/2.2 监督学习 supervised learning.md",
     "Machine Learning Draft/2.1 机器学习定义.md",
@@ -202,7 +203,6 @@
     "Images/Pasted image 20230518210014.png",
     "操作系统与云原生主题/OSTEP/Ch19. 分页：快速地址转换（TLB）.md",
     "操作系统与云原生主题/OSTEP/Ch15. 地址转换.md",
-    "Machine Learning Draft/3 线性回归模型.md",
     "配置单.md",
     "Machine Learning Draft/机器学习.md",
     "Forex/技术指标讲解.md",
