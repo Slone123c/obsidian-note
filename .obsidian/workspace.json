@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "SQL Review/Ch3 Inner Join 内连接.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "SQL Review/Ch3 Inner Join 内连接.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "SQL Review/Ch3 Inner Join 内连接.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "SQL Review/Ch3 Inner Join 内连接.md"
               }
             }
           },
@@ -185,8 +185,10 @@
   },
   "active": "67bf78591eeacbd0",
   "lastOpenFiles": [
-    "annotation.md",
     "README.md",
+    "SQL Review/Ch3 Inner Join 内连接.md",
+    "SQL Review",
+    "annotation.md",
     "Excalidraw/Drawing 2023-04-20 15.19.47.excalidraw.md",
     "Excalidraw/Drawing 2023-05-13 16.04.24.excalidraw.md",
     "Algorithm Practice/剑指Offer II/双指针专题 014 - 017.md",
@@ -221,13 +223,11 @@
     "Forex/4.25.md",
     "Forex/5.2.md",
     "Vocabulary",
-    "操作系统与云原生主题/OSTEP/进程API程序调用.md",
     "交易指标",
     "System Design Interview",
     "Algorithm Practice/leetcode 七周算法特训/W3. 树",
     "操作系统与云原生主题/OSTEP",
     "Excalidraw",
-    "Pasted image 20230411174302.png",
-    "Memos"
+    "Pasted image 20230411174302.png"
   ]
 }
