@@ -79,4 +79,38 @@ JOIN customers c
 	USING (customer_id)
 LEFT JOIN shippers sh
 	USING (shipper_id)
+
+-- Exercise
+SELECT 
+date,
+c.name AS client,
+amount,
+pm.name AS name
+FROM payments p
+JOIN clients c
+	USING (client_id)
+JOIN payment_methods pm
+	ON p.payment_method = pm.payment_method_id
+```
+
+#### 11. 自然连接
+自动基于共同的列连接，但可能会出现不希望的结果
+```sql
+SELECT 
+	o.order_id,
+	c.first_name
+FROM orders o
+NATURAL JOIN customers c
+```
+
+#### 12.交叉连接
+用于连接第一个表的每条记录和第二个表的每条记录(所有记录的组合)
+实际案列中，会用于需要组合数据
+隐式调用：选择多个表
+```sql
+SELECT 
+	c.first_name AS customer,
+	p.name AS product
+FROM customers c
+CROSS JOIN products p
 ```
