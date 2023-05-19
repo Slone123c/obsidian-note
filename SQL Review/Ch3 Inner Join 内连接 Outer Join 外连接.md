@@ -67,4 +67,16 @@ LEFT JOIN employees m
 ```
 
 #### 10. USING 字句
-
+使用USING来简化JOIN语句，只能作用于列名完全相同的情况
+```sql
+SELECT
+	o.order_id,
+	c.first_name,
+	sh.name AS shipper
+FROM orders o
+JOIN customers c
+	-- ON o.customer_id = c.customer_id
+	USING (customer_id)
+LEFT JOIN shippers sh
+	USING (shipper_id)
+```
