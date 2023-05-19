@@ -48,5 +48,23 @@ ORDER BY c.customer_id
 
 ```
 
-1. 多表外连接
-	1. 与多个外连接同理，使用多个LEFT JOIN
+
+#### 8. 多表外连接
+与多个外连接同理，使用多个LEFT JOIN
+
+#### 9. 自外连接
+使用JOIN ON 作用于相同的表
+```sql
+USE sql_hr
+
+SELECT 
+		e.employee_id,
+		e.first_name,
+		m.first_name AS manager
+FROM employees e
+LEFT JOIN employees m
+	ON e.reports_to = m.employee_id
+```
+
+#### 10. USING 字句
+

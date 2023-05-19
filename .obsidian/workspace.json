@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统与云原生主题/OSTEP/Ch20. 分页：较小的表.md",
+                "file": "SQL Review/Ch3 Inner Join 内连接 Outer Join 外连接.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统与云原生主题/OSTEP/Ch20. 分页：较小的表.md",
+                "file": "SQL Review/Ch3 Inner Join 内连接 Outer Join 外连接.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统与云原生主题/OSTEP/Ch20. 分页：较小的表.md",
+                "file": "SQL Review/Ch3 Inner Join 内连接 Outer Join 外连接.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统与云原生主题/OSTEP/Ch20. 分页：较小的表.md"
+                "file": "SQL Review/Ch3 Inner Join 内连接 Outer Join 外连接.md"
               }
             }
           },
@@ -183,10 +183,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "a73ef327d89c9de8",
+  "active": "67bf78591eeacbd0",
   "lastOpenFiles": [
-    "操作系统与云原生主题/OSTEP/Ch19. 分页：快速地址转换（TLB）.md",
     "操作系统与云原生主题/OSTEP/Ch20. 分页：较小的表.md",
+    "操作系统与云原生主题/OSTEP/Ch19. 分页：快速地址转换（TLB）.md",
     "操作系统与云原生主题/OSTEP/Ch8. MLFQ 多级反馈调度队列.md",
     "操作系统与云原生主题/OSTEP/Ch6.Limited Direct Execution 限制直接执行.md",
     "操作系统与云原生主题/OSTEP/进程API程序调用.md",
