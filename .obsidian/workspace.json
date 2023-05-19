@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm Practice/剑指Offer II/双指针专题 014 - 017.md",
+                "file": "操作系统与云原生主题/OSTEP/Ch20. 分页：较小的表.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm Practice/剑指Offer II/双指针专题 014 - 017.md",
+                "file": "操作系统与云原生主题/OSTEP/Ch20. 分页：较小的表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm Practice/剑指Offer II/双指针专题 014 - 017.md",
+                "file": "操作系统与云原生主题/OSTEP/Ch20. 分页：较小的表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm Practice/剑指Offer II/双指针专题 014 - 017.md"
+                "file": "操作系统与云原生主题/OSTEP/Ch20. 分页：较小的表.md"
               }
             }
           },
@@ -183,8 +183,14 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "67bf78591eeacbd0",
+  "active": "a73ef327d89c9de8",
   "lastOpenFiles": [
+    "操作系统与云原生主题/OSTEP/Ch19. 分页：快速地址转换（TLB）.md",
+    "操作系统与云原生主题/OSTEP/Ch20. 分页：较小的表.md",
+    "操作系统与云原生主题/OSTEP/Ch8. MLFQ 多级反馈调度队列.md",
+    "操作系统与云原生主题/OSTEP/Ch6.Limited Direct Execution 限制直接执行.md",
+    "操作系统与云原生主题/OSTEP/进程API程序调用.md",
+    "Algorithm Practice/剑指Offer II/双指针专题 014 - 017.md",
     "Machine Learning Draft/3 线性回归模型.md",
     "Machine Learning Draft/2.3 无监督学习.md",
     "Machine Learning Draft/2.2 监督学习 supervised learning.md",
@@ -195,13 +201,11 @@
     "annotation.md",
     "Excalidraw/Drawing 2023-04-20 15.19.47.excalidraw.md",
     "Excalidraw/Drawing 2023-05-13 16.04.24.excalidraw.md",
-    "Algorithm Practice/剑指Offer II/双指针专题 014 - 017.md",
     "Images/Pasted image 20230502194611.png",
     "Images",
     "Images/Pasted image 20230502194623.png",
     "Images/Pasted image 20230507183347.png",
     "Images/Pasted image 20230518210014.png",
-    "操作系统与云原生主题/OSTEP/Ch19. 分页：快速地址转换（TLB）.md",
     "操作系统与云原生主题/OSTEP/Ch15. 地址转换.md",
     "配置单.md",
     "Machine Learning Draft/机器学习.md",
@@ -214,14 +218,10 @@
     "System Design Interview/Ch14 Design Youtube.md",
     "System Design Interview/Ch8 Design A URL Shortener.md",
     "Vocabulary/5.9.md",
-    "实习经历描述.md",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas",
-    "System Design Interview/Ch6 Design A Key-Value Store.md",
     "Algorithm Practice/剑指Offer II",
-    "Forex/4.25.md",
-    "Forex/5.2.md",
     "Vocabulary",
     "交易指标",
     "System Design Interview",
