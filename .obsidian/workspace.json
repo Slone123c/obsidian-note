@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL Review/Ch3 Inner Join 内连接 Outer Join 外连接.md",
+                "file": "Reading/2017 芝加哥大学 毕业演讲.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL Review/Ch3 Inner Join 内连接 Outer Join 外连接.md",
+                "file": "Reading/2017 芝加哥大学 毕业演讲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL Review/Ch3 Inner Join 内连接 Outer Join 外连接.md",
+                "file": "Reading/2017 芝加哥大学 毕业演讲.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL Review/Ch3 Inner Join 内连接 Outer Join 外连接.md"
+                "file": "Reading/2017 芝加哥大学 毕业演讲.md"
               }
             }
           },
@@ -185,6 +185,10 @@
   },
   "active": "67bf78591eeacbd0",
   "lastOpenFiles": [
+    "演讲稿.md",
+    "Reading/2017 芝加哥大学 毕业演讲.md",
+    "Reading",
+    "SQL Review/Ch3 Inner Join 内连接 Outer Join 外连接.md",
     "操作系统与云原生主题/OSTEP/Ch20. 分页：较小的表.md",
     "操作系统与云原生主题/OSTEP/Ch19. 分页：快速地址转换（TLB）.md",
     "操作系统与云原生主题/OSTEP/Ch8. MLFQ 多级反馈调度队列.md",
@@ -195,7 +199,6 @@
     "Machine Learning Draft/2.3 无监督学习.md",
     "Machine Learning Draft/2.2 监督学习 supervised learning.md",
     "Machine Learning Draft/2.1 机器学习定义.md",
-    "SQL Review/Ch3 Inner Join 内连接 Outer Join 外连接.md",
     "README.md",
     "SQL Review",
     "annotation.md",
@@ -216,8 +219,6 @@
     "templates/FOREX.md",
     "Forex/4.11.md",
     "System Design Interview/Ch14 Design Youtube.md",
-    "System Design Interview/Ch8 Design A URL Shortener.md",
-    "Vocabulary/5.9.md",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas",
@@ -227,7 +228,6 @@
     "System Design Interview",
     "Algorithm Practice/leetcode 七周算法特训/W3. 树",
     "操作系统与云原生主题/OSTEP",
-    "Excalidraw",
     "Pasted image 20230411174302.png"
   ]
 }

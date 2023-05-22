@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2017 芝加哥大学 毕业演讲",
+      "path": "Reading/2017 芝加哥大学 毕业演讲.md"
+    },
+    {
+      "basename": "演讲稿",
+      "path": "演讲稿.md"
+    },
+    {
       "basename": "Ch3 Inner Join 内连接 Outer Join 外连接",
       "path": "SQL Review/Ch3 Inner Join 内连接 Outer Join 外连接.md"
     },
@@ -157,10 +165,6 @@
       "path": "Algorithm Practice/leetcode 七周算法特训/W3. 树/Offer II 43.往完全二叉树添加节点.md"
     },
     {
-      "basename": "演讲稿",
-      "path": "演讲稿.md"
-    },
-    {
       "basename": "进程",
       "path": "操作系统与云原生主题/OSTEP/进程.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2. 用队列实现栈",
       "path": "Algorithm Practice/leetcode 七周算法特训/W1.数据结构的使用/2. 用队列实现栈.md"
-    },
-    {
-      "basename": "4. 两数之和",
-      "path": "Algorithm Practice/leetcode 七周算法特训/W1.数据结构的使用/4. 两数之和.md"
     }
   ],
   "omittedPaths": [],
