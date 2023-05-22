@@ -117,7 +117,7 @@ CROSS JOIN products p
 
 
 #### 13. 联合
-使用UNION可以合并多段查询的记录
+使用UNION可以合并多段查询的记录，返回的列数量应该一致，第一段的选择决定了列名
 ```SQL
 SELECT 
 	order_id,
@@ -132,4 +132,31 @@ SELECT
 	'Archived' AS status
 FROM orders
 WHERE order_date < '2019-01-01'
+
+-- Exercise
+SELECT 
+	customer_id,
+	first_name,
+	points,
+	'Bronze' AS type
+FROM customers
+WHERE points < 2000
+UNION
+SELECT 
+	customer_id,
+	first_name,
+	points,
+	'Silver' AS type
+FROM customers
+-- WHERE points >= 2000 and points < 3000
+WHERE points BETWEEN 2000 and 3000
+UNION
+SELECT 
+	customer_id,
+	first_name,
+	points,
+	'Gold' AS type
+FROM customers
+WHERE points >= 3000
+ORDER BY first_name
 ```
