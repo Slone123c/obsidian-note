@@ -114,3 +114,22 @@ SELECT
 FROM customers c
 CROSS JOIN products p
 ```
+
+
+#### 13. 联合
+使用UNION可以合并多段查询的记录
+```SQL
+SELECT 
+	order_id,
+	order_date,
+	'Active' AS status
+FROM orders
+WHERE order_date >= '2019-01-01'
+UNION
+SELECT 
+	order_id,
+	order_date,
+	'Archived' AS status
+FROM orders
+WHERE order_date < '2019-01-01'
+```
