@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL Review/Ch4 列属性.md",
+                "file": "Reading/2017 芝加哥大学 毕业演讲.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL Review/Ch4 列属性.md",
+                "file": "Reading/2017 芝加哥大学 毕业演讲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL Review/Ch4 列属性.md",
+                "file": "Reading/2017 芝加哥大学 毕业演讲.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL Review/Ch4 列属性.md"
+                "file": "Reading/2017 芝加哥大学 毕业演讲.md"
               }
             }
           },
@@ -185,6 +185,8 @@
   },
   "active": "67bf78591eeacbd0",
   "lastOpenFiles": [
+    "演讲稿.md",
+    "实习经历描述.md",
     "SQL Review/Ch3 Inner Join 内连接 Outer Join 外连接.md",
     "SQL Review/Ch4 列属性.md",
     "Reading/2017 芝加哥大学 毕业演讲.md",
@@ -193,7 +195,6 @@
     "Memos/delete.md",
     "未命名.canvas",
     "未命名 1.canvas",
-    "演讲稿.md",
     "Reading",
     "操作系统与云原生主题/OSTEP/Ch20. 分页：较小的表.md",
     "操作系统与云原生主题/OSTEP/Ch19. 分页：快速地址转换（TLB）.md",
@@ -220,7 +221,6 @@
     "Machine Learning Draft/机器学习.md",
     "Forex/技术指标讲解.md",
     "Machine Learning Draft",
-    "System Design Interview/设计系统的步骤.md",
     "未命名 2.canvas",
     "Algorithm Practice/剑指Offer II",
     "Vocabulary",

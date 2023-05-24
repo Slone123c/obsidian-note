@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Ch4 列属性",
-      "path": "SQL Review/Ch4 列属性.md"
+      "basename": "2017 芝加哥大学 毕业演讲",
+      "path": "Reading/2017 芝加哥大学 毕业演讲.md"
+    },
+    {
+      "basename": "演讲稿",
+      "path": "演讲稿.md"
+    },
+    {
+      "basename": "实习经历描述",
+      "path": "实习经历描述.md"
     },
     {
       "basename": "Ch3 Inner Join 内连接 Outer Join 外连接",
       "path": "SQL Review/Ch3 Inner Join 内连接 Outer Join 外连接.md"
     },
     {
-      "basename": "2017 芝加哥大学 毕业演讲",
-      "path": "Reading/2017 芝加哥大学 毕业演讲.md"
+      "basename": "Ch4 列属性",
+      "path": "SQL Review/Ch4 列属性.md"
     },
     {
       "basename": "Ch14 Design Youtube",
@@ -23,10 +31,6 @@
     {
       "basename": "delete",
       "path": "Memos/delete.md"
-    },
-    {
-      "basename": "演讲稿",
-      "path": "演讲稿.md"
     },
     {
       "basename": "Ch20. 分页：较小的表",
@@ -127,10 +131,6 @@
     {
       "basename": "5.9",
       "path": "Vocabulary/5.9.md"
-    },
-    {
-      "basename": "实习经历描述",
-      "path": "实习经历描述.md"
     },
     {
       "basename": "Ch6 Design A Key-Value Store",
