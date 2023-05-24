@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading/2017 芝加哥大学 毕业演讲.md",
+                "file": "SQL Review/Ch3 Inner Join 内连接 Outer Join 外连接.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading/2017 芝加哥大学 毕业演讲.md",
+                "file": "SQL Review/Ch3 Inner Join 内连接 Outer Join 外连接.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reading/2017 芝加哥大学 毕业演讲.md",
+                "file": "SQL Review/Ch3 Inner Join 内连接 Outer Join 外连接.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reading/2017 芝加哥大学 毕业演讲.md"
+                "file": "SQL Review/Ch3 Inner Join 内连接 Outer Join 外连接.md"
               }
             }
           },
@@ -185,11 +185,11 @@
   },
   "active": "67bf78591eeacbd0",
   "lastOpenFiles": [
+    "Reading/2017 芝加哥大学 毕业演讲.md",
     "SQL Review/Ch3 Inner Join 内连接 Outer Join 外连接.md",
     "System Design Interview/Ch14 Design Youtube.md",
     "Memos/2023-04-20.md",
     "Memos/delete.md",
-    "Reading/2017 芝加哥大学 毕业演讲.md",
     "未命名.canvas",
     "未命名 1.canvas",
     "演讲稿.md",
