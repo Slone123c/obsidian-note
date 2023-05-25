@@ -5,6 +5,18 @@
       "path": "操作系统与云原生主题/OSTEP/Ch26. 并发：介绍.md"
     },
     {
+      "basename": "Ch6.Limited Direct Execution 限制直接执行",
+      "path": "操作系统与云原生主题/OSTEP/Ch6.Limited Direct Execution 限制直接执行.md"
+    },
+    {
+      "basename": "进程",
+      "path": "操作系统与云原生主题/OSTEP/进程.md"
+    },
+    {
+      "basename": "进程API程序调用",
+      "path": "操作系统与云原生主题/OSTEP/进程API程序调用.md"
+    },
+    {
       "basename": "2017 芝加哥大学 毕业演讲",
       "path": "Reading/2017 芝加哥大学 毕业演讲.md"
     },
@@ -47,14 +59,6 @@
     {
       "basename": "Ch8. MLFQ 多级反馈调度队列",
       "path": "操作系统与云原生主题/OSTEP/Ch8. MLFQ 多级反馈调度队列.md"
-    },
-    {
-      "basename": "Ch6.Limited Direct Execution 限制直接执行",
-      "path": "操作系统与云原生主题/OSTEP/Ch6.Limited Direct Execution 限制直接执行.md"
-    },
-    {
-      "basename": "进程API程序调用",
-      "path": "操作系统与云原生主题/OSTEP/进程API程序调用.md"
     },
     {
       "basename": "双指针专题 014 - 017",
@@ -179,10 +183,6 @@
     {
       "basename": "Offer II 43.往完全二叉树添加节点",
       "path": "Algorithm Practice/leetcode 七周算法特训/W3. 树/Offer II 43.往完全二叉树添加节点.md"
-    },
-    {
-      "basename": "进程",
-      "path": "操作系统与云原生主题/OSTEP/进程.md"
     },
     {
       "basename": "Cgroup",
