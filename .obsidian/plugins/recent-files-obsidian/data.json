@@ -5,6 +5,22 @@
       "path": "操作系统与云原生主题/OSTEP/Ch26. 并发：介绍.md"
     },
     {
+      "basename": "Ch13. 抽象：地址空间",
+      "path": "操作系统与云原生主题/OSTEP/Ch13. 抽象：地址空间.md"
+    },
+    {
+      "basename": "Ch14. 插叙：内存操作API",
+      "path": "操作系统与云原生主题/OSTEP/Ch14. 插叙：内存操作API.md"
+    },
+    {
+      "basename": "Ch19. 分页：快速地址转换（TLB）",
+      "path": "操作系统与云原生主题/OSTEP/Ch19. 分页：快速地址转换（TLB）.md"
+    },
+    {
+      "basename": "Ch20. 分页：较小的表",
+      "path": "操作系统与云原生主题/OSTEP/Ch20. 分页：较小的表.md"
+    },
+    {
       "basename": "Ch6.Limited Direct Execution 限制直接执行",
       "path": "操作系统与云原生主题/OSTEP/Ch6.Limited Direct Execution 限制直接执行.md"
     },
@@ -47,14 +63,6 @@
     {
       "basename": "delete",
       "path": "Memos/delete.md"
-    },
-    {
-      "basename": "Ch20. 分页：较小的表",
-      "path": "操作系统与云原生主题/OSTEP/Ch20. 分页：较小的表.md"
-    },
-    {
-      "basename": "Ch19. 分页：快速地址转换（TLB）",
-      "path": "操作系统与云原生主题/OSTEP/Ch19. 分页：快速地址转换（TLB）.md"
     },
     {
       "basename": "Ch8. MLFQ 多级反馈调度队列",
@@ -153,16 +161,8 @@
       "path": "Forex/5.2.md"
     },
     {
-      "basename": "Ch14. 插叙：内存操作API",
-      "path": "操作系统与云原生主题/OSTEP/Ch14. 插叙：内存操作API.md"
-    },
-    {
       "basename": "EMA 指数移动平均线(Exponential Moving Average)",
       "path": "交易指标/EMA 指数移动平均线(Exponential Moving Average).md"
-    },
-    {
-      "basename": "Ch13. 抽象：地址空间",
-      "path": "操作系统与云原生主题/OSTEP/Ch13. 抽象：地址空间.md"
     },
     {
       "basename": "Ch7 Design A Unique ID Generator In Distributed System",
