@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Ch4 列属性",
+      "path": "SQL Review/Ch4 列属性.md"
+    },
+    {
+      "basename": "Ch3 Inner Join 内连接 Outer Join 外连接",
+      "path": "SQL Review/Ch3 Inner Join 内连接 Outer Join 外连接.md"
+    },
+    {
       "basename": "Ch26. 并发：介绍",
       "path": "操作系统与云原生主题/OSTEP/Ch26. 并发：介绍.md"
     },
@@ -43,14 +51,6 @@
     {
       "basename": "实习经历描述",
       "path": "实习经历描述.md"
-    },
-    {
-      "basename": "Ch3 Inner Join 内连接 Outer Join 外连接",
-      "path": "SQL Review/Ch3 Inner Join 内连接 Outer Join 外连接.md"
-    },
-    {
-      "basename": "Ch4 列属性",
-      "path": "SQL Review/Ch4 列属性.md"
     },
     {
       "basename": "Ch14 Design Youtube",

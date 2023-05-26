@@ -34,3 +34,10 @@ VALUES (
 
 
 # 3- 插入多行 | Inserting Multiple Rows
+```SQl
+INSERT INTO shippers (name)
+VALUES('Shipper1'),
+	  ('Shipper2'),
+	  ('Shipper3')
+			
+```
