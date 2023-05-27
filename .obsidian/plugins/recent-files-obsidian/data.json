@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Ch27. 插叙：线程API",
+      "path": "操作系统与云原生主题/OSTEP/Ch27. 插叙：线程API.md"
+    },
+    {
+      "basename": "Ch26. 并发：介绍",
+      "path": "操作系统与云原生主题/OSTEP/Ch26. 并发：介绍.md"
+    },
+    {
       "basename": "Ch4 列属性",
       "path": "SQL Review/Ch4 列属性.md"
     },
     {
       "basename": "Ch3 Inner Join 内连接 Outer Join 外连接",
       "path": "SQL Review/Ch3 Inner Join 内连接 Outer Join 外连接.md"
-    },
-    {
-      "basename": "Ch26. 并发：介绍",
-      "path": "操作系统与云原生主题/OSTEP/Ch26. 并发：介绍.md"
     },
     {
       "basename": "Ch13. 抽象：地址空间",
@@ -195,10 +199,6 @@
     {
       "basename": "剑指 Offer 60. n个骰子的点数",
       "path": "Algorithm Practice/leetcode 七周算法特训/动态规划（一）/强化练习/选修题/剑指 Offer 60. n个骰子的点数.md"
-    },
-    {
-      "basename": "3. 设计循环队列",
-      "path": "Algorithm Practice/leetcode 七周算法特训/W1.数据结构的使用/3. 设计循环队列.md"
     }
   ],
   "omittedPaths": [],

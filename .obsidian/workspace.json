@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL Review/Ch4 列属性.md",
+                "file": "操作系统与云原生主题/OSTEP/Ch27. 插叙：线程API.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL Review/Ch4 列属性.md",
+                "file": "操作系统与云原生主题/OSTEP/Ch27. 插叙：线程API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL Review/Ch4 列属性.md",
+                "file": "操作系统与云原生主题/OSTEP/Ch27. 插叙：线程API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL Review/Ch4 列属性.md"
+                "file": "操作系统与云原生主题/OSTEP/Ch27. 插叙：线程API.md"
               }
             }
           },
@@ -185,8 +185,10 @@
   },
   "active": "67bf78591eeacbd0",
   "lastOpenFiles": [
-    "SQL Review/Ch3 Inner Join 内连接 Outer Join 外连接.md",
     "操作系统与云原生主题/OSTEP/Ch26. 并发：介绍.md",
+    "操作系统与云原生主题/OSTEP/Ch27. 插叙：线程API.md",
+    "SQL Review/Ch4 列属性.md",
+    "SQL Review/Ch3 Inner Join 内连接 Outer Join 外连接.md",
     "操作系统与云原生主题/OSTEP/Ch13. 抽象：地址空间.md",
     "操作系统与云原生主题/OSTEP/Ch14. 插叙：内存操作API.md",
     "操作系统与云原生主题/OSTEP/Ch19. 分页：快速地址转换（TLB）.md",
@@ -198,7 +200,6 @@
     "Reading/2017 芝加哥大学 毕业演讲.md",
     "演讲稿.md",
     "实习经历描述.md",
-    "SQL Review/Ch4 列属性.md",
     "System Design Interview/Ch14 Design Youtube.md",
     "Memos/2023-04-20.md",
     "Memos/delete.md",
@@ -215,7 +216,6 @@
     "SQL Review",
     "annotation.md",
     "Excalidraw/Drawing 2023-04-20 15.19.47.excalidraw.md",
-    "Excalidraw/Drawing 2023-05-13 16.04.24.excalidraw.md",
     "Images/Pasted image 20230502194611.png",
     "Images",
     "Images/Pasted image 20230502194623.png",
