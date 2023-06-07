@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "英语/新东方高中绿宝书/Word List 1.md",
+                "file": "templates/word.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "英语/新东方高中绿宝书/Word List 1.md",
+                "file": "templates/word.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "英语/新东方高中绿宝书/Word List 1.md",
+                "file": "templates/word.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "英语/新东方高中绿宝书/Word List 1.md"
+                "file": "templates/word.md"
               }
             }
           },
@@ -185,8 +185,8 @@
   },
   "active": "67fa727570e322cc",
   "lastOpenFiles": [
-    "templates/word.md",
     "英语/新东方高中绿宝书/Word List 1.md",
+    "templates/word.md",
     "Excalidraw/Drawing 2023-06-07 13.44.45.excalidraw.md",
     "templates/题目.md",
     "templates/FOREX.md",

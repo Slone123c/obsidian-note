@@ -23,7 +23,7 @@
 		2. Most doctors recommend sleeping on a firm mattress. 大多数医生建议睡在硬床垫上。
 ----
 ### like
-1. **释义1**
+1. **similar to something else, or happening in the same way 像，与...一样 prep.**
 	1. <font color="#c0504d">**形容词名词搭配 adj + noun**</font>
 		1. 例句
 		2. 例句
@@ -34,6 +34,7 @@
 	3. <font color="#4f81bd">**词组 phrase**</font>
 		1. 例句
 		2. 例句
+	4. 
 2. **释义2**
 	1. <font color="#c0504d">**形容词名词搭配 adj + noun**</font>
 		1. 例
