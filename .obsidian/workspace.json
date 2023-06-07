@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ebf569d0cea926c7",
+        "id": "7f83d807292596bc",
         "type": "tabs",
         "children": [
           {
-            "id": "67bf78591eeacbd0",
+            "id": "cd08fdfe63cd5bdd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "操作系统与云原生主题/OSTEP/Ch27. 插叙：线程API.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "memos_view",
+              "state": {}
             }
           }
         ]
@@ -38,7 +34,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabeticalReverse"
               }
             }
           },
@@ -101,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统与云原生主题/OSTEP/Ch27. 插叙：线程API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统与云原生主题/OSTEP/Ch27. 插叙：线程API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "操作系统与云原生主题/OSTEP/Ch27. 插叙：线程API.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,52 +175,52 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "67bf78591eeacbd0",
+  "active": "cd08fdfe63cd5bdd",
   "lastOpenFiles": [
-    "操作系统与云原生主题/OSTEP/Ch26. 并发：介绍.md",
-    "操作系统与云原生主题/OSTEP/Ch27. 插叙：线程API.md",
-    "SQL Review/Ch4 列属性.md",
-    "SQL Review/Ch3 Inner Join 内连接 Outer Join 外连接.md",
-    "操作系统与云原生主题/OSTEP/Ch13. 抽象：地址空间.md",
-    "操作系统与云原生主题/OSTEP/Ch14. 插叙：内存操作API.md",
-    "操作系统与云原生主题/OSTEP/Ch19. 分页：快速地址转换（TLB）.md",
-    "操作系统与云原生主题/OSTEP/Ch20. 分页：较小的表.md",
-    "Pasted image 20230525135349.png",
-    "操作系统与云原生主题/OSTEP/Ch6.Limited Direct Execution 限制直接执行.md",
-    "操作系统与云原生主题/OSTEP/进程.md",
-    "操作系统与云原生主题/OSTEP/进程API程序调用.md",
-    "Reading/2017 芝加哥大学 毕业演讲.md",
-    "演讲稿.md",
-    "实习经历描述.md",
-    "System Design Interview/Ch14 Design Youtube.md",
+    "CS与后端开发/操作系统/Cgroup.md",
+    "未命名",
+    "CS与后端开发/操作系统/Namespace.md",
+    "Memos/2023-06-07.md",
+    "Excalidraw/Drawing 2023-06-07 13.44.47.excalidraw.md",
+    "Excalidraw/Drawing 2023-06-07 13.44.45.excalidraw.md",
+    "Excalidraw",
     "Memos/2023-04-20.md",
     "Memos/delete.md",
+    "ForexT/交易指标/技术指标讲解.md",
+    "英语/Vocabulary/5.9.md",
+    "英语",
+    "annotation.md",
+    "Reading_Annotation/数据密集型应用系统设计Annotation.md",
+    "Reading_Annotation/Designing Data-Intensive Applications(Annotation).md",
+    "Reading/2017 芝加哥大学 毕业演讲.md",
+    "CS与后端开发",
+    "Images/Pasted image 20230502194611.png",
+    "ForexT",
+    "Images/Pasted image 20230502194623.png",
+    "Images/Pasted image 20230518210014.png",
+    "Images/Pasted image 20230525135349.png",
+    "杂项/配置单.md",
+    "杂项/演讲稿.md",
+    "README.md",
+    "杂项/实习经历描述.md",
+    "杂项",
+    "CS与后端开发/操作系统/OSTEP/Ch26. 并发：介绍.md",
+    "CS与后端开发/操作系统/OSTEP/Ch27. 插叙：线程API.md",
+    "Images/Pasted image 20230507183347.png",
+    "CS与后端开发/SQL Review/Ch4 列属性.md",
+    "CS与后端开发/SQL Review/Ch3 Inner Join 内连接 Outer Join 外连接.md",
+    "CS与后端开发/操作系统/OSTEP/Ch13. 抽象：地址空间.md",
+    "CS与后端开发/操作系统/OSTEP/Ch14. 插叙：内存操作API.md",
+    "CS与后端开发/操作系统/OSTEP/Ch19. 分页：快速地址转换（TLB）.md",
+    "CS与后端开发/操作系统/OSTEP/Ch20. 分页：较小的表.md",
+    "CS与后端开发/操作系统/OSTEP/Ch6.Limited Direct Execution 限制直接执行.md",
     "未命名.canvas",
     "未命名 1.canvas",
     "Reading",
-    "操作系统与云原生主题/OSTEP/Ch8. MLFQ 多级反馈调度队列.md",
-    "Algorithm Practice/剑指Offer II/双指针专题 014 - 017.md",
-    "Machine Learning Draft/3 线性回归模型.md",
-    "Machine Learning Draft/2.3 无监督学习.md",
-    "Machine Learning Draft/2.2 监督学习 supervised learning.md",
-    "Machine Learning Draft/2.1 机器学习定义.md",
-    "README.md",
-    "SQL Review",
-    "annotation.md",
-    "Excalidraw/Drawing 2023-04-20 15.19.47.excalidraw.md",
-    "Images/Pasted image 20230502194611.png",
+    "CS与后端开发/SQL Review",
     "Images",
-    "Images/Pasted image 20230502194623.png",
-    "Images/Pasted image 20230507183347.png",
-    "Images/Pasted image 20230518210014.png",
-    "Machine Learning Draft",
+    "CS与后端开发/Machine Learning Draft",
     "未命名 2.canvas",
-    "Algorithm Practice/剑指Offer II",
-    "Vocabulary",
-    "交易指标",
-    "System Design Interview",
-    "Algorithm Practice/leetcode 七周算法特训/W3. 树",
-    "操作系统与云原生主题/OSTEP",
     "Pasted image 20230411174302.png"
   ]
 }
