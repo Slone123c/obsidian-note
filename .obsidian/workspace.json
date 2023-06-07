@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "英语/新东方高中绿宝书/Word List 1.md",
+                "file": "templates/word.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "英语/新东方高中绿宝书/Word List 1.md",
+                "file": "templates/word.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "英语/新东方高中绿宝书/Word List 1.md",
+                "file": "templates/word.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "英语/新东方高中绿宝书/Word List 1.md"
+                "file": "templates/word.md"
               }
             }
           },
@@ -186,6 +186,11 @@
   "active": "67fa727570e322cc",
   "lastOpenFiles": [
     "英语/新东方高中绿宝书/Word List 1.md",
+    "templates/word.md",
+    "templates/题目.md",
+    "README.md",
+    "templates/FOREX.md",
+    "templates/pdf-name.md",
     "英语/新东方高中绿宝书",
     "CS与后端开发/操作系统/Cgroup.md",
     "未命名",
@@ -211,7 +216,6 @@
     "Images/Pasted image 20230525135349.png",
     "杂项/配置单.md",
     "杂项/演讲稿.md",
-    "README.md",
     "杂项/实习经历描述.md",
     "杂项",
     "CS与后端开发/操作系统/OSTEP/Ch26. 并发：介绍.md",
@@ -219,10 +223,6 @@
     "Images/Pasted image 20230507183347.png",
     "CS与后端开发/SQL Review/Ch4 列属性.md",
     "CS与后端开发/SQL Review/Ch3 Inner Join 内连接 Outer Join 外连接.md",
-    "CS与后端开发/操作系统/OSTEP/Ch13. 抽象：地址空间.md",
-    "CS与后端开发/操作系统/OSTEP/Ch14. 插叙：内存操作API.md",
-    "CS与后端开发/操作系统/OSTEP/Ch19. 分页：快速地址转换（TLB）.md",
-    "CS与后端开发/操作系统/OSTEP/Ch20. 分页：较小的表.md",
     "未命名.canvas",
     "未命名 1.canvas",
     "Reading",

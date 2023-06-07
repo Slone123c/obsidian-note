@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "word",
+      "path": "templates/word.md"
+    },
+    {
       "basename": "Word List 1",
       "path": "英语/新东方高中绿宝书/Word List 1.md"
+    },
+    {
+      "basename": "题目",
+      "path": "templates/题目.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "FOREX",
+      "path": "templates/FOREX.md"
+    },
+    {
+      "basename": "pdf-name",
+      "path": "templates/pdf-name.md"
     },
     {
       "basename": "Cgroup",
@@ -69,10 +89,6 @@
       "path": "杂项/演讲稿.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
       "basename": "实习经历描述",
       "path": "杂项/实习经历描述.md"
     },
@@ -87,10 +103,6 @@
     {
       "basename": "Pasted image 20230507183347",
       "path": "Images/Pasted image 20230507183347.png"
-    },
-    {
-      "basename": "FOREX",
-      "path": "templates/FOREX.md"
     },
     {
       "basename": "Ch4 列属性",
@@ -187,18 +199,6 @@
     {
       "basename": "4.25",
       "path": "ForexT/Forex 分析报告/4.25.md"
-    },
-    {
-      "basename": "5.2",
-      "path": "ForexT/Forex 分析报告/5.2.md"
-    },
-    {
-      "basename": "EMA 指数移动平均线(Exponential Moving Average)",
-      "path": "ForexT/交易指标/EMA 指数移动平均线(Exponential Moving Average).md"
-    },
-    {
-      "basename": "Ch7 Design A Unique ID Generator In Distributed System",
-      "path": "CS与后端开发/System Design Interview/Ch7 Design A Unique ID Generator In Distributed System.md"
     }
   ],
   "omittedPaths": [],
