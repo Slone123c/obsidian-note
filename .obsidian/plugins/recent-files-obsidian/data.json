@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "word",
-      "path": "templates/word.md"
-    },
-    {
       "basename": "Word List 1",
       "path": "英语/新东方高中绿宝书/Word List 1.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "未命名.md"
+    },
+    {
+      "basename": "word",
+      "path": "templates/word.md"
     },
     {
       "basename": "题目",
@@ -195,10 +199,6 @@
     {
       "basename": "Ch6 Design A Key-Value Store",
       "path": "CS与后端开发/System Design Interview/Ch6 Design A Key-Value Store.md"
-    },
-    {
-      "basename": "4.25",
-      "path": "ForexT/Forex 分析报告/4.25.md"
     }
   ],
   "omittedPaths": [],

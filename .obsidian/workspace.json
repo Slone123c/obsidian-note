@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/word.md",
+                "file": "英语/新东方高中绿宝书/Word List 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/word.md",
+                "file": "英语/新东方高中绿宝书/Word List 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/word.md",
+                "file": "英语/新东方高中绿宝书/Word List 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/word.md"
+                "file": "英语/新东方高中绿宝书/Word List 1.md"
               }
             }
           },
@@ -185,6 +185,7 @@
   },
   "active": "67fa727570e322cc",
   "lastOpenFiles": [
+    "未命名.md",
     "英语/新东方高中绿宝书/Word List 1.md",
     "templates/word.md",
     "templates/题目.md",
@@ -222,7 +223,6 @@
     "CS与后端开发/操作系统/OSTEP/Ch27. 插叙：线程API.md",
     "Images/Pasted image 20230507183347.png",
     "CS与后端开发/SQL Review/Ch4 列属性.md",
-    "CS与后端开发/SQL Review/Ch3 Inner Join 内连接 Outer Join 外连接.md",
     "未命名.canvas",
     "未命名 1.canvas",
     "Reading",
