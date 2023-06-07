@@ -21,6 +21,9 @@
 	1. <font color="#953734">**形容词名词搭配/名词用法 adj + noun/noun**</font>
 		1. The sofa cushions are fairly firm. 沙发垫子相当坚实。
 		2. Most doctors recommend sleeping on a firm mattress. 大多数医生建议睡在硬床垫上。
+
+形容词 **firm** 来源于拉丁语形容词 **firmus** (稳固的 **,** 坚固的);名词 **firm** 来源于拉丁语动词 **firmare** (巩固 **,** 确定) **,** 进入意大利语为 **firmare,** 意为“签名确认、签名” **,** 形成名词 **firma** (签名)的基础 **,** 延伸意义为“做生意的名字”→“生意”;18世纪进入英语时继承了后两种意义。
+
 ----
 ### like
 1. **similar to something else, or happening in the same way 像，与...一样 prep.**
@@ -59,3 +62,5 @@
 		3. Janet dieted for months before her wedding. 珍妮特在婚礼前几个月进行了节食。
 
 <font color="#c0504d">当表达在节食时，使用on diet，不要使用~~doing a diet~~</font>
+
+来自拉丁语 **dieta,** 一日的工作，饮食，作息。
