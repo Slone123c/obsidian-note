@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Word List 1",
+      "path": "英语/新东方高中绿宝书/Word List 1.md"
+    },
+    {
       "basename": "Cgroup",
       "path": "CS与后端开发/操作系统/Cgroup.md"
     },
@@ -34,7 +38,7 @@
     },
     {
       "basename": "5.9",
-      "path": "英语/Vocabulary/5.9.md"
+      "path": "英语/New Vocabulary/5.9.md"
     },
     {
       "basename": "2017 芝加哥大学 毕业演讲",
@@ -195,10 +199,6 @@
     {
       "basename": "Ch7 Design A Unique ID Generator In Distributed System",
       "path": "CS与后端开发/System Design Interview/Ch7 Design A Unique ID Generator In Distributed System.md"
-    },
-    {
-      "basename": "Ch5 Design Consistent Hashing",
-      "path": "CS与后端开发/System Design Interview/Ch5 Design Consistent Hashing.md"
     }
   ],
   "omittedPaths": [],

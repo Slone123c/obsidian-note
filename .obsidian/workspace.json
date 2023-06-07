@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "7f83d807292596bc",
+        "id": "f6b761f20c16329a",
         "type": "tabs",
         "children": [
           {
-            "id": "cd08fdfe63cd5bdd",
+            "id": "67fa727570e322cc",
             "type": "leaf",
             "state": {
-              "type": "memos_view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "英语/新东方高中绿宝书/Word List 1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -97,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "英语/新东方高中绿宝书/Word List 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "英语/新东方高中绿宝书/Word List 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "英语/新东方高中绿宝书/Word List 1.md"
+              }
             }
           },
           {
@@ -175,8 +183,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "cd08fdfe63cd5bdd",
+  "active": "67fa727570e322cc",
   "lastOpenFiles": [
+    "英语/新东方高中绿宝书/Word List 1.md",
+    "英语/新东方高中绿宝书",
     "CS与后端开发/操作系统/Cgroup.md",
     "未命名",
     "CS与后端开发/操作系统/Namespace.md",
@@ -187,7 +197,7 @@
     "Memos/2023-04-20.md",
     "Memos/delete.md",
     "ForexT/交易指标/技术指标讲解.md",
-    "英语/Vocabulary/5.9.md",
+    "英语/New Vocabulary/5.9.md",
     "英语",
     "annotation.md",
     "Reading_Annotation/数据密集型应用系统设计Annotation.md",
@@ -213,13 +223,11 @@
     "CS与后端开发/操作系统/OSTEP/Ch14. 插叙：内存操作API.md",
     "CS与后端开发/操作系统/OSTEP/Ch19. 分页：快速地址转换（TLB）.md",
     "CS与后端开发/操作系统/OSTEP/Ch20. 分页：较小的表.md",
-    "CS与后端开发/操作系统/OSTEP/Ch6.Limited Direct Execution 限制直接执行.md",
     "未命名.canvas",
     "未命名 1.canvas",
     "Reading",
     "CS与后端开发/SQL Review",
     "Images",
-    "CS与后端开发/Machine Learning Draft",
     "未命名 2.canvas",
     "Pasted image 20230411174302.png"
   ]
