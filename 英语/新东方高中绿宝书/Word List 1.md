@@ -24,18 +24,16 @@
 ----
 ### like
 1. **similar to something else, or happening in the same way 像，与...一样 prep.**
-	1. <font color="#c0504d">**形容词名词搭配 adj + noun**</font>
-		1. 例句
-		2. 例句
-		3. 例句
-	2. <font color="#f79646">**动词搭配 verb**</font>
-		1. 例句
-		2. 例句
-	3. <font color="#4f81bd">**词组 phrase**</font>
-		1. 例句
-		2. 例句
-	4. 
-2. **释义2**
+	1. <font color="#76923c">**介词 preposition**</font>
+		1. He eats like a pig! 他吃得像头猪！
+		2. He’s very like his brother.  他很像他的兄弟。
+		3. The garden looked like a jungle. 这个花园看起来像丛林。
+2. **to enjoy something or think that it is nice or good 喜欢，喜爱 v.**
+	1. <font color="#f79646">**动词搭配 verb**</font>
+		1. I like your jacket. 我喜欢你的夹克。
+		2. How do you like living in London? 你喜欢在伦敦生活吗？
+		3. One of the things I like about John is his sense of humor. 我喜欢约翰的一件事情就是他的幽默感。
+3. **the like of someone/something 喜好，爱好 n.** 
 	1. <font color="#c0504d">**形容词名词搭配 adj + noun**</font>
 		1. 例
 		2. 例
@@ -46,6 +44,9 @@
 	3. <font color="#4f81bd">**词组 phrase**</font>
 		1. 例
 		2. 例
-
+	4. <font color="#76923c">**介词 preposition**</font>
+		1. 例
+		2. 例
+		3. 例
 
 

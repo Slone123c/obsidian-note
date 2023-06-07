@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/word.md",
+                "file": "英语/新东方高中绿宝书/Word List 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "humour",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +81,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -101,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/word.md",
+                "file": "英语/新东方高中绿宝书/Word List 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/word.md",
+                "file": "英语/新东方高中绿宝书/Word List 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/word.md"
+                "file": "英语/新东方高中绿宝书/Word List 1.md"
               }
             }
           },
@@ -183,10 +184,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "67fa727570e322cc",
+  "active": "5a3d067ddf366994",
   "lastOpenFiles": [
-    "英语/新东方高中绿宝书/Word List 1.md",
     "templates/word.md",
+    "英语/新东方高中绿宝书/Word List 1.md",
     "Excalidraw/Drawing 2023-06-07 13.44.45.excalidraw.md",
     "templates/题目.md",
     "templates/FOREX.md",
