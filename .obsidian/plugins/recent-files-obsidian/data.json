@@ -21,10 +21,6 @@
       "path": "templates/FOREX.md"
     },
     {
-      "basename": "未命名",
-      "path": "未命名.md"
-    },
-    {
       "basename": "README",
       "path": "README.md"
     },
@@ -191,14 +187,6 @@
     {
       "basename": "4.11",
       "path": "ForexT/Forex 分析报告/4.11.md"
-    },
-    {
-      "basename": "Ch8 Design A URL Shortener",
-      "path": "CS与后端开发/System Design Interview/Ch8 Design A URL Shortener.md"
-    },
-    {
-      "basename": "Ch6 Design A Key-Value Store",
-      "path": "CS与后端开发/System Design Interview/Ch6 Design A Key-Value Store.md"
     }
   ],
   "omittedPaths": [],

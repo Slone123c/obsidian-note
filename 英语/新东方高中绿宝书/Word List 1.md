@@ -37,15 +37,34 @@
 	1. <font color="#c0504d">**形容词名词搭配 adj + noun**</font>
 		1. We all have different likes and dislikes. 我们都有不同的喜好和厌恶。
 		2. He is more than happy to discuss his life, his likes and his career. 他非常乐意讨论他的生活、兴趣爱好和职业。
+
+----
+### diet
+1. **a way of eating in which you only eat certain foods, in order to lose weight, or to improve your health 饮食习惯 n.**
+	1. <font color="#c0504d">**形容词名词搭配 adj + noun**</font>
+		1. She followed a strict diet for several weeks.
+		2. A low-calorie diet should solve your weight problem.
 	2. <font color="#f79646">**动词搭配 verb**</font>
-		1. 例
-		2. 例
+		1. I really ought to go on a diet.
+		2. You will feel better if you follow a low-fat diet.
+		3. No cake, thanks – I’m on a diet.
 	3. <font color="#4f81bd">**词组 phrase**</font>
-		1. 
+		1. They exist on a diet of fish.
 		2. 例
 	4. <font color="#76923c">**介词 preposition**</font>
 		1. 例
 		2. 例
+2. **释义2**
+	1. <font color="#c0504d">**形容词名词搭配 adj + noun**</font>
+		1. 例
+		2. 例
 		3. 例
-
-
+	2. <font color="#f79646">**动词搭配 verb**</font>
+		1. 例
+		2. 例
+	3. <font color="#4f81bd">**词组 phrase**</font>
+		1. 例
+		2. 例
+	4. <font color="#76923c">**介词 preposition**</font>
+		1. 例
+		2. 例
