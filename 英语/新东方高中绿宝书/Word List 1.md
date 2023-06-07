@@ -57,4 +57,5 @@
 		1. Naturally I have never felt the need to diet. 自然地，我从未感到需要节食。
 		2. She dieted and went on exercise programs but nothing seemed to work. 她进行了节食和运动计划，但似乎没有什么效果。
 		3. Janet dieted for months before her wedding. 珍妮特在婚礼前几个月进行了节食。
-====当表达在节食时，使用on diet，不要使用doing a diet
+
+<font color="#c0504d">当表达在节食时，使用on diet，不要使用~~doing a diet~~</font>
