@@ -3,6 +3,7 @@
   "attachmentFolderPath": "Algorithm/leetcode 七周算法特训/W1.数据结构的使用",
   "alwaysUpdateLinks": true,
   "pdfExportSettings": {
+    "includeName": true,
     "pageSize": "A4",
     "landscape": false,
     "margin": "0",

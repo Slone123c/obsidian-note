@@ -5,24 +5,28 @@
       "path": "英语/新东方高中绿宝书/Word List 1.md"
     },
     {
-      "basename": "未命名",
-      "path": "未命名.md"
-    },
-    {
       "basename": "word",
       "path": "templates/word.md"
+    },
+    {
+      "basename": "Drawing 2023-06-07 13.44.45.excalidraw",
+      "path": "Excalidraw/Drawing 2023-06-07 13.44.45.excalidraw.md"
     },
     {
       "basename": "题目",
       "path": "templates/题目.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
       "basename": "FOREX",
       "path": "templates/FOREX.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "未命名.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "pdf-name",
@@ -43,10 +47,6 @@
     {
       "basename": "Drawing 2023-06-07 13.44.47.excalidraw",
       "path": "Excalidraw/Drawing 2023-06-07 13.44.47.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2023-06-07 13.44.45.excalidraw",
-      "path": "Excalidraw/Drawing 2023-06-07 13.44.45.excalidraw.md"
     },
     {
       "basename": "2023-04-20",
