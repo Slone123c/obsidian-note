@@ -8,11 +8,16 @@
 	2. <font color="#f79646">**动词搭配 verb**</font>
 		1. 例
 		2. 例
+	3. <font color="#4f81bd">**词组 phrase**</font>
+		1. 例
 2. **释义2**
-	1. **形容词名词搭配 adj + noun**
+	1. <font color="#c0504d">**形容词名词搭配 adj + noun**</font>
 		1. 例
 		2. 例
 		3. 例
-	2. **动词搭配 verb**
+	2. <font color="#f79646">**动词搭配 verb**</font>
+		1. 例
+		2. 例
+	3. <font color="#4f81bd">**词组 phrase**</font>
 		1. 例
 		2. 例
