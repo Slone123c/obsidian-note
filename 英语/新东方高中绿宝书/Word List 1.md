@@ -35,14 +35,13 @@
 		3. One of the things I like about John is his sense of humor. 我喜欢约翰的一件事情就是他的幽默感。
 3. **the like of someone/something 喜好，爱好 n.** 
 	1. <font color="#c0504d">**形容词名词搭配 adj + noun**</font>
-		1. 例
-		2. 例
-		3. 例
+		1. We all have different likes and dislikes. 我们都有不同的喜好和厌恶。
+		2. He is more than happy to discuss his life, his likes and his career. 他非常乐意讨论他的生活、兴趣爱好和职业。
 	2. <font color="#f79646">**动词搭配 verb**</font>
 		1. 例
 		2. 例
 	3. <font color="#4f81bd">**词组 phrase**</font>
-		1. 例
+		1. 
 		2. 例
 	4. <font color="#76923c">**介词 preposition**</font>
 		1. 例
