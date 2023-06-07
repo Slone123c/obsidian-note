@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "英语/新东方高中绿宝书/Word List 1.md",
+                "file": "ForexT/交易指标/技术指标讲解.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "英语/新东方高中绿宝书/Word List 1.md",
+                "file": "ForexT/交易指标/技术指标讲解.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "英语/新东方高中绿宝书/Word List 1.md",
+                "file": "ForexT/交易指标/技术指标讲解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "英语/新东方高中绿宝书/Word List 1.md"
+                "file": "ForexT/交易指标/技术指标讲解.md"
               }
             }
           },
@@ -183,10 +183,12 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "c4de775f834ee1b6",
+  "active": "a73ef327d89c9de8",
   "lastOpenFiles": [
-    "templates/word.md",
+    "ForexT/交易指标/EMA 指数移动平均线(Exponential Moving Average).md",
+    "ForexT/交易指标/技术指标讲解.md",
     "英语/新东方高中绿宝书/Word List 1.md",
+    "templates/word.md",
     "Reading/2017 芝加哥大学 毕业演讲.md",
     "README.md",
     "未命名 1.canvas",
@@ -205,7 +207,6 @@
     "Excalidraw",
     "Memos/2023-04-20.md",
     "Memos/delete.md",
-    "ForexT/交易指标/技术指标讲解.md",
     "英语/New Vocabulary/5.9.md",
     "英语",
     "annotation.md",
