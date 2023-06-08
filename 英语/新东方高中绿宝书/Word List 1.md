@@ -136,27 +136,27 @@
 - 14世纪晚期，defeten, diffaiten，“（因悲伤或愤怒）被克服”，源自盎格鲁-法语defeter，来自古法语desfait，过去分词形式为desfaire，“撤销”，源自通俗拉丁语diffacere，“撤销，摧毁”，源自拉丁语dis-“不，非”（参见dis-)和facere“做，执行”，源自PIE词根dhe-“放置，放置”。
 ----
 ### relay
-1. **释义1**
+1. **a group of people who continue an activity that others from the same team or organization have been doing previously n. 接替（的人）**
 	1. <font color="#c0504d">**形容词名词搭配/名词用法 adj + noun/noun**</font>
-		1. 例
-		2. 例
+		1. Relays of workers kept the machines going through the night. 工人们轮班工作，机器彻夜运转。		
+		2. She ran in the 4 × 400 relay. 她参加了4×400接力赛。
 		3. 例
 	2. <font color="#f79646">**动词搭配/动词用法 verb**</font>
 		1. 例
 		2. 例
 	3. <font color="#4f81bd">**词组 phrase**</font>
-		1. 例
-		2. 例
+		1. new relays of troops 新接班的部队
+		2. relay race 接力赛
 	4. <font color="#76923c">**介词 preposition**</font>
 		1. 例
 		2. 例
-2. **释义2**
+2. **to repeat something you have heard, or to broadcast a signal, message, or programme on television or radio 传达，转发；播放；转播 v.**
 	1. <font color="#c0504d">**形容词名词搭配/名词用法 adj + noun/noun**</font>
 		1. 例
 		2. 例
 		3. 例
 	2. <font color="#f79646">**动词搭配/动词用法 verb**</font>
-		1. 例
+		1. I was told the news first and then I relayed it to the others. 我是第一个被告知这消息的人，接着我又转告了其他人。
 		2. 例
 	3. <font color="#4f81bd">**词组 phrase**</font>
 		1. 例
@@ -164,3 +164,6 @@
 	4. <font color="#76923c">**介词用法 preposition**</font>
 		1. 例
 		2. 例
+
+- 词根词缀： **re-** 反复 **,** 再 + **-lay** (= **-lax-** )松弛 **,** 放松
+- 来自中古法语 **relai,** 留下供接替的狗或其它动物，来自中法语 **relaier,** 留下，供替换的动物， 来自 **re-,** 向后， **laier,** 留下，词源同 **delay,** 可能来自拉丁语 **laxare,** 松开，词源同 **lax,relax.** 原指 过去打猎时在中转站放置的供接替疲劳猎狗的备用狗，或驿站供接替的马。后引申诸多词义。 由于词义与 **lay** 接近，拼写受到 **lay** 影响。
