@@ -117,4 +117,15 @@
 		2. Don’t be afraid to accept help if you need it. 如果需要，不要害怕接受帮助。
 		3. To protect the environment we must accept some difficult challenges. 为了保护环境，我们必须接受一些困难的挑战。
 - 词根 **cept,** 抓住，见 **capture,** 抓住。此处由抓住代指领悟，接受。
-
+----
+### defeat
+1. **failure to win or succeed 失败 n.** 
+	1. <font color="#c0504d">**形容词名词搭配/名词用法 adj + noun/noun**</font>
+		1. It can be very hard to accept defeat.
+		2. After their defeat in battle, the soldiers surrendered. 
+	2. <font color="#f79646">**动词搭配/动词用法 verb**</font>
+		1. The socialist party suffered a crushing defeat in the elections.
+2. **to win against someone in a fight, war, or competition 战胜 v.**
+	1. <font color="#f79646">**动词搭配/动词用法 verb**</font>
+		1. They defeated the Italian team and reached the final.
+		2. Napoleon was defeated by the Duke of Wellington at the battle of Waterloo.
