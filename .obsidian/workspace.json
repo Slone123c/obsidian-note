@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ForexT/交易指标/技术指标讲解.md",
+                "file": "英语/新东方高中绿宝书/Word List 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 260.5,
+    "collapsed": true
   },
   "right": {
     "id": "866d5bc450ccd2ae",
@@ -101,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ForexT/交易指标/技术指标讲解.md",
+                "file": "英语/新东方高中绿宝书/Word List 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ForexT/交易指标/技术指标讲解.md",
+                "file": "英语/新东方高中绿宝书/Word List 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ForexT/交易指标/技术指标讲解.md"
+                "file": "英语/新东方高中绿宝书/Word List 1.md"
               }
             }
           },
@@ -183,10 +184,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "a73ef327d89c9de8",
+  "active": "c4de775f834ee1b6",
   "lastOpenFiles": [
-    "ForexT/交易指标/EMA 指数移动平均线(Exponential Moving Average).md",
     "ForexT/交易指标/技术指标讲解.md",
+    "ForexT/交易指标/EMA 指数移动平均线(Exponential Moving Average).md",
     "英语/新东方高中绿宝书/Word List 1.md",
     "templates/word.md",
     "Reading/2017 芝加哥大学 毕业演讲.md",

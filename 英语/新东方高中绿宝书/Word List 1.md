@@ -22,7 +22,7 @@
 		1. The sofa cushions are fairly firm. 沙发垫子相当坚实。
 		2. Most doctors recommend sleeping on a firm mattress. 大多数医生建议睡在硬床垫上。
 
-形容词 **firm** 来源于拉丁语形容词 **firmus** (稳固的 **,** 坚固的);名词 **firm** 来源于拉丁语动词 **firmare** (巩固 **,** 确定) **,** 进入意大利语为 **firmare,** 意为“签名确认、签名” **,** 形成名词 **firma** (签名)的基础 **,** 延伸意义为“做生意的名字”→“生意”;18世纪进入英语时继承了后两种意义。
+- 形容词 **firm** 来源于拉丁语形容词 **firmus** (稳固的 **,** 坚固的);名词 **firm** 来源于拉丁语动词 **firmare** (巩固 **,** 确定) **,** 进入意大利语为 **firmare,** 意为“签名确认、签名” **,** 形成名词 **firma** (签名)的基础 **,** 延伸意义为“做生意的名字”→“生意”;18世纪进入英语时继承了后两种意义。
 
 ----
 ### like
@@ -63,4 +63,33 @@
 
 <font color="#c0504d">当表达在节食时，使用on diet，不要使用~~doing a diet~~</font>
 
-来自拉丁语 **dieta,** 一日的工作，饮食，作息。
+- 来自拉丁语 **dieta,** 一日的工作，饮食，作息。
+----
+### pressure
+1. **an attempt to persuade someone by using influence, arguments, or threats 压力，压强 n.**
+	1. <font color="#c0504d">**形容词名词搭配/名词用法 adj + noun/noun**</font>
+		1. There was strong pressure for a statement from the president. 总统发表声明面临巨大压力。
+		2. We did not make this recommendation because of political pressure. 我们并非因为政治压力而作出这个建议。
+	2. <font color="#f79646">**动词搭配/动词用法 verb**</font>
+		1. They are putting pressure on people to vote yes. 他们正在向人们施加压力，让他们投赞成票。
+		2. The minister was under pressure to resign. 部长面临辞职的压力。
+		3. We’ve decided to set up a campaign to put pressure on the Government. 我们决定发起一项运动，对政府施加压力。
+
+	3. <font color="#4f81bd">**词组 phrase**</font>
+		1. The pressures of work can make you ill. 工作的压力可能会使你生病。
+	4. <font color="#76923c">**介词 preposition**</font>
+		1. athletes who show grace under pressure 展现在高强度竞技中优雅从容的运动员。
+2. **释义2**
+	1. <font color="#c0504d">**形容词名词搭配/名词用法 adj + noun/noun**</font>
+		1. 例
+		2. 例
+		3. 例
+	2. <font color="#f79646">**动词搭配/动词用法 verb**</font>
+		1. 例
+		2. 例
+	3. <font color="#4f81bd">**词组 phrase**</font>
+		1. 例
+		2. 例
+	4. <font color="#76923c">**介词用法 preposition**</font>
+		1. 例
+		2. 例
