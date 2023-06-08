@@ -121,11 +121,46 @@
 ### defeat
 1. **failure to win or succeed 失败 n.** 
 	1. <font color="#c0504d">**形容词名词搭配/名词用法 adj + noun/noun**</font>
-		1. It can be very hard to accept defeat.
-		2. After their defeat in battle, the soldiers surrendered. 
+		1. It can be very hard to accept defeat. 接受失败可能非常困难。
+		2. After their defeat in battle, the soldiers surrendered. 在战斗中被打败后，士兵们投降了。
 	2. <font color="#f79646">**动词搭配/动词用法 verb**</font>
-		1. The socialist party suffered a crushing defeat in the elections.
+		1. The socialist party suffered a crushing defeat in the elections. 社会主义党在选举中遭受了惨败。
 2. **to win against someone in a fight, war, or competition 战胜 v.**
 	1. <font color="#f79646">**动词搭配/动词用法 verb**</font>
-		1. They defeated the Italian team and reached the final.
-		2. Napoleon was defeated by the Duke of Wellington at the battle of Waterloo.
+		1. They defeated the Italian team and reached the final. 他们击败了意大利队并进入决赛。
+		2. Napoleon was defeated by the Duke of Wellington at the battle of Waterloo. 拿破仑在滑铁卢之战中被威灵顿公爵击败。
+
+- **de-,** 不，非，使相反。 **feat,** 功绩。引申义战胜。
+- defeated 被击败的
+	- the **defeated** enemy 被打败的敌人
+- 14世纪晚期，defeten, diffaiten，“（因悲伤或愤怒）被克服”，源自盎格鲁-法语defeter，来自古法语desfait，过去分词形式为desfaire，“撤销”，源自通俗拉丁语diffacere，“撤销，摧毁”，源自拉丁语dis-“不，非”（参见dis-)和facere“做，执行”，源自PIE词根dhe-“放置，放置”。
+----
+### relay
+1. **释义1**
+	1. <font color="#c0504d">**形容词名词搭配/名词用法 adj + noun/noun**</font>
+		1. 例
+		2. 例
+		3. 例
+	2. <font color="#f79646">**动词搭配/动词用法 verb**</font>
+		1. 例
+		2. 例
+	3. <font color="#4f81bd">**词组 phrase**</font>
+		1. 例
+		2. 例
+	4. <font color="#76923c">**介词 preposition**</font>
+		1. 例
+		2. 例
+2. **释义2**
+	1. <font color="#c0504d">**形容词名词搭配/名词用法 adj + noun/noun**</font>
+		1. 例
+		2. 例
+		3. 例
+	2. <font color="#f79646">**动词搭配/动词用法 verb**</font>
+		1. 例
+		2. 例
+	3. <font color="#4f81bd">**词组 phrase**</font>
+		1. 例
+		2. 例
+	4. <font color="#76923c">**介词用法 preposition**</font>
+		1. 例
+		2. 例
