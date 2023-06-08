@@ -1,5 +1,5 @@
 ----
-### 1. firm
+### firm
 1. **a company offering a professional service  公司 n.**
 	1. <font color="#953734">**形容词名词搭配/名词用法 adj + noun/noun**</font>
 		1. He works for a large firm. 他为一家大公司工作。
@@ -152,32 +152,17 @@
 ----
 ### evidence
 1. **facts or signs that show clearly that something exists or is true 证据 n.**
-	1. Do the police have any evidence against him?
-	2. The authorities failed to obtain enough evidence to convict him.
-	3. Police experts are still collecting evidence at the scene of the crime.
-	4. There is clear evidence that smoking causes heart disease.
-	5. They have no hard evidence to support their claim.
-----
-1. 警方有没有对他的任何证据？
-2. 当局未能获得足够的证据来定罪他。
-3. 警方专家仍在犯罪现场收集证据。
-4. 明确的证据表明吸烟会导致心脏病。
-5. 他们没有硬性证据支持自己的主张。
-
-
-1. **释义2**
 	1. <font color="#c0504d">**形容词名词搭配/名词用法 adj + noun/noun**</font>
-		1. 例
-		2. 例
-		3. 例
+		1. There is clear evidence that smoking causes heart disease. 有明确的证据表明吸烟会导致心脏病。
+		2. They have no hard evidence to support their claim. 他们没有硬性证据支持他们的主张。
+		3. The police say they may have found fresh evidence which  proves Tilly was at the scene of the crime. 警方表示可能已经找到了新的证据，可以证明蒂利曾在案发现场。
 	2. <font color="#f79646">**动词搭配/动词用法 verb**</font>
-		1. 例
-		2. 例
+		1. Do the police have any evidence against him? 警方是否有针对他的任何证据？
+		2. The authorities failed to obtain enough evidence to convict him. 当局未能收集足够的证据来定罪他。
+		3. Police experts are still collecting evidence at the scene of the crime. 警察专家仍在案发现场收集证据。
 	3. <font color="#4f81bd">**词组 phrase**</font>
-		1. 例
-		2. 例
-	4. <font color="#76923c">**介词用法 preposition**</font>
-		1. 例
-		2. 例
+		1. The study produced one interesting piece of evidence. 这项研究产生了一份有趣的证据。
+		2. There is not one scrap of evidence against our client. 我们的客户没有任何反对证据。
 
-- s
+- **e-,** 向外。 **-vid,** 看，词源同 **video, visit.**
+- 约于1300年，指“可以推断的外观”，源自古法语evidence，来自晚期拉丁语evidentia“证明”，在古典拉丁语中是修辞学中的“区分、生动的展示、清晰度”，源自拉丁语evidens的词干，“明显的，显然的”
