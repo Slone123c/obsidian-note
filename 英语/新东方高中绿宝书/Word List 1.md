@@ -66,7 +66,7 @@
 - 来自拉丁语 **dieta,** 一日的工作，饮食，作息。
 ----
 ### pressure
-1.  **an attempt to persuade someone by using influence, arguments, or threats 压力，压强，施压 n.**
+1. **an attempt to persuade someone by using influence, arguments, or threats 压力，压强，施压 n.**
 	1. <font color="#c0504d">**形容词名词搭配/名词用法 adj + noun/noun**</font>
 		1. There was strong pressure for a statement from the president. 总统发表声明面临巨大压力。
 		2. We did not make this recommendation because of political pressure. 我们并非因为政治压力而作出这个建议。
@@ -89,6 +89,38 @@
 - 14世纪晚期，“痛苦，煎熬；对心灵或心脏的压迫行为或事实”，源自古法语presseure“压迫；折磨；痛苦；压榨”（用于葡萄酒或奶酪），“刑具”（12世纪），直接源自拉丁语pressura“压迫行为”，源自premere的过去分词pressus“压，紧握，覆盖，拥挤，压缩”
 - 词根词缀： **-press-** 压 + **-ure** 名词词尾
 - 相关词语
-	- compress
-	- depress
-	- 
+	- compress 压缩, 压紧
+	- depress 使忧郁，使沮丧
+	- expresso "意式浓缩咖啡"(1945年，源自意大利语(caffe) espresso，意为espresso "挤压出来")
+	- express 陈述；表达；表露 (14世纪晚期，“在视觉艺术中表现；用言语表达”，源自古法语espresser，expresser“挤压出；说出心里话”（现代法语exprimer），中世纪拉丁语expressare，拉丁语exprimere的频率动词，“描绘，描述，描绘，模仿，翻译”，字面意思是“挤压出”（源自意大利语espresso）)
+	- impress 给…留下深刻印象；使钦佩 (14世纪晚期，“对心灵或心灵产生强烈影响，在心灵深处留下深刻印象”，源自拉丁语imprimere的过去分词impressus)
+----
+### activity
+1. **释义1**
+	1. <font color="#c0504d">**形容词名词搭配/名词用法 adj + noun/noun**</font>
+		1. 例
+		2. 例
+		3. 例
+	2. <font color="#f79646">**动词搭配/动词用法 verb**</font>
+		1. 例
+		2. 例
+	3. <font color="#4f81bd">**词组 phrase**</font>
+		1. 例
+		2. 例
+	4. <font color="#76923c">**介词 preposition**</font>
+		1. 例
+		2. 例
+2. **释义2**
+	1. <font color="#c0504d">**形容词名词搭配/名词用法 adj + noun/noun**</font>
+		1. 例
+		2. 例
+		3. 例
+	2. <font color="#f79646">**动词搭配/动词用法 verb**</font>
+		1. 例
+		2. 例
+	3. <font color="#4f81bd">**词组 phrase**</font>
+		1. 例
+		2. 例
+	4. <font color="#76923c">**介词用法 preposition**</font>
+		1. 例
+		2. 例
