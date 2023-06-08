@@ -96,31 +96,25 @@
 	- impress 给…留下深刻印象；使钦佩 (14世纪晚期，“对心灵或心灵产生强烈影响，在心灵深处留下深刻印象”，源自拉丁语imprimere的过去分词impressus)
 ----
 ### activity
-1. **释义1**
+1. **things that people do, especially in order to achieve a particular aim 达成某种目的的行为/活动 n.**
 	1. <font color="#c0504d">**形容词名词搭配/名词用法 adj + noun/noun**</font>
-		1. 例
-		2. 例
-		3. 例
+		1. The current level of economic activity will influence business confidence. 当前的经济活动水平将影响商业信心。
+		2. There was no sign of any human activity. 没有任何人类活动的迹象。
+		3. Political activity is closely controlled by the government. 政治活动受到政府的严格控制。
 	2. <font color="#f79646">**动词搭配/动词用法 verb**</font>
-		1. 例
-		2. 例
+		1. The children were encouraged to take part in several different activities. 孩子们被鼓励去参加几种不同的活动。
+		2. He doesn’t do a lot of physical activity.  他没有进行太多身体活动。
 	3. <font color="#4f81bd">**词组 phrase**</font>
-		1. 例
-		2. 例
-	4. <font color="#76923c">**介词 preposition**</font>
-		1. 例
-		2. 例
-2. **释义2**
+		1. The level of economic activity has increased. 经济活跃程度已经增加。
+
+- **-act-** 行动 + **-ivity** 名词词尾 **,** 表性质/状态
+- 约于1400年，指“积极或世俗的生活”，源自古法语activité，来自中世纪拉丁语activitatem（主格activitas）
+----
+### accept
+1. **to take something that someone offers you, or to agree to do something that someone asks you to do 接受 v.**
 	1. <font color="#c0504d">**形容词名词搭配/名词用法 adj + noun/noun**</font>
-		1. 例
-		2. 例
-		3. 例
-	2. <font color="#f79646">**动词搭配/动词用法 verb**</font>
-		1. 例
-		2. 例
-	3. <font color="#4f81bd">**词组 phrase**</font>
-		1. 例
-		2. 例
-	4. <font color="#76923c">**介词用法 preposition**</font>
-		1. 例
-		2. 例
+		1. Are you going to accept their invitation to the wedding? 你打算接受他们的婚礼邀请吗？
+		2. Don’t be afraid to accept help if you need it. 如果需要，不要害怕接受帮助。
+		3. To protect the environment we must accept some difficult challenges. 为了保护环境，我们必须接受一些困难的挑战。
+- 词根 **cept,** 抓住，见 **capture,** 抓住。此处由抓住代指领悟，接受。
+
