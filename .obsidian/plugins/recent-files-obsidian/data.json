@@ -9,12 +9,16 @@
       "path": "templates/word.md"
     },
     {
-      "basename": "题目",
-      "path": "templates/题目.md"
-    },
-    {
       "basename": "FOREX",
       "path": "templates/FOREX.md"
+    },
+    {
+      "basename": "pdf-name",
+      "path": "templates/pdf-name.md"
+    },
+    {
+      "basename": "题目",
+      "path": "templates/题目.md"
     },
     {
       "basename": "技术指标讲解",
@@ -35,10 +39,6 @@
     {
       "basename": "Drawing 2023-06-07 13.44.45.excalidraw",
       "path": "Excalidraw/Drawing 2023-06-07 13.44.45.excalidraw.md"
-    },
-    {
-      "basename": "pdf-name",
-      "path": "templates/pdf-name.md"
     },
     {
       "basename": "Cgroup",
