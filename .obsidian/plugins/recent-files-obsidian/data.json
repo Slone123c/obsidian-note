@@ -5,16 +5,24 @@
       "path": "英语/新东方高中绿宝书/Word List 1.md"
     },
     {
+      "basename": "word",
+      "path": "templates/word.md"
+    },
+    {
+      "basename": "题目",
+      "path": "templates/题目.md"
+    },
+    {
+      "basename": "FOREX",
+      "path": "templates/FOREX.md"
+    },
+    {
       "basename": "技术指标讲解",
       "path": "ForexT/交易指标/技术指标讲解.md"
     },
     {
       "basename": "EMA 指数移动平均线(Exponential Moving Average)",
       "path": "ForexT/交易指标/EMA 指数移动平均线(Exponential Moving Average).md"
-    },
-    {
-      "basename": "word",
-      "path": "templates/word.md"
     },
     {
       "basename": "2017 芝加哥大学 毕业演讲",
@@ -27,14 +35,6 @@
     {
       "basename": "Drawing 2023-06-07 13.44.45.excalidraw",
       "path": "Excalidraw/Drawing 2023-06-07 13.44.45.excalidraw.md"
-    },
-    {
-      "basename": "题目",
-      "path": "templates/题目.md"
-    },
-    {
-      "basename": "FOREX",
-      "path": "templates/FOREX.md"
     },
     {
       "basename": "pdf-name",

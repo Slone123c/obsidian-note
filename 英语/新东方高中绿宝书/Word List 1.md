@@ -66,7 +66,7 @@
 - 来自拉丁语 **dieta,** 一日的工作，饮食，作息。
 ----
 ### pressure
-1. **an attempt to persuade someone by using influence, arguments, or threats 压力，压强 n.**
+1.  **an attempt to persuade someone by using influence, arguments, or threats 压力，压强，施压 n.**
 	1. <font color="#c0504d">**形容词名词搭配/名词用法 adj + noun/noun**</font>
 		1. There was strong pressure for a statement from the president. 总统发表声明面临巨大压力。
 		2. We did not make this recommendation because of political pressure. 我们并非因为政治压力而作出这个建议。
@@ -79,17 +79,16 @@
 		1. The pressures of work can make you ill. 工作的压力可能会使你生病。
 	4. <font color="#76923c">**介词 preposition**</font>
 		1. athletes who show grace under pressure 展现在高强度竞技中优雅从容的运动员。
-2. **释义2**
-	1. <font color="#c0504d">**形容词名词搭配/名词用法 adj + noun/noun**</font>
-		1. 例
-		2. 例
-		3. 例
-	2. <font color="#f79646">**动词搭配/动词用法 verb**</font>
-		1. 例
-		2. 例
-	3. <font color="#4f81bd">**词组 phrase**</font>
-		1. 例
-		2. 例
-	4. <font color="#76923c">**介词用法 preposition**</font>
-		1. 例
-		2. 例
+1. **a way of working or living that causes you a lot of anxiety, especially because you feel you have too many things to do 压力（心理） n.**
+	1. <font color="#f79646">**动词搭配/动词用法 verb**</font>
+		1. I feel I’m not able to cope well with the pressures of life. 我感觉自己无法很好地应对生活的压力。
+		2. I’m under constant pressure at work.  我在工作中一直承受着压力。
+	2. <font color="#4f81bd">**词组 phrase**</font>
+		1. a high pressure job 高压工作
+
+- 14世纪晚期，“痛苦，煎熬；对心灵或心脏的压迫行为或事实”，源自古法语presseure“压迫；折磨；痛苦；压榨”（用于葡萄酒或奶酪），“刑具”（12世纪），直接源自拉丁语pressura“压迫行为”，源自premere的过去分词pressus“压，紧握，覆盖，拥挤，压缩”
+- 词根词缀： **-press-** 压 + **-ure** 名词词尾
+- 相关词语
+	- compress
+	- depress
+	- 
