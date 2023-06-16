@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名",
+      "path": "CS与后端开发/未命名.md"
+    },
+    {
       "basename": "双指针专题 014 - 017",
       "path": "CS与后端开发/Algorithm Practice/剑指Offer II/双指针专题 014 - 017.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "机器学习",
       "path": "CS与后端开发/Machine Learning Draft/机器学习.md"
-    },
-    {
-      "basename": "设计系统的步骤",
-      "path": "CS与后端开发/System Design Interview/设计系统的步骤.md"
     }
   ],
   "omittedPaths": [],
