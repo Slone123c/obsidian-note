@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS与后端开发/Algorithm Practice/剑指Offer II/双指针专题 014 - 017.md",
+                "file": "小册《程序员的必修课》/3. 位运算.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS与后端开发/Algorithm Practice/剑指Offer II/双指针专题 014 - 017.md",
+                "file": "小册《程序员的必修课》/3. 位运算.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS与后端开发/Algorithm Practice/剑指Offer II/双指针专题 014 - 017.md",
+                "file": "小册《程序员的必修课》/3. 位运算.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS与后端开发/Algorithm Practice/剑指Offer II/双指针专题 014 - 017.md"
+                "file": "小册《程序员的必修课》/3. 位运算.md"
               }
             }
           },
@@ -185,6 +185,10 @@
   },
   "active": "c4de775f834ee1b6",
   "lastOpenFiles": [
+    "ForexT/交易指标/EMA 指数移动平均线(Exponential Moving Average).md",
+    "小册《程序员的必修课》/3. 位运算.md",
+    "小册《程序员的必修课》",
+    "CS与后端开发/Algorithm Practice/剑指Offer II/双指针专题 014 - 017.md",
     "CS与后端开发/操作系统/OSTEP/Ch28. 锁.md",
     "CS与后端开发/操作系统/OSTEP/Ch27. 插叙：线程API.md",
     "CS与后端开发/操作系统/Cgroup.md",
@@ -194,7 +198,6 @@
     "templates/pdf-name.md",
     "templates/题目.md",
     "ForexT/交易指标/技术指标讲解.md",
-    "ForexT/交易指标/EMA 指数移动平均线(Exponential Moving Average).md",
     "Reading/2017 芝加哥大学 毕业演讲.md",
     "README.md",
     "未命名 1.canvas",
@@ -202,7 +205,6 @@
     "未命名.canvas",
     "Excalidraw/Drawing 2023-06-07 13.44.45.excalidraw.md",
     "英语/新东方高中绿宝书",
-    "未命名",
     "CS与后端开发/操作系统/Namespace.md",
     "Memos/2023-06-07.md",
     "Excalidraw/Drawing 2023-06-07 13.44.47.excalidraw.md",
@@ -221,8 +223,6 @@
     "Images/Pasted image 20230518210014.png",
     "Images/Pasted image 20230525135349.png",
     "杂项/配置单.md",
-    "杂项/演讲稿.md",
-    "杂项/实习经历描述.md",
     "杂项",
     "Images/Pasted image 20230507183347.png",
     "Reading",
