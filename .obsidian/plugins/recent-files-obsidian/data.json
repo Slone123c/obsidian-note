@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "双指针专题 014 - 017",
+      "path": "CS与后端开发/Algorithm Practice/剑指Offer II/双指针专题 014 - 017.md"
+    },
+    {
+      "basename": "4.21",
+      "path": "ForexT/Forex 分析报告/4.21.md"
+    },
+    {
+      "basename": "4.25",
+      "path": "ForexT/Forex 分析报告/4.25.md"
+    },
+    {
+      "basename": "题目",
+      "path": "templates/题目.md"
+    },
+    {
+      "basename": "Word List 1",
+      "path": "英语/新东方高中绿宝书/Word List 1.md"
+    },
+    {
       "basename": "3. 位运算",
       "path": "小册《程序员的必修课》/3. 位运算.md"
     },
     {
       "basename": "EMA 指数移动平均线(Exponential Moving Average)",
       "path": "ForexT/交易指标/EMA 指数移动平均线(Exponential Moving Average).md"
-    },
-    {
-      "basename": "双指针专题 014 - 017",
-      "path": "CS与后端开发/Algorithm Practice/剑指Offer II/双指针专题 014 - 017.md"
     },
     {
       "basename": "Ch28. 锁",
@@ -25,10 +41,6 @@
       "path": "CS与后端开发/操作系统/Cgroup.md"
     },
     {
-      "basename": "Word List 1",
-      "path": "英语/新东方高中绿宝书/Word List 1.md"
-    },
-    {
       "basename": "word",
       "path": "templates/word.md"
     },
@@ -39,10 +51,6 @@
     {
       "basename": "pdf-name",
       "path": "templates/pdf-name.md"
-    },
-    {
-      "basename": "题目",
-      "path": "templates/题目.md"
     },
     {
       "basename": "技术指标讲解",
@@ -191,14 +199,6 @@
     {
       "basename": "设计系统的步骤",
       "path": "CS与后端开发/System Design Interview/设计系统的步骤.md"
-    },
-    {
-      "basename": "4.21",
-      "path": "ForexT/Forex 分析报告/4.21.md"
-    },
-    {
-      "basename": "4.11",
-      "path": "ForexT/Forex 分析报告/4.11.md"
     }
   ],
   "omittedPaths": [],
