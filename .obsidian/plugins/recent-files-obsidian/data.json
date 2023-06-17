@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "7. 优化程序流",
+      "path": "小册《程序员的必修课》/7. 优化程序流.md"
+    },
+    {
+      "basename": "3. 位运算",
+      "path": "小册《程序员的必修课》/3. 位运算.md"
+    },
+    {
       "basename": "简历备份",
       "path": "CS与后端开发/简历备份.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "Word List 1",
       "path": "英语/新东方高中绿宝书/Word List 1.md"
-    },
-    {
-      "basename": "3. 位运算",
-      "path": "小册《程序员的必修课》/3. 位运算.md"
     },
     {
       "basename": "EMA 指数移动平均线(Exponential Moving Average)",
@@ -195,10 +199,6 @@
     {
       "basename": "Ch15. 地址转换",
       "path": "CS与后端开发/操作系统/OSTEP/Ch15. 地址转换.md"
-    },
-    {
-      "basename": "机器学习",
-      "path": "CS与后端开发/Machine Learning Draft/机器学习.md"
     }
   ],
   "omittedPaths": [],
