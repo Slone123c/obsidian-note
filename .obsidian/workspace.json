@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "小册《程序员的必修课》/10. 数据结构特性.md",
+                "file": "小册《程序员的必修课》/17.TCP 和 UDP.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "小册《程序员的必修课》/10. 数据结构特性.md",
+                "file": "小册《程序员的必修课》/17.TCP 和 UDP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "小册《程序员的必修课》/10. 数据结构特性.md",
+                "file": "小册《程序员的必修课》/17.TCP 和 UDP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "小册《程序员的必修课》/10. 数据结构特性.md"
+                "file": "小册《程序员的必修课》/17.TCP 和 UDP.md"
               }
             }
           },
@@ -185,9 +185,10 @@
   },
   "active": "c4de775f834ee1b6",
   "lastOpenFiles": [
-    "小册《程序员的必修课》/7. 优化程序流.md",
-    "小册《程序员的必修课》/10. 数据结构特性.md",
-    "小册《程序员的必修课》/3. 位运算.md",
+    "小册《程序员的必修课》/3.位运算.md",
+    "小册《程序员的必修课》/7.优化程序流.md",
+    "小册《程序员的必修课》/10.数据结构特性.md",
+    "小册《程序员的必修课》/17.TCP 和 UDP.md",
     "CS与后端开发/简历备份.md",
     "Pasted image 20230617125845.png",
     "Pasted image 20230616192631.png",
@@ -217,7 +218,6 @@
     "Excalidraw/Drawing 2023-06-07 13.44.47.excalidraw.md",
     "Excalidraw",
     "Memos/2023-04-20.md",
-    "Memos/delete.md",
     "英语",
     "CS与后端开发",
     "Images/Pasted image 20230502194611.png",

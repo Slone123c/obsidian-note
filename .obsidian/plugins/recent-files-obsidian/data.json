@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "10. 数据结构特性",
-      "path": "小册《程序员的必修课》/10. 数据结构特性.md"
+      "basename": "17.TCP 和 UDP",
+      "path": "小册《程序员的必修课》/17.TCP 和 UDP.md"
     },
     {
-      "basename": "7. 优化程序流",
-      "path": "小册《程序员的必修课》/7. 优化程序流.md"
+      "basename": "3.位运算",
+      "path": "小册《程序员的必修课》/3.位运算.md"
     },
     {
-      "basename": "3. 位运算",
-      "path": "小册《程序员的必修课》/3. 位运算.md"
+      "basename": "7.优化程序流",
+      "path": "小册《程序员的必修课》/7.优化程序流.md"
+    },
+    {
+      "basename": "10.数据结构特性",
+      "path": "小册《程序员的必修课》/10.数据结构特性.md"
     },
     {
       "basename": "简历备份",
@@ -195,10 +199,6 @@
     {
       "basename": "2.2 监督学习 supervised learning",
       "path": "CS与后端开发/Machine Learning Draft/2.2 监督学习 supervised learning.md"
-    },
-    {
-      "basename": "2.1 机器学习定义",
-      "path": "CS与后端开发/Machine Learning Draft/2.1 机器学习定义.md"
     }
   ],
   "omittedPaths": [],
