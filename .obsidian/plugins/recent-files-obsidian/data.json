@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1. 装机文案",
+      "path": "1. 装机文案.md"
+    },
+    {
       "basename": "17.TCP 和 UDP",
       "path": "小册《程序员的必修课》/17.TCP 和 UDP.md"
     },
@@ -191,14 +195,6 @@
     {
       "basename": "3 线性回归模型",
       "path": "CS与后端开发/Machine Learning Draft/3 线性回归模型.md"
-    },
-    {
-      "basename": "2.3 无监督学习",
-      "path": "CS与后端开发/Machine Learning Draft/2.3 无监督学习.md"
-    },
-    {
-      "basename": "2.2 监督学习 supervised learning",
-      "path": "CS与后端开发/Machine Learning Draft/2.2 监督学习 supervised learning.md"
     }
   ],
   "omittedPaths": [],
