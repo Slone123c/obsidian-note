@@ -11,14 +11,11 @@
             "id": "c4de775f834ee1b6",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "未命名.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "英语/韦氏词典/Unit 1.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -104,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.canvas",
+                "file": "英语/韦氏词典/Unit 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.canvas",
+                "file": "英语/韦氏词典/Unit 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.canvas"
+                "file": "英语/韦氏词典/Unit 1.md"
               }
             }
           },
@@ -188,7 +185,10 @@
   },
   "active": "c4de775f834ee1b6",
   "lastOpenFiles": [
+    "英语/新东方高中绿宝书/Word List 1.md",
+    "英语/韦氏词典/Unit 1.md",
     "未命名.canvas",
+    "英语/韦氏词典",
     "1. 装机文案.md",
     "未命名",
     "未命名 1.canvas",
@@ -205,7 +205,6 @@
     "ForexT/Forex 分析报告/4.21.md",
     "ForexT/Forex 分析报告/4.25.md",
     "templates/题目.md",
-    "英语/新东方高中绿宝书/Word List 1.md",
     "ForexT/交易指标/EMA 指数移动平均线(Exponential Moving Average).md",
     "小册《程序员的必修课》",
     "CS与后端开发/操作系统/OSTEP/Ch28. 锁.md",
@@ -233,7 +232,6 @@
     "杂项",
     "Images/Pasted image 20230507183347.png",
     "Reading",
-    "CS与后端开发/SQL Review",
     "未命名 2.canvas",
     "Pasted image 20230411174302.png"
   ]

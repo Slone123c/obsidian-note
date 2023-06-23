@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Unit 1",
+      "path": "英语/韦氏词典/Unit 1.md"
+    },
+    {
+      "basename": "Word List 1",
+      "path": "英语/新东方高中绿宝书/Word List 1.md"
+    },
+    {
       "basename": "未命名",
       "path": "未命名.canvas"
     },
@@ -43,10 +51,6 @@
     {
       "basename": "题目",
       "path": "templates/题目.md"
-    },
-    {
-      "basename": "Word List 1",
-      "path": "英语/新东方高中绿宝书/Word List 1.md"
     },
     {
       "basename": "EMA 指数移动平均线(Exponential Moving Average)",
@@ -195,10 +199,6 @@
     {
       "basename": "Ch8. MLFQ 多级反馈调度队列",
       "path": "CS与后端开发/操作系统/OSTEP/Ch8. MLFQ 多级反馈调度队列.md"
-    },
-    {
-      "basename": "3 线性回归模型",
-      "path": "CS与后端开发/Machine Learning Draft/3 线性回归模型.md"
     }
   ],
   "omittedPaths": [],
