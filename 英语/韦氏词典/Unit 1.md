@@ -31,7 +31,13 @@ bene + **dict**, dict 表示说。 --> 好的愿望 --> 祈祷
 # BELL
 战争
 ----
-## antebellum 战前的 adj.
+## antebellum  战前的 adj.
 
+
+## bellicose  好斗的，好战的 adj.
+
+## belligerence  好斗性 n.
+
+## rebellion  叛乱  n. 
 
 
