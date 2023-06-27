@@ -28,3 +28,10 @@ bene + **dict**, dict 表示说。 --> 好的愿望 --> 祈祷
 ## paramour  情人 n.
 道德上不允许的情人关系
 
+# BELL
+战争
+----
+## antebellum 战前的 adj.
+
+
+
