@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "cea1d8fa8b64f796",
+        "id": "d94770acda9eaad5",
         "type": "tabs",
         "children": [
           {
-            "id": "c4de775f834ee1b6",
+            "id": "a7a5f50949a3d917",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "英语/韦氏词典/Unit 1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5,
-    "collapsed": true
+    "width": 260.5
   },
   "right": {
     "id": "866d5bc450ccd2ae",
@@ -102,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "英语/韦氏词典/Unit 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "英语/韦氏词典/Unit 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "英语/韦氏词典/Unit 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -184,10 +175,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "c4de775f834ee1b6",
+  "active": "a7a5f50949a3d917",
   "lastOpenFiles": [
-    "英语/新东方高中绿宝书/Word List 1.md",
     "英语/韦氏词典/Unit 1.md",
+    "英语/新东方高中绿宝书/Word List 1.md",
     "未命名.canvas",
     "英语/韦氏词典",
     "1. 装机文案.md",
