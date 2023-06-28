@@ -11,8 +11,12 @@
             "id": "a7a5f50949a3d917",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "小册《程序员的必修课》/18. 优化网络请求.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -97,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "小册《程序员的必修课》/18. 优化网络请求.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "小册《程序员的必修课》/18. 优化网络请求.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "小册《程序员的必修课》/18. 优化网络请求.md"
+              }
             }
           },
           {
@@ -177,6 +185,7 @@
   },
   "active": "a7a5f50949a3d917",
   "lastOpenFiles": [
+    "小册《程序员的必修课》/18. 优化网络请求.md",
     "英语/韦氏词典/Unit 1.md",
     "英语/新东方高中绿宝书/Word List 1.md",
     "未命名.canvas",
@@ -212,7 +221,6 @@
     "英语/新东方高中绿宝书",
     "CS与后端开发/操作系统/Namespace.md",
     "Memos/2023-06-07.md",
-    "Excalidraw/Drawing 2023-06-07 13.44.47.excalidraw.md",
     "Excalidraw",
     "英语",
     "CS与后端开发",

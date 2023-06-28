@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "18. 优化网络请求",
+      "path": "小册《程序员的必修课》/18. 优化网络请求.md"
+    },
+    {
       "basename": "Unit 1",
       "path": "英语/韦氏词典/Unit 1.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Ch14 Design Youtube",
       "path": "CS与后端开发/System Design Interview/Ch14 Design Youtube.md"
-    },
-    {
-      "basename": "Ch8. MLFQ 多级反馈调度队列",
-      "path": "CS与后端开发/操作系统/OSTEP/Ch8. MLFQ 多级反馈调度队列.md"
     }
   ],
   "omittedPaths": [],
