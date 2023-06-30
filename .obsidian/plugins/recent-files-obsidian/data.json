@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "23. 脱离设计模式的架构思想",
+      "path": "小册《程序员的必修课》/23. 脱离设计模式的架构思想.md"
+    },
+    {
       "basename": "22. 设计模式简介",
       "path": "小册《程序员的必修课》/22. 设计模式简介.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Ch6.Limited Direct Execution 限制直接执行",
       "path": "CS与后端开发/操作系统/OSTEP/Ch6.Limited Direct Execution 限制直接执行.md"
-    },
-    {
-      "basename": "进程",
-      "path": "CS与后端开发/操作系统/OSTEP/进程.md"
     }
   ],
   "omittedPaths": [],
