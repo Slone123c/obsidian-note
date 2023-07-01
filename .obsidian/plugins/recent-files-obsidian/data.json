@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2. 相关curl操作",
+      "path": "CS与后端开发/Go开发项目/2. 相关curl操作.md"
+    },
+    {
       "basename": "1. 调试",
       "path": "CS与后端开发/Go开发项目/1. 调试.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Ch19. 分页：快速地址转换（TLB）",
       "path": "CS与后端开发/操作系统/OSTEP/Ch19. 分页：快速地址转换（TLB）.md"
-    },
-    {
-      "basename": "Ch20. 分页：较小的表",
-      "path": "CS与后端开发/操作系统/OSTEP/Ch20. 分页：较小的表.md"
     }
   ],
   "omittedPaths": [],
