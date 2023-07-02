@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "云服务器",
+      "path": "Idea/云服务器.md"
+    },
+    {
       "basename": "3. Go项目设计分层思想",
       "path": "CS与后端开发/Go开发项目/3. Go项目设计分层思想.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Ch3 Inner Join 内连接 Outer Join 外连接",
       "path": "CS与后端开发/SQL Review/Ch3 Inner Join 内连接 Outer Join 外连接.md"
-    },
-    {
-      "basename": "Ch13. 抽象：地址空间",
-      "path": "CS与后端开发/操作系统/OSTEP/Ch13. 抽象：地址空间.md"
     }
   ],
   "omittedPaths": [],
