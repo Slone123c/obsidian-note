@@ -160,9 +160,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "b22f71bd00913b44",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -183,7 +191,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "8e572c229a65a0ad",
+  "active": "b22f71bd00913b44",
   "lastOpenFiles": [
     "Memos/2023-07-02.md",
     "小册《程序员的必修课》/18. 优化网络请求.md",
