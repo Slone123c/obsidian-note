@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d94770acda9eaad5",
+        "id": "16039ec392096c26",
         "type": "tabs",
         "children": [
           {
-            "id": "a7a5f50949a3d917",
+            "id": "8e572c229a65a0ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "小册《程序员的必修课》/18. 优化网络请求.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c5ddc235bb14466",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS与后端开发/Go开发项目/2. 相关curl操作.md",
+                "file": "CS与后端开发/Go开发项目/3. Go项目设计分层思想.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS与后端开发/Go开发项目/2. 相关curl操作.md",
+                "file": "CS与后端开发/Go开发项目/3. Go项目设计分层思想.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS与后端开发/Go开发项目/2. 相关curl操作.md",
+                "file": "CS与后端开发/Go开发项目/3. Go项目设计分层思想.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS与后端开发/Go开发项目/2. 相关curl操作.md"
+                "file": "CS与后端开发/Go开发项目/3. Go项目设计分层思想.md"
               }
             }
           },
@@ -196,15 +183,18 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "5c5ddc235bb14466",
+  "active": "8e572c229a65a0ad",
   "lastOpenFiles": [
-    "CS与后端开发/Go开发项目/1. 调试.md",
+    "Memos/2023-07-02.md",
+    "小册《程序员的必修课》/18. 优化网络请求.md",
+    "CS与后端开发/Go开发项目/3. Go项目设计分层思想.md",
     "CS与后端开发/Go开发项目/2. 相关curl操作.md",
+    "CS与后端开发/Go开发项目/未命名",
+    "CS与后端开发/Go开发项目/1. 调试.md",
     "小册《程序员的必修课》/23. 脱离设计模式的架构思想.md",
     "CS与后端开发/Go开发项目",
     "小册《程序员的必修课》/22. 设计模式简介.md",
     "小册《程序员的必修课》/21. 设计原则.md",
-    "小册《程序员的必修课》/18. 优化网络请求.md",
     "未命名",
     "20. 单一职责原则.md",
     "小册《程序员的必修课》/17. TCP 和 UDP.md",
@@ -232,8 +222,6 @@
     "CS与后端开发/操作系统/OSTEP/Ch27. 插叙：线程API.md",
     "CS与后端开发/操作系统/Cgroup.md",
     "templates/word.md",
-    "templates/FOREX.md",
-    "templates/pdf-name.md",
     "英语/新东方高中绿宝书",
     "Excalidraw",
     "英语",
@@ -243,7 +231,6 @@
     "Images/Pasted image 20230502194623.png",
     "Images/Pasted image 20230518210014.png",
     "Images/Pasted image 20230525135349.png",
-    "杂项",
     "Images/Pasted image 20230507183347.png",
     "未命名 2.canvas",
     "Pasted image 20230411174302.png"

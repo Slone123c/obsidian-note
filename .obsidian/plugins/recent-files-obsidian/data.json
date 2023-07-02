@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "3. Go项目设计分层思想",
+      "path": "CS与后端开发/Go开发项目/3. Go项目设计分层思想.md"
+    },
+    {
+      "basename": "2023-07-02",
+      "path": "Memos/2023-07-02.md"
+    },
+    {
+      "basename": "18. 优化网络请求",
+      "path": "小册《程序员的必修课》/18. 优化网络请求.md"
+    },
+    {
       "basename": "2. 相关curl操作",
       "path": "CS与后端开发/Go开发项目/2. 相关curl操作.md"
     },
@@ -19,10 +31,6 @@
     {
       "basename": "21. 设计原则",
       "path": "小册《程序员的必修课》/21. 设计原则.md"
-    },
-    {
-      "basename": "18. 优化网络请求",
-      "path": "小册《程序员的必修课》/18. 优化网络请求.md"
     },
     {
       "basename": "17. TCP 和 UDP",
@@ -191,14 +199,6 @@
     {
       "basename": "Ch13. 抽象：地址空间",
       "path": "CS与后端开发/操作系统/OSTEP/Ch13. 抽象：地址空间.md"
-    },
-    {
-      "basename": "Ch14. 插叙：内存操作API",
-      "path": "CS与后端开发/操作系统/OSTEP/Ch14. 插叙：内存操作API.md"
-    },
-    {
-      "basename": "Ch19. 分页：快速地址转换（TLB）",
-      "path": "CS与后端开发/操作系统/OSTEP/Ch19. 分页：快速地址转换（TLB）.md"
     }
   ],
   "omittedPaths": [],
