@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Idea/云服务器.md",
+                "file": "CS与后端开发/Go开发项目/1. 调试.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Idea/云服务器.md",
+                "file": "CS与后端开发/Go开发项目/1. 调试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Idea/云服务器.md",
+                "file": "CS与后端开发/Go开发项目/1. 调试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Idea/云服务器.md"
+                "file": "CS与后端开发/Go开发项目/1. 调试.md"
               }
             }
           },
@@ -193,12 +193,12 @@
   },
   "active": "8e572c229a65a0ad",
   "lastOpenFiles": [
+    "CS与后端开发/Go开发项目/2. 相关curl操作.md",
     "CS与后端开发/Go开发项目/3. Go项目设计分层思想.md",
     "Idea/云服务器.md",
     "Idea",
     "Memos/2023-07-02.md",
     "小册《程序员的必修课》/18. 优化网络请求.md",
-    "CS与后端开发/Go开发项目/2. 相关curl操作.md",
     "CS与后端开发/Go开发项目/未命名",
     "CS与后端开发/Go开发项目/1. 调试.md",
     "小册《程序员的必修课》/23. 脱离设计模式的架构思想.md",
