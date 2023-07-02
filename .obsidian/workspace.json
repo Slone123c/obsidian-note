@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS与后端开发/Go开发项目/1. 调试.md",
+                "file": "Idea/云服务器.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS与后端开发/Go开发项目/1. 调试.md",
+                "file": "Idea/云服务器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS与后端开发/Go开发项目/1. 调试.md",
+                "file": "Idea/云服务器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS与后端开发/Go开发项目/1. 调试.md"
+                "file": "Idea/云服务器.md"
               }
             }
           },
@@ -193,18 +193,18 @@
   },
   "active": "8e572c229a65a0ad",
   "lastOpenFiles": [
+    "CS与后端开发/Go开发项目/1. 调试.md",
     "CS与后端开发/Go开发项目/2. 相关curl操作.md",
-    "CS与后端开发/Go开发项目/3. Go项目设计分层思想.md",
+    "小册《程序员的必修课》/21. 设计原则.md",
     "Idea/云服务器.md",
+    "CS与后端开发/Go开发项目/3. Go项目设计分层思想.md",
     "Idea",
     "Memos/2023-07-02.md",
     "小册《程序员的必修课》/18. 优化网络请求.md",
     "CS与后端开发/Go开发项目/未命名",
-    "CS与后端开发/Go开发项目/1. 调试.md",
     "小册《程序员的必修课》/23. 脱离设计模式的架构思想.md",
     "CS与后端开发/Go开发项目",
     "小册《程序员的必修课》/22. 设计模式简介.md",
-    "小册《程序员的必修课》/21. 设计原则.md",
     "20. 单一职责原则.md",
     "小册《程序员的必修课》/17. TCP 和 UDP.md",
     "英语/韦氏词典/Unit 1.md",

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "云服务器",
+      "path": "Idea/云服务器.md"
+    },
+    {
       "basename": "1. 调试",
       "path": "CS与后端开发/Go开发项目/1. 调试.md"
     },
@@ -9,12 +13,12 @@
       "path": "CS与后端开发/Go开发项目/2. 相关curl操作.md"
     },
     {
-      "basename": "3. Go项目设计分层思想",
-      "path": "CS与后端开发/Go开发项目/3. Go项目设计分层思想.md"
+      "basename": "21. 设计原则",
+      "path": "小册《程序员的必修课》/21. 设计原则.md"
     },
     {
-      "basename": "云服务器",
-      "path": "Idea/云服务器.md"
+      "basename": "3. Go项目设计分层思想",
+      "path": "CS与后端开发/Go开发项目/3. Go项目设计分层思想.md"
     },
     {
       "basename": "2023-07-02",
@@ -31,10 +35,6 @@
     {
       "basename": "22. 设计模式简介",
       "path": "小册《程序员的必修课》/22. 设计模式简介.md"
-    },
-    {
-      "basename": "21. 设计原则",
-      "path": "小册《程序员的必修课》/21. 设计原则.md"
     },
     {
       "basename": "17. TCP 和 UDP",
