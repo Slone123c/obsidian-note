@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1. 调试",
+      "path": "CS与后端开发/Go开发项目/1. 调试.md"
+    },
+    {
       "basename": "5. 如何构建一个 GO 应用",
       "path": "CS与后端开发/Go开发项目/5. 如何构建一个 GO 应用.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "云服务器",
       "path": "Idea/云服务器.md"
-    },
-    {
-      "basename": "1. 调试",
-      "path": "CS与后端开发/Go开发项目/1. 调试.md"
     },
     {
       "basename": "2. 相关curl操作",
