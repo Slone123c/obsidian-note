@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "5. 如何构建一个 GO 应用",
+      "path": "CS与后端开发/Go开发项目/5. 如何构建一个 GO 应用.md"
+    },
+    {
       "basename": "云服务器",
       "path": "Idea/云服务器.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Ch4 列属性",
       "path": "CS与后端开发/SQL Review/Ch4 列属性.md"
-    },
-    {
-      "basename": "Ch3 Inner Join 内连接 Outer Join 外连接",
-      "path": "CS与后端开发/SQL Review/Ch3 Inner Join 内连接 Outer Join 外连接.md"
     }
   ],
   "omittedPaths": [],
