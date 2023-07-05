@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS与后端开发/Go开发项目/1. 调试.md",
+                "file": "CS与后端开发/Go开发项目/7. 日志的设计与记录.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS与后端开发/Go开发项目/1. 调试.md",
+                "file": "CS与后端开发/Go开发项目/7. 日志的设计与记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS与后端开发/Go开发项目/1. 调试.md",
+                "file": "CS与后端开发/Go开发项目/7. 日志的设计与记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS与后端开发/Go开发项目/1. 调试.md"
+                "file": "CS与后端开发/Go开发项目/7. 日志的设计与记录.md"
               }
             }
           },
@@ -193,13 +193,13 @@
   },
   "active": "8e572c229a65a0ad",
   "lastOpenFiles": [
+    "CS与后端开发/Go开发项目/1. 调试.md",
     "CS与后端开发/Go开发项目/2. 相关curl操作部署项目.md",
     "CS与后端开发/Go开发项目/7. 日志的设计与记录.md",
     "CS与后端开发/Go开发项目/6. 如何读取应用配置.md",
     "CS与后端开发/Go开发项目/5. 如何构建一个 GO 应用.md",
     "CS与后端开发/Go开发项目/相关词语解释.md",
     "ForexT/Forex 分析报告/7.5.md",
-    "CS与后端开发/Go开发项目/1. 调试.md",
     "Idea/云服务器.md",
     "小册《程序员的必修课》/21. 设计原则.md",
     "CS与后端开发/Go开发项目/3. Go项目设计分层思想.md",
