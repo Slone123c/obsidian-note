@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ForexT/Forex 分析报告/7.5.md",
+                "file": "CS与后端开发/Go开发项目/6. 如何读取应用配置.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ForexT/Forex 分析报告/7.5.md",
+                "file": "CS与后端开发/Go开发项目/6. 如何读取应用配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ForexT/Forex 分析报告/7.5.md",
+                "file": "CS与后端开发/Go开发项目/6. 如何读取应用配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ForexT/Forex 分析报告/7.5.md"
+                "file": "CS与后端开发/Go开发项目/6. 如何读取应用配置.md"
               }
             }
           },
@@ -193,10 +193,11 @@
   },
   "active": "8e572c229a65a0ad",
   "lastOpenFiles": [
-    "CS与后端开发/Go开发项目/1. 调试.md",
-    "ForexT/Forex 分析报告/7.5.md",
     "CS与后端开发/Go开发项目/5. 如何构建一个 GO 应用.md",
+    "CS与后端开发/Go开发项目/6. 如何读取应用配置.md",
     "CS与后端开发/Go开发项目/相关词语解释.md",
+    "ForexT/Forex 分析报告/7.5.md",
+    "CS与后端开发/Go开发项目/1. 调试.md",
     "Idea/云服务器.md",
     "CS与后端开发/Go开发项目/2. 相关curl操作.md",
     "小册《程序员的必修课》/21. 设计原则.md",
@@ -228,7 +229,6 @@
     "ForexT/Forex 分析报告/4.21.md",
     "ForexT/Forex 分析报告/4.25.md",
     "templates/题目.md",
-    "ForexT/交易指标/EMA 指数移动平均线(Exponential Moving Average).md",
     "小册《程序员的必修课》",
     "英语/新东方高中绿宝书",
     "Excalidraw",

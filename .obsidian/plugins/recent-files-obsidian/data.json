@@ -1,12 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "7.5",
-      "path": "ForexT/Forex 分析报告/7.5.md"
-    },
-    {
-      "basename": "1. 调试",
-      "path": "CS与后端开发/Go开发项目/1. 调试.md"
+      "basename": "6. 如何读取应用配置",
+      "path": "CS与后端开发/Go开发项目/6. 如何读取应用配置.md"
     },
     {
       "basename": "5. 如何构建一个 GO 应用",
@@ -15,6 +11,14 @@
     {
       "basename": "相关词语解释",
       "path": "CS与后端开发/Go开发项目/相关词语解释.md"
+    },
+    {
+      "basename": "7.5",
+      "path": "ForexT/Forex 分析报告/7.5.md"
+    },
+    {
+      "basename": "1. 调试",
+      "path": "CS与后端开发/Go开发项目/1. 调试.md"
     },
     {
       "basename": "云服务器",
@@ -195,10 +199,6 @@
     {
       "basename": "实习经历描述",
       "path": "杂项/实习经历描述.md"
-    },
-    {
-      "basename": "Ch26. 并发：介绍",
-      "path": "CS与后端开发/操作系统/OSTEP/Ch26. 并发：介绍.md"
     }
   ],
   "omittedPaths": [],
