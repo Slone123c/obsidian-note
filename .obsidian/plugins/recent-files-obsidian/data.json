@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "1. 调试",
+      "path": "CS与后端开发/Go开发项目/1. 调试.md"
+    },
+    {
+      "basename": "2. 相关curl操作部署项目",
+      "path": "CS与后端开发/Go开发项目/2. 相关curl操作部署项目.md"
+    },
+    {
+      "basename": "7. 日志的设计与记录",
+      "path": "CS与后端开发/Go开发项目/7. 日志的设计与记录.md"
+    },
+    {
       "basename": "6. 如何读取应用配置",
       "path": "CS与后端开发/Go开发项目/6. 如何读取应用配置.md"
     },
@@ -17,16 +29,8 @@
       "path": "ForexT/Forex 分析报告/7.5.md"
     },
     {
-      "basename": "1. 调试",
-      "path": "CS与后端开发/Go开发项目/1. 调试.md"
-    },
-    {
       "basename": "云服务器",
       "path": "Idea/云服务器.md"
-    },
-    {
-      "basename": "2. 相关curl操作",
-      "path": "CS与后端开发/Go开发项目/2. 相关curl操作.md"
     },
     {
       "basename": "21. 设计原则",
@@ -195,10 +199,6 @@
     {
       "basename": "演讲稿",
       "path": "杂项/演讲稿.md"
-    },
-    {
-      "basename": "实习经历描述",
-      "path": "杂项/实习经历描述.md"
     }
   ],
   "omittedPaths": [],
