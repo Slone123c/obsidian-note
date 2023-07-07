@@ -11,8 +11,12 @@
             "id": "8497c19ee1da1e86",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CS与后端开发/Go开发项目/8. 基础功能：添加版本信息方便排查.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -97,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS与后端开发/Go开发项目/8. 基础功能：添加版本信息方便排查.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS与后端开发/Go开发项目/8. 基础功能：添加版本信息方便排查.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS与后端开发/Go开发项目/8. 基础功能：添加版本信息方便排查.md"
+              }
             }
           },
           {
@@ -183,8 +191,9 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "8497c19ee1da1e86",
+  "active": "a73ef327d89c9de8",
   "lastOpenFiles": [
+    "CS与后端开发/Go开发项目/相关词语解释.md",
     "Idea/云服务器.md",
     "小册《程序员的必修课》/23. 脱离设计模式的架构思想.md",
     "英语/新东方高中绿宝书/Word List 1.md",
@@ -202,7 +211,6 @@
     "CS与后端开发/Go开发项目/2. 相关curl操作部署项目.md",
     "CS与后端开发/Go开发项目/6. 如何读取应用配置.md",
     "CS与后端开发/Go开发项目/5. 如何构建一个 GO 应用.md",
-    "CS与后端开发/Go开发项目/相关词语解释.md",
     "ForexT/Forex 分析报告/7.5.md",
     "小册《程序员的必修课》/21. 设计原则.md",
     "CS与后端开发/Go开发项目/3. Go项目设计分层思想.md",
