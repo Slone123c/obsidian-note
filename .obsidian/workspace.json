@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS与后端开发/Go开发项目/7. 日志的设计与记录.md",
+                "file": "CS与后端开发/Go开发项目/8. 基础功能：添加版本信息方便排查.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS与后端开发/Go开发项目/7. 日志的设计与记录.md",
+                "file": "CS与后端开发/Go开发项目/8. 基础功能：添加版本信息方便排查.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS与后端开发/Go开发项目/7. 日志的设计与记录.md",
+                "file": "CS与后端开发/Go开发项目/8. 基础功能：添加版本信息方便排查.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS与后端开发/Go开发项目/7. 日志的设计与记录.md"
+                "file": "CS与后端开发/Go开发项目/8. 基础功能：添加版本信息方便排查.md"
               }
             }
           },
@@ -193,9 +193,10 @@
   },
   "active": "8e572c229a65a0ad",
   "lastOpenFiles": [
+    "CS与后端开发/Go开发项目/7. 基础功能：日志的设计与记录.md",
+    "CS与后端开发/Go开发项目/8. 基础功能：添加版本信息方便排查.md",
     "CS与后端开发/Go开发项目/1. 调试.md",
     "CS与后端开发/Go开发项目/2. 相关curl操作部署项目.md",
-    "CS与后端开发/Go开发项目/7. 日志的设计与记录.md",
     "CS与后端开发/Go开发项目/6. 如何读取应用配置.md",
     "CS与后端开发/Go开发项目/5. 如何构建一个 GO 应用.md",
     "CS与后端开发/Go开发项目/相关词语解释.md",
@@ -228,7 +229,6 @@
     "Pasted image 20230616192631.png",
     "CS与后端开发/Algorithm Practice/剑指Offer II/双指针专题 014 - 017.md",
     "ForexT/Forex 分析报告/4.21.md",
-    "ForexT/Forex 分析报告/4.25.md",
     "小册《程序员的必修课》",
     "英语/新东方高中绿宝书",
     "Excalidraw",
