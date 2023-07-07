@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "云服务器",
+      "path": "Idea/云服务器.md"
+    },
+    {
+      "basename": "23. 脱离设计模式的架构思想",
+      "path": "小册《程序员的必修课》/23. 脱离设计模式的架构思想.md"
+    },
+    {
+      "basename": "Word List 1",
+      "path": "英语/新东方高中绿宝书/Word List 1.md"
+    },
+    {
+      "basename": "Namespace",
+      "path": "CS与后端开发/操作系统/Namespace.md"
+    },
+    {
+      "basename": "双指针专题 014 - 017",
+      "path": "CS与后端开发/Algorithm Practice/剑指Offer II/双指针专题 014 - 017.md"
+    },
+    {
+      "basename": "1. 调试",
+      "path": "CS与后端开发/Go开发项目/1. 调试.md"
+    },
+    {
+      "basename": "简历备份",
+      "path": "CS与后端开发/简历备份.md"
+    },
+    {
+      "basename": "Cgroup",
+      "path": "CS与后端开发/操作系统/Cgroup.md"
+    },
+    {
       "basename": "3 线性回归模型",
       "path": "CS与后端开发/Machine Learning Draft/3 线性回归模型.md"
     },
@@ -25,10 +57,6 @@
       "path": "CS与后端开发/Go开发项目/7. 基础功能：日志的设计与记录.md"
     },
     {
-      "basename": "1. 调试",
-      "path": "CS与后端开发/Go开发项目/1. 调试.md"
-    },
-    {
       "basename": "2. 相关curl操作部署项目",
       "path": "CS与后端开发/Go开发项目/2. 相关curl操作部署项目.md"
     },
@@ -49,10 +77,6 @@
       "path": "ForexT/Forex 分析报告/7.5.md"
     },
     {
-      "basename": "云服务器",
-      "path": "Idea/云服务器.md"
-    },
-    {
       "basename": "21. 设计原则",
       "path": "小册《程序员的必修课》/21. 设计原则.md"
     },
@@ -69,10 +93,6 @@
       "path": "小册《程序员的必修课》/18. 优化网络请求.md"
     },
     {
-      "basename": "23. 脱离设计模式的架构思想",
-      "path": "小册《程序员的必修课》/23. 脱离设计模式的架构思想.md"
-    },
-    {
       "basename": "22. 设计模式简介",
       "path": "小册《程序员的必修课》/22. 设计模式简介.md"
     },
@@ -83,10 +103,6 @@
     {
       "basename": "Unit 1",
       "path": "英语/韦氏词典/Unit 1.md"
-    },
-    {
-      "basename": "Word List 1",
-      "path": "英语/新东方高中绿宝书/Word List 1.md"
     },
     {
       "basename": "未命名",
@@ -107,14 +123,6 @@
     {
       "basename": "10.数据结构特性",
       "path": "小册《程序员的必修课》/10.数据结构特性.md"
-    },
-    {
-      "basename": "简历备份",
-      "path": "CS与后端开发/简历备份.md"
-    },
-    {
-      "basename": "双指针专题 014 - 017",
-      "path": "CS与后端开发/Algorithm Practice/剑指Offer II/双指针专题 014 - 017.md"
     },
     {
       "basename": "4.21",
@@ -139,10 +147,6 @@
     {
       "basename": "Ch27. 插叙：线程API",
       "path": "CS与后端开发/操作系统/OSTEP/Ch27. 插叙：线程API.md"
-    },
-    {
-      "basename": "Cgroup",
-      "path": "CS与后端开发/操作系统/Cgroup.md"
     },
     {
       "basename": "word",
@@ -171,10 +175,6 @@
     {
       "basename": "Drawing 2023-06-07 13.44.45.excalidraw",
       "path": "Excalidraw/Drawing 2023-06-07 13.44.45.excalidraw.md"
-    },
-    {
-      "basename": "Namespace",
-      "path": "CS与后端开发/操作系统/Namespace.md"
     },
     {
       "basename": "2023-06-07",

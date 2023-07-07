@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS与后端开发/Machine Learning Draft/3 线性回归模型.md",
+                "file": "Idea/云服务器.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS与后端开发/Machine Learning Draft/3 线性回归模型.md",
+                "file": "Idea/云服务器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS与后端开发/Machine Learning Draft/3 线性回归模型.md",
+                "file": "Idea/云服务器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS与后端开发/Machine Learning Draft/3 线性回归模型.md"
+                "file": "Idea/云服务器.md"
               }
             }
           },
@@ -193,12 +193,19 @@
   },
   "active": "8e572c229a65a0ad",
   "lastOpenFiles": [
+    "小册《程序员的必修课》/23. 脱离设计模式的架构思想.md",
+    "英语/新东方高中绿宝书/Word List 1.md",
+    "CS与后端开发/操作系统/Namespace.md",
+    "CS与后端开发/Algorithm Practice/剑指Offer II/双指针专题 014 - 017.md",
+    "CS与后端开发/Go开发项目/1. 调试.md",
+    "CS与后端开发/简历备份.md",
+    "CS与后端开发/操作系统/Cgroup.md",
+    "CS与后端开发/Machine Learning Draft/3 线性回归模型.md",
     "CS与后端开发/Machine Learning Draft/2.3 无监督学习.md",
     "CS与后端开发/Machine Learning Draft/2.2 监督学习 supervised learning.md",
     "CS与后端开发/Machine Learning Draft/2.1 机器学习定义.md",
     "CS与后端开发/Go开发项目/8. 基础功能：添加版本信息方便排查.md",
     "CS与后端开发/Go开发项目/7. 基础功能：日志的设计与记录.md",
-    "CS与后端开发/Go开发项目/1. 调试.md",
     "CS与后端开发/Go开发项目/2. 相关curl操作部署项目.md",
     "CS与后端开发/Go开发项目/6. 如何读取应用配置.md",
     "CS与后端开发/Go开发项目/5. 如何构建一个 GO 应用.md",
@@ -211,22 +218,15 @@
     "Memos/2023-07-02.md",
     "小册《程序员的必修课》/18. 优化网络请求.md",
     "CS与后端开发/Go开发项目/未命名",
-    "小册《程序员的必修课》/23. 脱离设计模式的架构思想.md",
     "CS与后端开发/Go开发项目",
     "小册《程序员的必修课》/22. 设计模式简介.md",
     "20. 单一职责原则.md",
     "小册《程序员的必修课》/17. TCP 和 UDP.md",
-    "英语/韦氏词典/Unit 1.md",
-    "英语/新东方高中绿宝书/Word List 1.md",
     "未命名.canvas",
     "英语/韦氏词典",
-    "1. 装机文案.md",
     "未命名 1.canvas",
     "Pasted image 20230618145826.png",
     "Pasted image 20230618145823.png",
-    "小册《程序员的必修课》/3.位运算.md",
-    "小册《程序员的必修课》/7.优化程序流.md",
-    "小册《程序员的必修课》/10.数据结构特性.md",
     "Pasted image 20230617125845.png",
     "Pasted image 20230616192631.png",
     "小册《程序员的必修课》",
