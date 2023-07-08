@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "9. 基础功能：开发简单的 Web 服务",
+      "path": "CS与后端开发/Go开发项目/9. 基础功能：开发简单的 Web 服务.md"
+    },
+    {
       "basename": "8. 基础功能：添加版本信息方便排查",
       "path": "CS与后端开发/Go开发项目/8. 基础功能：添加版本信息方便排查.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "5.9",
       "path": "英语/New Vocabulary/5.9.md"
-    },
-    {
-      "basename": "Pasted image 20230502194611",
-      "path": "Images/Pasted image 20230502194611.png"
     }
   ],
   "omittedPaths": [],

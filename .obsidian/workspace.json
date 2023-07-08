@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS与后端开发/Go开发项目/8. 基础功能：添加版本信息方便排查.md",
+                "file": "CS与后端开发/Go开发项目/9. 基础功能：开发简单的 Web 服务.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS与后端开发/Go开发项目/8. 基础功能：添加版本信息方便排查.md",
+                "file": "CS与后端开发/Go开发项目/9. 基础功能：开发简单的 Web 服务.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS与后端开发/Go开发项目/8. 基础功能：添加版本信息方便排查.md",
+                "file": "CS与后端开发/Go开发项目/9. 基础功能：开发简单的 Web 服务.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS与后端开发/Go开发项目/8. 基础功能：添加版本信息方便排查.md"
+                "file": "CS与后端开发/Go开发项目/9. 基础功能：开发简单的 Web 服务.md"
               }
             }
           },
@@ -191,8 +191,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "a73ef327d89c9de8",
+  "active": "8497c19ee1da1e86",
   "lastOpenFiles": [
+    "CS与后端开发/Go开发项目/8. 基础功能：添加版本信息方便排查.md",
+    "CS与后端开发/Go开发项目/9. 基础功能：开发简单的 Web 服务.md",
     "CS与后端开发/Go开发项目/相关词语解释.md",
     "Idea/云服务器.md",
     "小册《程序员的必修课》/23. 脱离设计模式的架构思想.md",
@@ -206,7 +208,6 @@
     "CS与后端开发/Machine Learning Draft/2.3 无监督学习.md",
     "CS与后端开发/Machine Learning Draft/2.2 监督学习 supervised learning.md",
     "CS与后端开发/Machine Learning Draft/2.1 机器学习定义.md",
-    "CS与后端开发/Go开发项目/8. 基础功能：添加版本信息方便排查.md",
     "CS与后端开发/Go开发项目/7. 基础功能：日志的设计与记录.md",
     "CS与后端开发/Go开发项目/2. 相关curl操作部署项目.md",
     "CS与后端开发/Go开发项目/6. 如何读取应用配置.md",
@@ -221,7 +222,6 @@
     "CS与后端开发/Go开发项目",
     "小册《程序员的必修课》/22. 设计模式简介.md",
     "20. 单一职责原则.md",
-    "小册《程序员的必修课》/17. TCP 和 UDP.md",
     "未命名.canvas",
     "英语/韦氏词典",
     "未命名 1.canvas",
