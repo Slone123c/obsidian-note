@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "10. 基础功能：Web 服务添加中间件、跨域、关停",
+      "path": "CS与后端开发/Go开发项目/10. 基础功能：Web 服务添加中间件、跨域、关停.md"
+    },
+    {
       "basename": "9. 基础功能：开发简单的 Web 服务",
       "path": "CS与后端开发/Go开发项目/9. 基础功能：开发简单的 Web 服务.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "delete",
       "path": "Memos/delete.md"
-    },
-    {
-      "basename": "5.9",
-      "path": "英语/New Vocabulary/5.9.md"
     }
   ],
   "omittedPaths": [],
