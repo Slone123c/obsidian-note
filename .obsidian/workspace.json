@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS与后端开发/Go开发项目/11. 基础功能：返回错误码.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS与后端开发/Go开发项目/11. 基础功能：返回错误码.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS与后端开发/Go开发项目/11. 基础功能：返回错误码.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS与后端开发/Go开发项目/11. 基础功能：返回错误码.md"
+                "file": "README.md"
               }
             }
           },
@@ -193,8 +193,8 @@
   },
   "active": "8497c19ee1da1e86",
   "lastOpenFiles": [
-    "CS与后端开发/Go开发项目/10. 基础功能：Web 服务添加中间件、跨域、关停.md",
     "CS与后端开发/Go开发项目/11. 基础功能：返回错误码.md",
+    "CS与后端开发/Go开发项目/10. 基础功能：Web 服务添加中间件、跨域、关停.md",
     "Pasted image 20230708163809.png",
     "CS与后端开发/Go开发项目/9. 基础功能：开发简单的 Web 服务.md",
     "CS与后端开发/Go开发项目/相关词语解释.md",
