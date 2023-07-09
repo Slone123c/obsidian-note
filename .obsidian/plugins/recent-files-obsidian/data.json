@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "11. 基础功能：返回错误码",
+      "path": "CS与后端开发/Go开发项目/11. 基础功能：返回错误码.md"
+    },
+    {
       "basename": "10. 基础功能：Web 服务添加中间件、跨域、关停",
       "path": "CS与后端开发/Go开发项目/10. 基础功能：Web 服务添加中间件、跨域、关停.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2023-04-20",
       "path": "Memos/2023-04-20.md"
-    },
-    {
-      "basename": "delete",
-      "path": "Memos/delete.md"
     }
   ],
   "omittedPaths": [],
