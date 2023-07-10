@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "CS与后端开发/cs144/lab0.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5,
-    "collapsed": true
+    "width": 260.5
   },
   "right": {
     "id": "866d5bc450ccd2ae",
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "CS与后端开发/cs144/lab0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "CS与后端开发/cs144/lab0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "CS与后端开发/cs144/lab0.md"
               }
             }
           },
@@ -194,6 +193,13 @@
   },
   "active": "8497c19ee1da1e86",
   "lastOpenFiles": [
+    "CS与后端开发/Go开发项目/1. 调试.md",
+    "CS与后端开发/cs144/lab0.md",
+    "CS与后端开发/cs144",
+    "未命名 2.canvas",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "README.md",
     "CS与后端开发/Go开发项目/11. 基础功能：返回错误码.md",
     "CS与后端开发/Go开发项目/10. 基础功能：Web 服务添加中间件、跨域、关停.md",
     "Pasted image 20230708163809.png",
@@ -205,7 +211,6 @@
     "英语/新东方高中绿宝书/Word List 1.md",
     "CS与后端开发/操作系统/Namespace.md",
     "CS与后端开发/Algorithm Practice/剑指Offer II/双指针专题 014 - 017.md",
-    "CS与后端开发/Go开发项目/1. 调试.md",
     "CS与后端开发/简历备份.md",
     "CS与后端开发/操作系统/Cgroup.md",
     "CS与后端开发/Machine Learning Draft/3 线性回归模型.md",
@@ -220,13 +225,9 @@
     "小册《程序员的必修课》/21. 设计原则.md",
     "CS与后端开发/Go开发项目/3. Go项目设计分层思想.md",
     "Idea",
-    "Memos/2023-07-02.md",
-    "小册《程序员的必修课》/18. 优化网络请求.md",
     "CS与后端开发/Go开发项目/未命名",
     "CS与后端开发/Go开发项目",
-    "未命名.canvas",
     "英语/韦氏词典",
-    "未命名 1.canvas",
     "Pasted image 20230618145826.png",
     "Pasted image 20230618145823.png",
     "Pasted image 20230617125845.png",
@@ -237,11 +238,9 @@
     "英语",
     "CS与后端开发",
     "Images/Pasted image 20230502194611.png",
-    "ForexT",
     "Images/Pasted image 20230502194623.png",
     "Images/Pasted image 20230518210014.png",
     "Images/Pasted image 20230525135349.png",
-    "Images/Pasted image 20230507183347.png",
-    "未命名 2.canvas"
+    "Images/Pasted image 20230507183347.png"
   ]
 }

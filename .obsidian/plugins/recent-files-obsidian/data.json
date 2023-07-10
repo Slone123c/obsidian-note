@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "lab0",
+      "path": "CS与后端开发/cs144/lab0.md"
+    },
+    {
+      "basename": "1. 调试",
+      "path": "CS与后端开发/Go开发项目/1. 调试.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
@@ -43,10 +51,6 @@
     {
       "basename": "双指针专题 014 - 017",
       "path": "CS与后端开发/Algorithm Practice/剑指Offer II/双指针专题 014 - 017.md"
-    },
-    {
-      "basename": "1. 调试",
-      "path": "CS与后端开发/Go开发项目/1. 调试.md"
     },
     {
       "basename": "简历备份",
@@ -121,10 +125,6 @@
       "path": "英语/韦氏词典/Unit 1.md"
     },
     {
-      "basename": "未命名",
-      "path": "未命名.canvas"
-    },
-    {
       "basename": "1. 装机文案",
       "path": "1. 装机文案.md"
     },
@@ -191,14 +191,6 @@
     {
       "basename": "2023-06-07",
       "path": "Memos/2023-06-07.md"
-    },
-    {
-      "basename": "Drawing 2023-06-07 13.44.47.excalidraw",
-      "path": "Excalidraw/Drawing 2023-06-07 13.44.47.excalidraw.md"
-    },
-    {
-      "basename": "2023-04-20",
-      "path": "Memos/2023-04-20.md"
     }
   ],
   "omittedPaths": [],
