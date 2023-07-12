@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS与后端开发/Go开发项目/12. 业务架构：如何设计、开发简洁架构.md",
+                "file": "CS与后端开发/Go开发项目/相关词语解释.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS与后端开发/Go开发项目/12. 业务架构：如何设计、开发简洁架构.md",
+                "file": "CS与后端开发/Go开发项目/相关词语解释.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS与后端开发/Go开发项目/12. 业务架构：如何设计、开发简洁架构.md",
+                "file": "CS与后端开发/Go开发项目/相关词语解释.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS与后端开发/Go开发项目/12. 业务架构：如何设计、开发简洁架构.md"
+                "file": "CS与后端开发/Go开发项目/相关词语解释.md"
               }
             }
           },
@@ -193,10 +193,11 @@
   },
   "active": "8497c19ee1da1e86",
   "lastOpenFiles": [
+    "CS与后端开发/Go开发项目/3. Go项目设计分层思想.md",
+    "CS与后端开发/Go开发项目/12. 业务架构：如何设计、开发简洁架构.md",
     "Pasted image 20230712135914.png",
     "CS与后端开发/Go开发项目/11. 基础功能：返回错误码.md",
     "CS与后端开发/Go开发项目/10. 基础功能：Web 服务添加中间件、跨域、关停.md",
-    "CS与后端开发/Go开发项目/12. 业务架构：如何设计、开发简洁架构.md",
     "CS与后端开发/Go开发项目/相关词语解释.md",
     "CS与后端开发/cs144/lab0.md",
     "CS与后端开发/Go开发项目/1. 调试.md",
@@ -240,7 +241,6 @@
     "Images/Pasted image 20230502194611.png",
     "Images/Pasted image 20230502194623.png",
     "Images/Pasted image 20230518210014.png",
-    "Images/Pasted image 20230525135349.png",
-    "Images/Pasted image 20230507183347.png"
+    "Images/Pasted image 20230525135349.png"
   ]
 }
