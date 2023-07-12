@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ForexT/非农就业数据.md",
+                "file": "CS与后端开发/Go开发项目/12. 业务架构：如何设计、开发简洁架构.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ForexT/非农就业数据.md",
+                "file": "CS与后端开发/Go开发项目/12. 业务架构：如何设计、开发简洁架构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ForexT/非农就业数据.md",
+                "file": "CS与后端开发/Go开发项目/12. 业务架构：如何设计、开发简洁架构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ForexT/非农就业数据.md"
+                "file": "CS与后端开发/Go开发项目/12. 业务架构：如何设计、开发简洁架构.md"
               }
             }
           },
@@ -193,10 +193,10 @@
   },
   "active": "8497c19ee1da1e86",
   "lastOpenFiles": [
+    "ForexT/非农就业数据.md",
     "Pasted image 20230712164636.png",
     "Pasted image 20230712164609.png",
     "CS与后端开发/Go开发项目/相关词语解释.md",
-    "ForexT/非农就业数据.md",
     "CS与后端开发/Go开发项目/3. Go项目设计分层思想.md",
     "CS与后端开发/Go开发项目/12. 业务架构：如何设计、开发简洁架构.md",
     "Pasted image 20230712135914.png",
@@ -240,7 +240,6 @@
     "英语",
     "CS与后端开发",
     "Images/Pasted image 20230502194611.png",
-    "Images/Pasted image 20230502194623.png",
-    "Images/Pasted image 20230518210014.png"
+    "Images/Pasted image 20230502194623.png"
   ]
 }
